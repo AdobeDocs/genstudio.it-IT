@@ -3,9 +3,9 @@ title: Personalizzare i modelli
 description: Scopri come creare un modello personalizzato per GenStudio.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '788'
 ht-degree: 0%
 
 ---
@@ -15,12 +15,8 @@ ht-degree: 0%
 
 Puoi adattare i tuoi modelli di HTML per GenStudio utilizzando il linguaggio di modelli _Handlebars_. La sintassi Handlebars utilizza testo normale con doppie parentesi graffe come segnaposto di contenuto. Per informazioni su come preparare il modello, consulta [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) nella _Guida del linguaggio Handlebars_.
 
-## Struttura del modello
-
 <!-- This is for email. In the future, maybe use tabs to provide guidance for other template types.
--->
-
-Se non disponi di un modello di HTML pronto per l&#39;uso in GenStudio, puoi iniziare definendo la struttura dell&#39;e-mail utilizzando i tag di HTML: `DOCTYPE`, `html`, `head` e `body`. Puoi includere stili CSS per personalizzare l’aspetto del messaggio e-mail.
+-->If you do not have an HTML template ready to use in GenStudio, you can start by defining the structure of your email using HTML tags: `DOCTYPE`, `html`, `head`, and `body`. You can include CSS styles to customize the appearance of your email.
 
 ```html
 <!DOCTYPE html>
@@ -35,13 +31,15 @@ Se non disponi di un modello di HTML pronto per l&#39;uso in GenStudio, puoi ini
 </html>
 ```
 
+Vedi [Esempi di modelli](#template-examples).
+
 >[!TIP]
 >
->Nelle sezioni successive, aggiungi segnaposto di contenuto per i campi e-mail, nascondi gli elementi non necessari dall’anteprima e gestisci i collegamenti al contenuto statico. Quando il modello è pronto, puoi [caricarlo in GenStudio](use-templates.md#upload-a-template) e iniziare a generare e-mail personalizzate in base al modello personalizzato.
+>Nelle sezioni successive, aggiungi segnaposto di contenuto per i campi e-mail, vedi modelli di esempio, nascondi elementi non necessari dall’anteprima e gestisci collegamenti a contenuto statico. Quando il modello è pronto, puoi [caricarlo in GenStudio](use-templates.md#upload-a-template) e iniziare a generare e-mail personalizzate in base al modello personalizzato.
 
 ## Segnaposto di contenuto
 
-All’interno dell’intestazione o del corpo del modello, puoi utilizzare la sintassi Handlebars per inserire segnaposto di contenuto in cui è necessario che GenStudio compili l’e-mail con il contenuto effettivo. GenStudio riconosce e interpreta automaticamente i segnaposto di contenuto in base al nome del campo.
+All’interno dell’intestazione o del corpo di un modello, puoi utilizzare la sintassi Handlebars per inserire segnaposto di contenuto in cui è necessario che GenStudio compili il modello con il contenuto effettivo. GenStudio riconosce e interpreta automaticamente i segnaposto di contenuto in base al nome del campo.
 
 Ad esempio, puoi utilizzare `{{ headline }}` per indicare dove deve essere posizionato il titolo dell&#39;e-mail:
 
@@ -49,27 +47,68 @@ Ad esempio, puoi utilizzare `{{ headline }}` per indicare dove deve essere posiz
 <div>{{ headline }}</div>
 ```
 
+### Nomi di campo
+
 Il numero massimo di campi consentiti in un modello personalizzato è venti.
 
-**Nomi di campi riconosciuti**:
+#### Nomi di campi riconosciuti
+
+Nella tabella seguente sono elencati i nomi dei campi riconosciuti da GenStudio per il popolamento in modelli.
 
 | Campo | Ruolo | Modello canale |
 | -------------- | ---------------------- | -------------------- |
-| `pre_header` | Pre header | email |
-| `headline` | Titolo | e-mail<br>annuncio social |
-| `body` | Corpo del testo | e-mail<br>annuncio social |
-| `cta` | Invito all’azione | e-mail<br>annuncio social |
-| `on_image_text` | Su testo immagine | annuncio social |
-| `image` | Immagine | e-mail<br>annuncio social |
-| `brand_logo` | Logo del marchio selezionato | annuncio social |
+| `pre_header` | Pre header | e-mail (consigliato) |
+| `headline` | Titolo | e-mail (consigliato)<br>Annuncio metadati |
+| `body` | Corpo del testo | e-mail (consigliato)<br>Annuncio metadati |
+| `cta` | Invito all’azione | e-mail (consigliato)<br>Annuncio metadati |
+| `on_image_text` | Su testo immagine | Meta annuncio (consigliato) |
+| `image` | Immagine | e-mail (consigliato)<br>Annuncio metadati (consigliato) |
+| `brand_logo` | Logo del marchio selezionato | Meta annuncio |
 
->[!IMPORTANT]
+GenStudio compila automaticamente alcuni campi nei modelli, pertanto non è necessario includerli nelle progettazioni dei modelli:
+
+* Campo `subject` (modello e-mail)
+* Campi `headline`, `body` e `CTA` (modello di annunci multimediali)
+
+>[!WARNING]
 >
->GenStudio fornisce automaticamente al modello di posta elettronica un campo `subject` durante il processo [!DNL Create], pertanto non è necessario includere il campo oggetto nel modello di posta elettronica.
+>Per gli annunci Instagram, il titolo generato non viene visualizzato nell’esperienza finale.
 
-+++Esempio: modello di base
+#### Nomi di campi manuali
 
-Di seguito è riportato un esempio di base di un modello HTML per l’e-mail. L’intestazione contiene CSS semplice e in linea per lo stile. Il corpo contiene un segnaposto `pre-header`, `headline` e `image` per l&#39;inserimento di contenuto da parte di GenStudio durante il processo di generazione dell&#39;e-mail.
+Tutti gli altri nomi di campo vengono trattati come campi popolati manualmente. Se si desidera che una sezione sia modificabile, aggiungere parentesi doppie intorno alla sezione che si desidera modificare.
+
+> Esempio: ``{{customVariable}}`` (customVariable è la sezione modificabile manualmente)
+
+## Sezioni o gruppi
+
+_Sezioni_ informano GenStudio che i campi in questa sezione richiedono un elevato grado di coerenza. Stabilire questa relazione aiuta l’intelligenza artificiale a generare contenuti che corrispondono agli elementi creativi della sezione.
+
+Utilizzare il prefisso desiderato nel nome del campo per indicare che un campo fa parte di una sezione o di un gruppo.
+
+Ad esempio, potrebbe essere utile evidenziare il contenuto visualizzato in un&#39;area evidenziata:
+
+* `spotlight_headline`
+* `spotlight_body`
+
+Ogni sezione può avere un solo tipo di campo. Nell&#39;esempio precedente, il prefisso `spotlight` può avere un solo campo `spotlight_headline`.
+
+Un modello può includere fino a tre sezioni:
+
+* `headline`
+* `body`
+* `spotlight_headline`
+* `spotlight_body`
+* `news_headline`
+* `news_body`
+
+GenStudio è consapevole che `spotlight_headline` è più strettamente correlato a `spotlight_body` che a `news_body`.
+
+## Esempi di modelli
+
++++Esempio: modello e-mail con una sezione
+
+Di seguito è riportato un esempio di base di un modello HTML per un messaggio e-mail che contiene una sezione. L’intestazione contiene CSS semplice e in linea per lo stile. Il corpo contiene `pre-header`, `headline` e `image` [segnaposto](#content-placeholders) per l&#39;inserimento di contenuto da parte di GenStudio durante il processo di generazione dell&#39;e-mail.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
@@ -99,35 +138,9 @@ Di seguito è riportato un esempio di base di un modello HTML per l’e-mail. L�
 
 +++
 
-### Immagine di sfondo
++++Esempio: modello e-mail con più sezioni
 
-Durante la progettazione di un annuncio per Meta, è importante utilizzare un’immagine di sfondo integrata da testo e una sovrapposizione con il logo del brand. Per garantire il ridimensionamento corretto dell&#39;immagine, i modelli di annunci multimediali richiedono di specificare un `aspect ratio`. In questo contesto, puoi fornire un solo campo immagine.
-
-## Sezioni o gruppi
-
-_Le sezioni_ consentono di informare GenStudio che i campi appartenenti a una sezione richiedono un elevato grado di coerenza. Stabilire questa relazione aiuta l’intelligenza artificiale a generare contenuti che corrispondono agli elementi creativi della sezione. Un modello può includere fino a tre sezioni.
-
-Utilizzare il prefisso desiderato nel nome del campo per indicare che il campo fa parte di una sezione o di un gruppo. Ad esempio, potrebbe essere utile evidenziare il contenuto visualizzato in un&#39;area evidenziata. Puoi scegliere di identificare il contenuto di quest’area con un prefisso comune:
-
-- `spotlight_headline`
-- `spotlight_body`
-
-Ogni sezione può avere un solo tipo di campo. Ad esempio, il gruppo dell&#39;esempio precedente con il prefisso `spotlight` può avere un solo campo `spotlight_headline`.
-
-Se sono presenti più sezioni (tre al massimo):
-
-- `headline`
-- `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
-
-GenStudio è consapevole che `spotlight_headline` è più strettamente correlato a `spotlight_body` che a `news_body`.
-
-+++Esempio: modello con più sezioni
-
-Di seguito è riportato lo stesso modello di HTML nell&#39;esempio precedente, ma con altre due sezioni. L’intestazione contiene CSS in linea per la formattazione di un pod. Il corpo utilizza due pod con segnaposto di contenuto che utilizzano un prefisso.
+Di seguito è riportato lo stesso modello di HTML nell&#39;esempio precedente, ma con altre due sezioni. L’intestazione contiene CSS in linea per la formattazione di un gruppo. Il corpo utilizza due gruppi con [segnaposto contenuto](#content-placeholders) utilizzando un prefisso.
 
 ```handlebars {line-numbers="true" highlight="33"}
 <!DOCTYPE html>
@@ -177,11 +190,67 @@ Di seguito è riportato lo stesso modello di HTML nell&#39;esempio precedente, m
 
 +++
 
++++Esempio: Meta ad template
+
+Di seguito è riportato un esempio di base di un modello di annunci Meta. L’intestazione contiene CSS in linea per lo stile. Il corpo utilizza [segnaposto contenuto](#content-placeholders) utilizzando un prefisso.
+
+```handlebars {line-numbers="true" highlight="33"}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adobe</title>
+    <style>
+        .ad-container {
+            width: 300px;
+            border: 1px solid #ddd;
+            padding: 16px;
+            font-family: Arial, sans-serif;
+        }
+        .ad-image {
+            width: 100%;
+            height: auto;
+        }
+        .ad-headline {
+            font-size: 18px;
+            font-weight: bold;
+            margin: 12px 0;
+        }
+        .ad-body {
+            font-size: 14px;
+            margin: 12px 0;
+        }
+        .ad-cta {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+<div class="ad-container">
+    <img src="{{ image }}" alt="Ad Image" class="ad-image">
+    <div class="ad-headline">"{{ headline }}"</div>
+    <div class="ad-body">"{{ body }}"</div>
+    <a href="(https://example.com)" class="ad-cta">"{{ CTA }}"</a>
+</div>
+
+</body>
+</html>
+```
+
++++
+
 ## Anteprima modello
 
-I modelli e-mail a volte contengono contenuto speciale che non è necessario visualizzare in anteprima in GenStudio. È possibile controllare la visibilità di questo contenuto utilizzando Helper incorporati, ovvero espressioni speciali nel linguaggio dei modelli Handlebars che consentono di eseguire determinate azioni.
+Controlla la visibilità dei contenuti speciali utilizzando Helper incorporati (espressioni speciali nel linguaggio dei modelli Handlebars che eseguono determinate azioni). Ad esempio, puoi aggiungere parametri di tracciamento ai collegamenti nel modello esportato mantenendo puliti i collegamenti di anteprima.
 
-Il valore `_genStudio.browser` viene impostato durante il rendering di un modello e il valore `genStudio.export` viene impostato durante l&#39;esportazione di un modello. Puoi decidere di includere un determinato contenuto nella parte superiore delle e-mail utilizzando un wrapper condizionale, ad esempio, quando il modello viene utilizzato per l’esportazione:
+Il valore `_genStudio.browser` viene impostato durante il rendering di un modello e il valore `genStudio.export` viene impostato durante l&#39;esportazione di un modello. Puoi decidere di includere un determinato contenuto nella parte superiore di un’e-mail utilizzando un wrapper condizionale, ad esempio, quando il modello viene utilizzato per l’esportazione:
 
 ```handlebars
 {{#if _genStudio.export}}
@@ -189,7 +258,7 @@ Il valore `_genStudio.browser` viene impostato durante il rendering di un modell
 {{/if}}
 ```
 
-Un altro esempio può essere quello di impedire l’utilizzo dei codici di tracciamento durante l’anteprima di un modello e-mail in GenStudio. Questo esempio mostra come aggiungere parametri di tracciamento ai collegamenti nel modello esportato, mantenendo allo stesso tempo puliti i collegamenti di anteprima:
+Un altro esempio può essere quello di impedire l’utilizzo dei codici di tracciamento durante l’anteprima di un modello in GenStudio. Questo esempio mostra come aggiungere parametri di tracciamento ai collegamenti nel modello esportato, mantenendo allo stesso tempo puliti i collegamenti di anteprima:
 
 ```handlebars
 <a class="button" {{#if _genStudio.browser }}
