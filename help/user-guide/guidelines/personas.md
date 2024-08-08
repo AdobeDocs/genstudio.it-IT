@@ -2,7 +2,7 @@
 title: GenStudio [!DNL Personas]
 description: GenStudio [!DNL Personas] sono una rappresentazione fedele dei segmenti di clienti, che ne acquisisce interessi, punti critici, preferenze e caratteristiche comportamentali.
 feature: Personas Service, Guidelines
-source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '380'
 ht-degree: 0%
@@ -37,6 +37,6 @@ La tabella seguente mostra ogni categoria di [!DNL Personas] linee guida ed esem
 | Categoria di orientamento | Esempi di linee guida | Best practice |
 | ------------------| :---------- |-------------|
 | Nome persona | Rappresenta un segmento di pubblico specifico per il quale vengono personalizzati i materiali di marketing generati | Aggiungi un nome utente chiaro e conciso.<br><br>_Esempi_: &quot;CMOs of Retail&quot;, &quot;Prospective Nursing Students&quot;, &quot;New Savings Acct Clients&quot; |
-| Descrizione | Breve riepilogo che definisce caratteristiche, esigenze e comportamenti chiave | Utilizza un linguaggio coerente per descrivere chiaramente la segmentazione di pubblico tipo e univoco (1-2 frasi).<br><br>Concentrati su ciò che guida questo segmento di pubblico (esigenze, caratteristiche principali, ecc.)<br><br>Descrizione breve e senza dati demografici o informazioni aggiuntive. |
+| Descrizione | Breve riepilogo che definisce caratteristiche, esigenze e comportamenti chiave | Utilizza un linguaggio conciso per descrivere chiaramente la segmentazione di pubblico tipo e univoco (1-2 frasi).<br><br>Concentrati su ciò che guida questo segmento di pubblico (esigenze, caratteristiche principali, ecc.)<br><br>Descrizione breve e senza dati demografici o informazioni aggiuntive. |
 | Preferenze di messaggistica | Riepilogo chiaro degli stili di comunicazione preferiti che risuonano con un utente tipo specifico | Definisci i requisiti di messaggistica e le motivazioni dell’utente tipo, concentrandosi su come l’utente preferisce ricevere e interagire con le comunicazioni.<br><br>Fornisci preferenze di messaggistica specifiche nell&#39;elenco (ogni voce dell&#39;elenco contiene 1-2 frasi).<br><br>Limita l&#39;elenco a un totale di 10 frasi o meno, in modo da evidenziare le informazioni più critiche.<br><br>_Esempio_: &quot;Preferenze di messaggistica per i professionisti esperti di tecnologia:<li>Preferisce una comunicazione concisa e priva di gergo.</li><li>Risponde positivamente alle informazioni basate sui dati e ai consigli fruibili.</li><li>Preferisce elementi visivi come infografiche e grafici per acquisire rapidamente informazioni complesse.<li><li>Valori di trasparenza con un approccio onesto e diretto.</li>” |
 | Dettagli aggiuntivi | Acquisire informazioni cruciali importanti per la generazione di contenuti personalizzati | Fornisci ulteriori dettagli (1-3 frasi) fondamentali per la personalizzazione dei contenuti e assicurati che le informazioni contribuiscano direttamente all’efficacia dei contenuti.<br><br>Concentrati su chiarezza e brevità. |

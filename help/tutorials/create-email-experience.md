@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '757'
+source-wordcount: '779'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,6 @@ Per iniziare a creare una nuova esperienza e-mail, utilizza un modello disponibi
 **Per scegliere un modello di posta elettronica**:
 
 1. In _[!DNL Create]_, fare clic su **[!UICONTROL E-mail]**in_&quot;Cosa si desidera creare oggi?&quot;_sezione.
-1. Nella visualizzazione _Seleziona modello_, imposta il filtro _Canali_ su **[!UICONTROL E-mail]**.
 1. Utilizza l&#39;opzione di ricerca, accanto a _Filtro_, per trovare un modello e-mail specifico.
 1. Fai clic su per selezionare un modello di e-mail e fai clic su **[!UICONTROL Usa]**.
 
@@ -53,7 +52,7 @@ Dopo aver aggiunto i parametri, è possibile comprimere l&#39;area del prompt fa
 
 ## Immetti un prompt
 
-Dopo aver selezionato le linee guida, crea un prompt utilizzando il linguaggio naturale per iniziare a generare contenuti per la nuova esperienza e-mail.
+Dopo aver selezionato le linee guida, crea un prompt utilizzando il linguaggio naturale per iniziare a generare contenuti per la nuova esperienza e-mail. I prompt dettagliati producono un output di qualità superiore rispetto ai prompt vaghi o non descrittivi.
 
 Per ulteriori informazioni sulla scrittura dei prompt, vedere [Scrivi prompt effettivi](/help/user-guide/effective-prompts.md).
 
@@ -62,7 +61,7 @@ Per ulteriori informazioni sulla scrittura dei prompt, vedere [Scrivi prompt eff
 1. Immettere un prompt nella casella di prompt _&quot;Descrivi le esperienze da generare&quot;_.
 1. Fai clic su **[!UICONTROL Genera]**.
 
-Per impostazione predefinita, quattro varianti generate (tutte alimentate dal prompt, dalle linee guida e dal contenuto aggiunto) vengono generate e visualizzate nell’area di lavoro.
+Per impostazione predefinita, quattro varianti (tutte alimentate dal prompt, dalle linee guida e dal contenuto aggiunto) vengono generate e visualizzate nell’area di lavoro.
 
 ## Rivedere le e-mail generate
 
@@ -70,6 +69,7 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
 
 **Per rivedere le varianti generate**:
 
+* **Per modificare il nome della bozza e-mail**, fai clic sul titolo _Bozza senza titolo_ nella parte superiore dell&#39;area di lavoro e immetti un nuovo titolo.
 * **Per modificare manualmente un&#39;e-mail**, fare doppio clic in uno dei frammenti di posta elettronica (ad esempio l&#39;oggetto, l&#39;intestazione o la copia del corpo) e modificarli in base alle esigenze.
 
   L’oggetto e il preheader richiedono solo un singolo clic per essere modificati, mentre l’intestazione, il corpo del testo e l’invito all’azione richiedono un doppio clic.

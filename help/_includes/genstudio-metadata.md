@@ -1,8 +1,8 @@
 ---
-source-git-commit: 82615ff94cf2f0daf83062cf5c6547a2887d010e
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 7%
+source-wordcount: '112'
+ht-degree: 6%
 
 ---
 # Campi metadati GenStudio
@@ -13,8 +13,8 @@ ht-degree: 7%
 | ------------- | ----------- | -------- |
 | Nome campagna (nome progetto) | Metadati predefiniti acquisiti e memorizzati con la risorsa | Y | N |
 | Marchio | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) aggiunto a GenStudio e pubblicato per l&#39;utilizzo. | Y | N |
-| Prodotti | Aggiunta di [[!DNL Products]](/help/user-guide/guidelines/products.md) a GenStudio per l&#39;utilizzo. | Y | N |
-| Persone | [[!DNL Personas]](/help/user-guide/guidelines/personas.md). aggiunto a GenStudio per l’utilizzo. | Y | N |
+| [!DNL Products] | Aggiunta di [[!DNL Products]](/help/user-guide/guidelines/products.md) a GenStudio per l&#39;utilizzo. | Y | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md). aggiunto a GenStudio per l’utilizzo. | Y | N |
 | Canali | Tipi di contenuto in GenStudio per cui viene utilizzata la risorsa, ad esempio e-mail e annunci Meta. | Y | N |
 | Intervallo temporale | Intervallo temporale per il quale la risorsa è stata utilizzata, ad esempio trimestre, stagione, anno e così via. Esempio: `Winter 2023` | Y | N |
 | Regione | Aree per le quali viene utilizzata la risorsa. Esempi: `North America`, `APAC`, `Italy` | Y | N |

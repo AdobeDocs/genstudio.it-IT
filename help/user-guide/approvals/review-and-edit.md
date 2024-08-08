@@ -2,7 +2,7 @@
 title: Rivedere e modificare il contenuto
 description: Scopri come rivedere e modificare il contenuto iterativamente.
 feature: Approval
-source-git-commit: bb06f20c436c0d2d426c8a07a419536716665a03
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '555'
 ht-degree: 0%
@@ -24,7 +24,7 @@ I creatori possono apportare modifiche in-process ai contenuti in risposta ai co
 
 In qualità di approvatore designato, puoi accedere al contenuto che ti viene richiesto di rivedere e approvare in diversi modi:
 
-* **Accedi alla bozza per la revisione direttamente dal collegamento alla bozza nella richiesta di approvazione**. Fai clic sul collegamento della bozza nella notifica e-mail della richiesta di approvazione o nella notifica interna al prodotto. GenStudio apre un’area di lavoro che mostra la risorsa o l’esperienza. Il riquadro a sinistra dei dettagli della _risorsa_ include un riquadro _Approvazione_.
+* **Accedi alla bozza per la revisione direttamente dal collegamento alla bozza nella richiesta di approvazione**. Fai clic sul collegamento della bozza nella notifica e-mail della richiesta di approvazione o nella notifica interna al prodotto. GenStudio apre un’area di lavoro che mostra la risorsa o l’esperienza. Il pannello a sinistra dei dettagli della _risorsa_ include un pannello _Approvazione_.
 
 * **Accedi alla bozza per la revisione dall&#39;elenco delle richieste di approvazione**. Se ti viene richiesto di rivedere più bozze di contenuto, l&#39;e-mail di notifica include un pulsante **[!UICONTROL Visualizza tutte le notifiche]**. Fare clic su questo pulsante per passare a una pagina in cui vengono visualizzate tutte le richieste di revisione in sospeso.
 
@@ -36,11 +36,11 @@ Puoi approvare il contenuto se hai ricevuto un’e-mail di richiesta di approvaz
 
 1. Utilizza il collegamento nella notifica in produzione o nell’e-mail di richiesta per passare al contenuto da rivedere. In GenStudio viene visualizzata l’area di lavoro del contenuto.
 
-1. L&#39;area di lavoro risorse include un pulsante **[!UICONTROL Rivedi e approva]** in alto a destra. Fai clic su questo pulsante per aprire il riquadro _Approvazioni_ per questa risorsa.
+1. L&#39;area di lavoro risorse include un pulsante **[!UICONTROL Rivedi e approva]** in alto a destra. Fai clic su questo pulsante per aprire il pannello _Approvazioni_ per questa risorsa.
 
 ## Richiedi modifiche
 
-Puoi elencare le modifiche suggerite o porre domande sulla bozza dal riquadro _Approvazione_ del contenuto. Lo stato della bozza di **Necessità di lavoro** notifica al creatore del contenuto che le modifiche sono richieste.
+Puoi elencare le modifiche suggerite o porre domande sulla bozza dal pannello _Approvazione_ del contenuto. Lo stato della bozza di **Necessità di lavoro** notifica al creatore del contenuto che le modifiche sono richieste.
 
 Questo processo di revisione, suggerimento di modifiche al creatore di contenuti, revisione del contenuto e nuovo invio per l’approvazione è altamente iterativo. È in questa parte del ciclo che si vedono le capacità di risparmio di tempo di GenStudio.
 

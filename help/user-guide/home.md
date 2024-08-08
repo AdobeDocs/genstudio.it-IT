@@ -1,9 +1,9 @@
 ---
 title: Guida utente di Adobe GenStudio
 description: Scopri come utilizzare GenStudio e l’intelligenza artificiale generativa per personalizzare la supply chain dei contenuti.
-source-git-commit: 43b059fe65a06b1cb6bba03c4e811c83af75d6f3
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '178'
 ht-degree: 1%
 
 ---
@@ -11,9 +11,9 @@ ht-degree: 1%
 
 # Guida utente di GenStudio
 
-Adobe GenStudio, basato sull’intelligenza artificiale generativa, rivoluziona la catena di fornitura dei contenuti, consentendoti di creare, misurare e gestire esperienze personalizzate che incarnano la tua essenza del brand.
+GenStudio è una soluzione di marketing completa basata sulla tecnologia di intelligenza artificiale generativa di Adobe. Consente agli addetti al marketing di semplificare la catena di fornitura dei contenuti, dall’ideazione alla distribuzione e alla misurazione delle prestazioni.
 
-Utilizzando GenStudio, gli esperti di marketing e i team possono generare e perfezionare contenuti di alta qualità in linea con le linee guida del marchio. GenStudio accelera il ciclo di vita del marketing, risparmiando tempo e risorse.
+Con GenStudio, le aziende possono sfruttare l’intelligenza artificiale generativa per accelerare la creazione dei contenuti, trovare e riutilizzare facilmente i contenuti e promuovere campagne omnicanale di successo.
 
 ## Esplora le funzionalità di GenStudio
 

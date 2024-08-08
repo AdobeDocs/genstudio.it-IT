@@ -2,9 +2,9 @@
 title: Dettagli risorsa
 description: GenStudio archivia i contenuti approvati con metadati avanzati per la ricerca e il tracciamento delle prestazioni.
 feature: Attributes, Assets
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '405'
+source-wordcount: '402'
 ht-degree: 1%
 
 ---
@@ -46,8 +46,8 @@ La tabella seguente descrive i metadati (dettagli risorsa) che puoi definire dur
 | ------------- | ----------- | -------- | -------- |
 | Nome campagna (nome progetto) | Metadati predefiniti acquisiti e memorizzati con la risorsa | Y | N |
 | Marchio | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) aggiunto a GenStudio e pubblicato per l&#39;utilizzo | Y | N |
-| Prodotti | [[!DNL Products]](/help/user-guide/guidelines/products.md) aggiunti a GenStudio per l&#39;utilizzo | Y | N |
-| Persone | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) aggiunti a GenStudio per l&#39;utilizzo | Y | N |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) aggiunti a GenStudio per l&#39;utilizzo | Y | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) aggiunti a GenStudio per l&#39;utilizzo | Y | N |
 | Canali | Tipi di contenuto in GenStudio per cui viene utilizzata la risorsa, ad esempio e-mail e annunci Meta | Y | N |
 | Intervallo temporale | Intervallo temporale per il quale la risorsa è stata utilizzata, ad esempio trimestre, stagione, anno e così via. Esempio: `Winter 2023` | Y | N |
 | Regione | Aree per le quali viene utilizzata la risorsa. Esempi: `North America`, `APAC`, `Italy` | Y | N |
@@ -66,7 +66,7 @@ La tabella seguente descrive i metadati (dettagli risorsa) che puoi definire dur
 
 >[!TIP]
 >
->Puoi visualizzare i dettagli della risorsa anche da [!DNL Insights]. Insights fornisce statistiche di utilizzo e contesto delle prestazioni per le diverse esperienze. In _[!DNL Insights]_, selezionare la sezione **[!UICONTROL Assets]**.
+>Puoi visualizzare i dettagli della risorsa anche da [!DNL Insights]. [!DNL Insights] fornisce statistiche di utilizzo e contesto delle prestazioni tra le esperienze. In _[!DNL Insights]_, selezionare la sezione **[!UICONTROL Assets]**.
 
 <!-- ## History
 

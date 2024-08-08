@@ -2,7 +2,7 @@
 title: Utilizzare i modelli
 description: Scopri come utilizzare i modelli per creare esperienze coinvolgenti in GenStudio.
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '443'
 ht-degree: 2%
@@ -73,7 +73,7 @@ Trova e utilizza un modello esistente per creare esperienze.
 
 1. In _[!DNL Content]_, selezionare la sezione **[!UICONTROL Modelli]**.
 
-   ![Elenco modelli di contenuto](../../assets/content-templates.png)
+   ![Elenco modelli di contenuto](../../assets/content-templates.png){width="650" zoomable="yes"}
 
 1. Selezionare un modello per una visualizzazione completa e un elenco di dettagli.
 

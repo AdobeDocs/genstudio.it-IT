@@ -3,9 +3,9 @@ title: Introduzione a GenStudio
 description: Scopri come configurare il GenStudio per generare nuovi contenuti di marketing allineati al brand.
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
-source-git-commit: 2501d1e36f76d1534a735b9147fb42f762a665e8
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '1066'
+source-wordcount: '1049'
 ht-degree: 1%
 
 ---
@@ -74,7 +74,7 @@ Nella tabella seguente vengono visualizzate le autorizzazioni predefinite di Gen
 
 ### Amministratori
 
-Gli utenti amministratori creano e assegnano gli utenti a uno qualsiasi dei ruoli supportati da GenStudio. Se necessario, possono assegnare nuove autorizzazioni a singoli creatori o collaboratori. Il loro compito più importante è quello di completare le attività iniziali di onboarding che preparano la tua organizzazione all’implementazione di GenStudio.
+**Gli amministratori** creano e assegnano gli utenti a uno qualsiasi dei ruoli supportati da GenStudio. Se necessario, possono assegnare nuove autorizzazioni a singoli creatori o collaboratori. Il loro compito più importante è quello di completare le attività iniziali di onboarding che preparano la tua organizzazione all’implementazione di GenStudio.
 
 Nella tabella seguente vengono visualizzate le autorizzazioni predefinite per l&#39;amministratore di sistema di GenStudio:
 
@@ -93,7 +93,7 @@ Nella tabella seguente vengono visualizzate le autorizzazioni predefinite per l&
 
 Gli amministratori di sistema preparano l’ambiente GenStudio della propria organizzazione affinché i creatori e i collaboratori creino risorse per le campagne. Tali compiti preliminari di configurazione comprendono:
 
-1. [Imposta linee guida](./guidelines/overview.md) per [!DNL Brands], [!DNL Products] e [!DNL Personas]. Impostazione dei blocchi predefiniti chiave del marchio **[Aggiungi linee guida](./guidelines/overview.md)** ([!DNL Brands], [!DNL Products] e [!DNL Personas]) a GenStudio. Impostare gli elementi costitutivi chiave dell&#39;identità del marchio dell&#39;organizzazione è un prerequisito essenziale per il lavoro dei creatori e dei collaboratori di GenStudio. Puoi caricare i documenti sulle linee guida del brand o inserire manualmente le informazioni sul brand.
+1. [Aggiungi linee guida](./guidelines/overview.md) per [!DNL Brands], [!DNL Products] e [!DNL Personas]. Impostare gli elementi costitutivi chiave dell&#39;identità del marchio dell&#39;organizzazione è un prerequisito essenziale per il lavoro dei creatori e dei collaboratori di GenStudio. Puoi caricare i documenti sulle linee guida del brand o inserire manualmente le informazioni sul brand.
    * **Prepara i documenti sulle linee guida**. Maggiore è la descrizione e la completezza delle linee guida per il marchio, migliore sarà l&#39;output di GenStudio. Includi brevi esempi di funzioni che ritieni essenziali per il tuo marchio e aggiungi descrizioni di comportamenti che desideri escludere dalla creazione di contenuti GenStudio. GenStudio estrae informazioni da questi documenti caricati e inizia a creare il tuo marchio. Informazioni quali la voce del brand, il canale e le linee guida per le immagini vengono compilate man mano che GenStudio assembla ciascuna linea guida dai documenti caricati.
    * **Modifica o completa i campi delle linee guida del brand in base alle esigenze**. Le linee guida complete per il marchio sono alla base della conoscenza che GenStudio ha del marchio della tua organizzazione. Dopo aver estratto le informazioni necessarie dai documenti delle linee guida per il brand, GenStudio ti chiede di modificare manualmente o completare i campi delle informazioni estratte. Specificare singole aree di interesse per il prodotto per la creazione di contenuto aggiungendo [!DNL Product]. Le linee guida di [!DNL Personas] aiutano a personalizzare la creazione di contenuti per segmenti cliente definiti.
 

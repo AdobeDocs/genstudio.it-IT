@@ -1,7 +1,7 @@
 ---
 title: Richiedi revisioni e approvazioni
 description: Richiedere un riesame.
-source-git-commit: c9bd8bf434e493696e674900f403307260a65b02
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Facoltativo: aggiungere commenti per indirizzare lo stato attivo dell&#39;approv
 
 Se sei l&#39;autore del contenuto, la bozza di Canvas visualizza il pulsante **[!UICONTROL Gestisci approvazioni]**. Utilizzare questo pulsante per aprire un popup dal quale è possibile rimuovere o aggiungere approvatori durante il processo di revisione e approvazione.
 
-I nomi degli approvatori sono elencati in questo riquadro con uno stato [!DNL Notified] dopo l&#39;avvio delle richieste di approvazione. Per una panoramica delle attività di approvazione di GenStudio, consulta [Approva contenuto](./approve-content.md).
+I nomi degli approvatori sono elencati in questa visualizzazione con uno stato [!DNL Notified] dopo l&#39;avvio delle richieste di approvazione. Per una panoramica delle attività di approvazione di GenStudio, consulta [Approva contenuto](./approve-content.md).
 
 
 

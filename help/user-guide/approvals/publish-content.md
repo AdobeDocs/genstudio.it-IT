@@ -2,7 +2,7 @@
 title: Contenuto approvato da Publish
 description: Scopri come pubblicare i contenuti approvati.
 feature: Approval, Content
-source-git-commit: 6da5eb91db34e3b91430d513f3af5de1cd380222
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 0%
@@ -34,7 +34,7 @@ Quando tutti i revisori designati approvano una bozza, GenStudio cambia lo stato
 
 ## Dopo la pubblicazione
 
-Tutti gli utenti di GenStudio possono accedere alle risorse o esperienze approvate in [!DNL Content]. Il riquadro dei dettagli della risorsa identifica la cronologia di caricamento e approvazione della risorsa. Questi attributi identificano il contenuto salvato:
+Tutti gli utenti di GenStudio possono accedere alle risorse o esperienze approvate in [!DNL Content]. Il pannello Dettagli risorsa identifica la cronologia di caricamento e approvazione della risorsa. Questi attributi identificano il contenuto salvato:
 
 * **Data di caricamento**: identifica la data di caricamento del contenuto.
 * **Caricato da**: identifica il creatore di risorse GenStudio.

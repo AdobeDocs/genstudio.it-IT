@@ -2,7 +2,7 @@
 title: Convalida del marchio in GenStudio
 description: Scopri come funziona il sistema integrato di convalida del brand in GenStudio.
 feature: Brands Service, Guidelines
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
 source-wordcount: '599'
 ht-degree: 0%
@@ -30,9 +30,9 @@ Fai clic sull’icona per vedere quali linee guida sono conformi al tuo marchio 
 
 Consulta [Migliorare l&#39;allineamento del brand](#improve-brand-alignment).
 
-## Pannello Convalida marchio
+## Pannello di convalida del brand
 
-Il pannello _Convalida marchio_ fornisce informazioni dettagliate sulla convalida del marchio e illustra le opportunità di miglioramento per ogni frammento di variante.
+Il _pannello di convalida del marchio_ fornisce informazioni dettagliate sulla convalida del marchio e illustra le opportunità di miglioramento per ogni frammento di variante.
 
 Il _pannello di convalida del marchio_ visualizza informazioni per:
 
@@ -59,7 +59,7 @@ Nel _pannello di convalida del marchio_ puoi filtrare le linee guida visualizzat
 * **Tutte le linee guida**—_Mostra linee guida non riuscite e passate_ visualizza tutte le linee guida rispetto alle quali vengono misurate le varianti.
 * **Linee guida approvate**—_Mostra linee guida approvate_ visualizza solo le linee guida che hanno superato la convalida del marchio.
 
-<!-- The _Brand Validation panel_ has different areas of focus for each content channel:
+<!-- The _Brand validation panel_ has different areas of focus for each content channel:
 
 * Email - brand voice and channel compliance
 * Images - application photography restrictions and other considerations -->

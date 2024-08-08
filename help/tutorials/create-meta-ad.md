@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
+source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
 workflow-type: tm+mt
-source-wordcount: '890'
+source-wordcount: '887'
 ht-degree: 0%
 
 ---
@@ -27,9 +27,8 @@ Per iniziare a generare una nuova esperienza di annuncio multimediale, utilizza 
 **Per scegliere un Meta Ad Template**:
 
 1. In _[!DNL Create]_, fai clic su **[!UICONTROL Annunci metadati]**in_&quot;Cosa vuoi creare oggi?&quot;_sezione.
-1. Nella visualizzazione _Seleziona modello_, imposta il filtro _Canali_ su **[!UICONTROL Annunci metadati]**.
 1. Utilizza l&#39;opzione di ricerca, adiacente a _Filtro_, per trovare un modello di Meta Ad specifico.
-1. Fare clic per selezionare un modello o selezionare più modelli e fare clic su **[!UICONTROL Usa]**. Se selezioni più modelli, quando vengono generate le varianti verranno utilizzati tutti i modelli selezionati per fornirti le opzioni.
+1. Fare clic per selezionare un modello e fare clic su **[!UICONTROL Usa]**.
 
    Questa azione apre Canvas, l’hub centrale per la creazione dei contenuti.
 
@@ -53,7 +52,7 @@ Dopo aver aggiunto i parametri, è possibile comprimere l&#39;area del prompt fa
 
 ## Immetti un prompt
 
-Dopo aver selezionato le linee guida, crea un prompt utilizzando il linguaggio naturale per iniziare a generare contenuti per la nuova esperienza di annuncio metadati.
+Dopo aver selezionato le linee guida, crea un prompt utilizzando il linguaggio naturale per iniziare a generare contenuti per la nuova esperienza di annuncio metadati. I prompt dettagliati producono un output di qualità superiore rispetto ai prompt vaghi o non descrittivi.
 
 Per ulteriori informazioni sulla scrittura dei prompt, vedere [Scrivi prompt effettivi](/help/user-guide/effective-prompts.md).
 
@@ -62,7 +61,7 @@ Per ulteriori informazioni sulla scrittura dei prompt, vedere [Scrivi prompt eff
 1. Immettere un prompt nella casella di prompt _&quot;Descrivi le esperienze da generare&quot;_.
 1. Fai clic su **[!UICONTROL Genera]**.
 
-Per impostazione predefinita, quattro varianti generate (tutte alimentate dal prompt, dalle linee guida e dal contenuto aggiunto) vengono generate e visualizzate nell’area di lavoro.
+Per impostazione predefinita, quattro varianti (tutte alimentate dal prompt, dalle linee guida e dal contenuto aggiunto) vengono generate e visualizzate nell’area di lavoro.
 
 ## Scegli il canale dei metadati
 
@@ -76,6 +75,7 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
 
 **Per rivedere le varianti generate**:
 
+* **Per modificare il nome della bozza del Meta Ad**, fai clic sul titolo della _Bozza senza titolo_ nella parte superiore dell&#39;area di lavoro e immetti un nuovo titolo.
 * **Per modificare manualmente un annuncio meta**, fare doppio clic in uno dei frammenti dell&#39;annuncio (ad esempio l&#39;oggetto, l&#39;intestazione o la copia del corpo) e modificarlo in base alle esigenze.
 
   L’oggetto e il preheader richiedono un solo clic per essere modificati, mentre l’intestazione e il corpo del testo richiedono un doppio clic.
@@ -93,7 +93,7 @@ Per ottimizzare gli annunci generati e garantire una rigorosa aderenza all&#39;i
 1. Per ottenere i dettagli dei frammenti e delle linee guida che necessitano di miglioramenti, fai clic su **[!UICONTROL Rivedi]** _o_ fai clic sull&#39;icona Convalida marchio nella barra dei menu superiore per aprire il [_pannello di convalida marchio_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 
 1. Passa da un annuncio all’altro per vedere come migliorare i contenuti generati per allinearli maggiormente al marchio.
-1. [Rivedi manualmente le e-mail](#revise-generated-emails) per garantire che gli annunci siano strettamente allineati al tuo marchio.
+1. [Rivedi manualmente gli annunci](#revise-generated-meta-ads) per assicurarti che siano strettamente allineati al tuo marchio.
 
 Consulta [Convalida marchio](/help/user-guide/guidelines/brand-validation.md).
 
