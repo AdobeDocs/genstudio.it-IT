@@ -2,9 +2,9 @@
 title: GenStudio [!DNL Personas]
 description: GenStudio [!DNL Personas] sono una rappresentazione fedele dei segmenti di clienti, che ne acquisisce interessi, punti critici, preferenze e caratteristiche comportamentali.
 feature: Personas Service, Guidelines
-source-git-commit: 423956d6fdbf5b31041d44eb434f90d55a87d7c0
+source-git-commit: 21d0c7c6aab6f4d81fc4376251e85eb2d4be3f25
 workflow-type: tm+mt
-source-wordcount: '173'
+source-wordcount: '380'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,9 @@ Le presenti linee guida descrivono in dettaglio ogni categoria di linee guida e 
 
 La tabella seguente mostra ogni categoria di [!DNL Personas] linee guida ed esempi associati.
 
-| Categoria di orientamento | Esempi di linee guida |
-| ------------------| :---------- |
-| Descrizione | `Brand Uno's Curious Jobseekers are curious about finding a job within their immediate area and need assistance with learning how to find applicable positions, interviewing successfully, and researching transportation options. This prep work will prepare the Curious Jobseeker to take the next step in applying to fitting job opportunities and entering the interview process with confidence.` |
-| Preferenze di messaggistica | `Curious Jobseekers respond to communications and marketing messaging when they feel the Empower Outreach program's capabilities are affordable and successful in helping them obtain the job they desire. They enjoy visuals/graphics and short punchy headlines crafted to get their attention.` |
+| Categoria di orientamento | Esempi di linee guida | Best practice |
+| ------------------| :---------- |-------------|
+| Nome persona | Rappresenta un segmento di pubblico specifico per il quale vengono personalizzati i materiali di marketing generati | Aggiungi un nome utente chiaro e conciso.<br><br>_Esempi_: &quot;CMOs of Retail&quot;, &quot;Prospective Nursing Students&quot;, &quot;New Savings Acct Clients&quot; |
+| Descrizione | Breve riepilogo che definisce caratteristiche, esigenze e comportamenti chiave | Utilizza un linguaggio coerente per descrivere chiaramente la segmentazione di pubblico tipo e univoco (1-2 frasi).<br><br>Concentrati su ciò che guida questo segmento di pubblico (esigenze, caratteristiche principali, ecc.)<br><br>Descrizione breve e senza dati demografici o informazioni aggiuntive. |
+| Preferenze di messaggistica | Riepilogo chiaro degli stili di comunicazione preferiti che risuonano con un utente tipo specifico | Definisci i requisiti di messaggistica e le motivazioni dell’utente tipo, concentrandosi su come l’utente preferisce ricevere e interagire con le comunicazioni.<br><br>Fornisci preferenze di messaggistica specifiche nell&#39;elenco (ogni voce dell&#39;elenco contiene 1-2 frasi).<br><br>Limita l&#39;elenco a un totale di 10 frasi o meno, in modo da evidenziare le informazioni più critiche.<br><br>_Esempio_: &quot;Preferenze di messaggistica per i professionisti esperti di tecnologia:<li>Preferisce una comunicazione concisa e priva di gergo.</li><li>Risponde positivamente alle informazioni basate sui dati e ai consigli fruibili.</li><li>Preferisce elementi visivi come infografiche e grafici per acquisire rapidamente informazioni complesse.<li><li>Valori di trasparenza con un approccio onesto e diretto.</li>” |
+| Dettagli aggiuntivi | Acquisire informazioni cruciali importanti per la generazione di contenuti personalizzati | Fornisci ulteriori dettagli (1-3 frasi) fondamentali per la personalizzazione dei contenuti e assicurati che le informazioni contribuiscano direttamente all’efficacia dei contenuti.<br><br>Concentrati su chiarezza e brevità. |
