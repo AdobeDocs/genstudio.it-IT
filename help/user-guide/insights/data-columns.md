@@ -3,10 +3,10 @@ title: Colonne dati per  [!DNL Insights]
 description: Comprendere cosa rappresenta ogni colonna di una griglia  [!DNL Insights] .
 feature: Attributes, Insights
 recommendations: noDisplay
-source-git-commit: 52a37b83b6f13b16a2234e50827c8d08b9a86680
+source-git-commit: 4d5de6fc053297c823be9005c628dafcecc3f7a7
 workflow-type: tm+mt
-source-wordcount: '284'
-ht-degree: 2%
+source-wordcount: '254'
+ht-degree: 3%
 
 ---
 
@@ -34,4 +34,3 @@ Le colonne disponibili includono:
 | Impression | Il numero di volte in cui gli annunci della campagna sono stati mostrati ai visualizzatori tramite impression registrate. |
 | Obiettivo | L’obiettivo di una campagna o di un progetto. Imposta l’obiettivo durante la creazione della campagna o del progetto.<br>I tipi di obiettivo includono: `Awareness`, `Traffic`, `Engagement`, `Leads`, `App promotion`, `Sales` |
 | Spesa | La quantità totale di denaro speso in USD per tutti gli annunci all’interno di una campagna. |
-| Riproduzioni video | Il numero di volte in cui un video ha iniziato a essere riprodotto. La riproduzione video può verificarsi quando un video inizia a essere riprodotto automaticamente o quando qualcuno fa clic per riprodurlo. |

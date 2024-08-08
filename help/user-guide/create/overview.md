@@ -2,9 +2,9 @@
 title: Panoramica di  [!DNL Create]
 description: Generare rapidamente contenuti a elevate prestazioni e sul marchio con IA generativa in GenStudio [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '492'
+source-wordcount: '481'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ Con GenStudio [!DNL Create] è possibile generare contenuto per i seguenti canal
 <!-- * Social media images and ads
 * Display ads -->
 
-Oltre alla potenza delle [linee guida](/help/user-guide/guidelines/overview.md), [Contenuto](/help/user-guide/content/overview.md), [Recensioni e approvazioni](/help/user-guide/approvals/overview.md) e [Approfondimenti](/help/user-guide/insights/overview.md) di GenStudio, [!DNL Create] facilita la creazione di contenuti di marketing di grande impatto e allineati al brand.
+Oltre alla potenza delle [linee guida](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] e [!DNL Personas]—[Contenuto](/help/user-guide/content/overview.md), [Recensioni e approvazioni](/help/user-guide/approvals/overview.md) e [Approfondimenti](/help/user-guide/insights/overview.md) di GenStudio, [!DNL Create] facilita la creazione di contenuti di marketing di grande impatto e allineati al brand.
 
 ## Casi di utilizzo di [!DNL Create]
 
@@ -46,25 +46,23 @@ Oltre alla potenza delle [linee guida](/help/user-guide/guidelines/overview.md),
          <strong>Re-use existing content</strong>
          </a>
       </div>
-   </td> -->
+   </td>
    <td align="center" valign="top" width="100">
-      <a href="/help/user-guide/create/generate-variants.md">
-      <img alt="Genera varianti di contenuto" src="../../assets/icons/icon-template.svg" width="35">
+      <a href="../create/generate-variants.md">
+      <img alt="Generate variants of approved content" src="../../assets/icons/icon-template.svg" width="35">
       </a>
       <div>
          <a href="../create/generate-variants.md">
-         <strong>Genera varianti di contenuto</strong>
+         <strong>Generate variants of approved content</strong>
          </a>
       </div>
-   </td>
+   </td> -->
 </tr>
 </table>
 
-GenStudio [!DNL Create] soddisfa questi casi d&#39;uso:
-
-* **Crea nuovo contenuto**. In questo caso d&#39;uso, utilizza [linee guida](/help/user-guide/guidelines/overview.md) ([!DNL Brands], [!DNL Products] e [!DNL Personas]) e contenuti di ispirazione definiti per informare la creazione di contenuti allineati al brand.
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. -->
-* **Genera varianti di contenuto**. In questo caso d&#39;uso, genera varianti di contenuto in base a una [persona cliente](/help/user-guide/guidelines/personas.md) di destinazione. Questa funzionalità consente la sperimentazione e il rilevamento di contenuti ad alte prestazioni e consente la conversione cross-channel dei contenuti (ad esempio, la conversione di un’e-mail in un annuncio visualizzato).
+GenStudio consente agli addetti al marketing di **creare nuovi contenuti di marketing**. In questo caso d&#39;uso, utilizza le [linee guida](/help/user-guide/guidelines/overview.md) definite e le immagini di ispirazione per creare contenuti allineati al brand.
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio and use the power of Adobe generative AI technology to revise and improve existing content. 
+* **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## Funzionalità di [!DNL Create]
 
@@ -72,46 +70,39 @@ GenStudio [!DNL Create] integra vari componenti di GenStudio per aiutare gli ute
 
 ### Bozze
 
-Nella sezione _Lavoro recente_ di [!DNL Create], accedi e gestisci tutte le bozze recenti. [Genera varianti](/help/user-guide/create/generate-variants.md) delle bozze precedenti o completa il lavoro e preparalo per la pubblicazione in [[!DNL Content]](/help/user-guide/content/overview.md).
+Nella sezione _Lavoro recente_ di [!DNL Create], accedi e gestisci tutte le bozze recenti. Visualizza e completa il lavoro precedente per prepararlo per la pubblicazione in [[!DNL Content]](/help/user-guide/content/overview.md).
+
+Le bozze in corso vengono salvate automaticamente. Quando si torna alla home di [!DNL Create], la sezione _Lavoro recente_ viene aggiornata con le bozze più recenti. Per ogni bozza, puoi vedere se è stata _Approvata_ o se è ancora nel modulo _Bozza_.
 
 ### Modelli
 
-Accedi ai modelli approvati dal brand per generare contenuti su più canali nella sezione _Modelli utilizzati di recente_ di [!DNL Create]. Utilizza i modelli per iniziare subito il processo di creazione dei contenuti e rimanere allineato con un’identità del brand definita.
+Dopo aver selezionato il canale di contenuto da produrre in _Cosa si desidera creare oggi?_, è possibile accedere ai modelli approvati dal marchio da utilizzare nella generazione di contenuti. Utilizza i modelli per avviare rapidamente il processo di creazione dei contenuti e mantenere l’allineamento con un’identità del brand definita.
 
-I modelli sono [creati e archiviati in [!DNL Content]](/help/user-guide/content/overview.md), ma sono accessibili in [!DNL Create].
-
-Vedere [[!DNL Content]](/help/user-guide/content/overview.md).
+I modelli sono [caricati e archiviati in [!DNL Content]](/help/user-guide/content/overview.md) e sono accessibili in [!DNL Create].
 
 ### Prompt
 
-[La creazione di prompt effettivi](/help/user-guide/effective-prompts.md) è una parte importante del processo di generazione in [!DNL Create]. Per creare un nuovo contenuto o generare varianti di contenuto, scrivi un prompt che descrive il contenuto (o l’esperienza) che intendi generare.
+[La creazione di prompt effettivi](/help/user-guide/effective-prompts.md) è una parte importante del processo di generazione in [!DNL Create].
 
-Scrivere i prompt, aggiungere _Parametri_ e aggiungere un prompt descrittivo nell&#39;area dei prompt, quindi fare clic su **[!UICONTROL Genera]**.
-
-Visualizza [Prompt effettivi](/help/user-guide/effective-prompts.md).
+Per creare nuovi contenuti generati da IA, immetti un [prompt descrittivo](/help/user-guide/effective-prompts.md) che descriva il contesto o l&#39;esperienza che intendi generare, insieme a [linee guida](/help/user-guide/guidelines/overview.md) e [_parametri_](#parameters), nell&#39;area del prompt e fai clic su **[!UICONTROL Genera]**.
 
 ### Parametri
 
-Nell&#39;area dei prompt è possibile aggiungere _parametri_ quali [!DNL Brands], [!DNL Products] e [!DNL Personas] (linee guida di GenStudio) o _contenuto_ (immagini e video) per modellare l&#39;esperienza generata.
+Nell&#39;area dei prompt, puoi aggiungere _parametri_ come [!DNL Brands], [!DNL Products] e [!DNL Personas] (linee guida di GenStudio) o risorse per modellare l&#39;esperienza generata.
 
->[!NOTE]
->
->Le immagini e i video caricati in _Parametri_ vengono utilizzati nelle varianti generate e informano il contenuto della copia (testo) generato per le varianti.
+Le immagini caricate nei _Parametri_ vengono utilizzate nelle varianti generate e informano il contenuto della copia (testo) generato per le varianti.
 
-Questi parametri aggiunti inseriscono [linee guida](/help/user-guide/guidelines/overview.md) e risorse nel processo di generazione, garantendo che il contenuto sia personalizzato in modo da essere allineato all&#39;identità completa di un marchio e utilizzando immagini applicabili. Si consiglia di aggiungere linee guida al GenStudio e utilizzarle durante il processo di generazione dei contenuti, in quanto migliorano notevolmente la creazione di contenuti adatti al brand.
+Questi parametri aggiunti inseriscono [linee guida](/help/user-guide/guidelines/overview.md) e risorse nel processo di generazione, garantendo che il contenuto sia personalizzato in modo da essere allineato all&#39;identità completa di un brand. Si consiglia di aggiungere linee guida al GenStudio e utilizzarle durante il processo di generazione dei contenuti, in quanto migliorano notevolmente la creazione di contenuti adatti al brand.
 
 ### Convalida del brand
 
-GenStudio esegue la convalida del brand su vari aspetti dell&#39;identità del brand (come definito nelle [linee guida](/help/user-guide/guidelines/overview.md)). Le informazioni sulla convalida del brand sono disponibili per qualsiasi contenuto generato, a dimostrazione della sua conformità alle linee guida del brand. Puoi utilizzare queste informazioni per rivedere o migliorare l’esperienza generata per allinearla meglio al tuo marchio.
-
-Consulta [Convalida marchio](/help/user-guide/guidelines/brand-validation.md).
-
+GenStudio esegue la convalida del brand su vari aspetti dell&#39;identità del brand (come definito nelle [linee guida](/help/user-guide/guidelines/overview.md)). [Le informazioni sulla convalida del marchio](/help/user-guide/guidelines/brand-validation.md) sono disponibili per qualsiasi contenuto generato, a indicare la conformità alle linee guida del marchio e la coerenza tra testo e immagini. Puoi utilizzare queste informazioni per rivedere o migliorare l’esperienza generata per allinearla meglio al tuo marchio.
 
 ### Recensioni e approvazioni
 
-Esamina e convalida meticolosamente i contenuti in base alle linee guida del brand, alla documentazione del prodotto e ai segmenti di clienti selezionati con [!DNL Create's] processo integrato di revisione e approvazione. Sollecita le revisioni, tieni traccia dei commenti di revisione e ottieni le approvazioni durante il processo di creazione.
+Richiedi revisioni, tieni traccia dei commenti di revisione e ottieni approvazioni durante il processo di creazione con la funzionalità integrata [Revisioni e approvazioni](/help/user-guide/approvals/overview.md).
 
-Consulta [Recensioni e approvazioni](/help/user-guide/approvals/overview.md).
+Dopo aver generato le varianti di contenuto, invia le bozze per l&#39;approvazione delle parti interessate in modo che possano essere salvate in [!DNL Content] e implementate nelle attività di marketing.
 
 ## Tutorial
 

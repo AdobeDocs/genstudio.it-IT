@@ -2,9 +2,9 @@
 title: Convalida del marchio in GenStudio
 description: Scopri come funziona il sistema integrato di convalida del brand in GenStudio.
 feature: Brands Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '603'
+source-wordcount: '599'
 ht-degree: 0%
 
 ---
@@ -66,7 +66,7 @@ Nel _pannello di convalida del marchio_ puoi filtrare le linee guida visualizzat
 
 ## Migliorare l’allineamento del brand
 
-Per massimizzare l&#39;efficacia dei contenuti generati e mantenere un&#39;identità del brand coerente, utilizza il _controllo delle linee guida per il brand_ e il _pannello di convalida del brand_. Puoi modificare manualmente frammenti specifici o [generare varianti perfezionate](/help/user-guide/create/generate-variants.md) per allinearli alle [linee guida per il marchio](brands.md).
+Per massimizzare l&#39;efficacia dei contenuti generati e mantenere un&#39;identità del brand coerente, utilizza il _controllo delle linee guida per il brand_ e il _pannello di convalida del brand_. Puoi modificare manualmente frammenti specifici per allinearli alle [linee guida per il brand](brands.md).
 
 **Per migliorare l&#39;allineamento del brand per le varianti di contenuto generato**:
 

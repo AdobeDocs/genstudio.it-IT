@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: fa89422db3e1679516a377c9bfd9f05ab6e63428
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '953'
+source-wordcount: '890'
 ht-degree: 0%
 
 ---
@@ -35,39 +35,34 @@ Per iniziare a generare una nuova esperienza di annuncio multimediale, utilizza 
 
 ## Aggiungi parametri
 
-L’aggiunta di parametri di linee guida migliora il processo di generazione dei contenuti ed è un passaggio fondamentale nella preparazione alla generazione di un annuncio Meta.
+L&#39;aggiunta di [linee guida](/help/user-guide/guidelines/overview.md) e risorse in _Parametri_ nell&#39;area di richiesta migliora il processo di generazione dei contenuti ed è un passaggio fondamentale nella preparazione alla generazione di un Meta Ad.
 
 **Per aggiungere parametri e risorse**:
 
-1. Fai clic sull&#39;icona _Parametri_ per espandere le opzioni dei parametri e aggiungere parametri e risorse di riferimento.
+1. Fai clic sull&#39;icona _Parametri_ per espandere l&#39;area del prompt.
 1. Nella sezione _Parametri_, selezionare linee guida—[!DNL Brands], [!DNL Personas] e [!DNL Products], per informare la creazione dei contenuti.
 
    Se da questi menu non sono disponibili marchi, utenti tipo o prodotti, [aggiungi linee guida al tuo GenStudio](/help/user-guide/guidelines/add-guidelines.md).
 
-1. Nella sezione _Contenuto_, aggiungi il contenuto da utilizzare nell&#39;esperienza *e* per influenzare la generazione del contenuto. Esistono tre modi per aggiungere risorse:
-   * Fai clic su **[!UICONTROL Seleziona dal contenuto]** per selezionare le risorse (immagini o video) già pubblicate in [!DNL Content]. Utilizza i filtri per restringere ulteriormente i risultati della ricerca.
+1. Fai clic su **[!UICONTROL Seleziona contenuto]** per aggiungere contenuto da utilizzare nell&#39;esperienza *e* per influenzare la generazione del contenuto.
+   * Fai clic su **[!UICONTROL Seleziona dal contenuto]** per selezionare le risorse (immagini) già pubblicate in [!DNL Content]. Utilizza i filtri per restringere ulteriormente i risultati della ricerca.
    * Fai clic su **[!UICONTROL Carica]** per sfogliare i file e scegliere le risorse da utilizzare. Oltre a sfogliare il dispositivo, è anche possibile importare da Microsoft OneDrive o Dropbox.
-   * Trascina i file di immagine nella sezione _Contenuto_.
+   * Trascina le risorse nella sezione _Contenuto_.
 
-   Quando selezioni le risorse dal contenuto di GenStudio, scegli tra le risorse già salvate in [[!DNL Content]](/help/user-guide/content/overview.md). Puoi filtrare per canale, prodotto, lingua e altro per trovare rapidamente le risorse necessarie.
+Dopo aver aggiunto i parametri, è possibile comprimere l&#39;area del prompt facendo nuovamente clic sull&#39;icona _Parametri_.
 
-Dopo aver aggiunto i parametri, è possibile comprimere le sezioni *Parametri* e *Contenuto* facendo nuovamente clic sull&#39;icona _Parametri_.
-
-## Utilizza un prompt
+## Immetti un prompt
 
 Dopo aver selezionato le linee guida, crea un prompt utilizzando il linguaggio naturale per iniziare a generare contenuti per la nuova esperienza di annuncio metadati.
 
 Per ulteriori informazioni sulla scrittura dei prompt, vedere [Scrivi prompt effettivi](/help/user-guide/effective-prompts.md).
 
-**Per utilizzare un prompt**:
+**Per immettere una richiesta**:
 
 1. Immettere un prompt nella casella di prompt _&quot;Descrivi le esperienze da generare&quot;_.
-   <!-- If the prompt box is not visible, click **[!UICONTROL Open to prompt]** to expand it. -->
-
-<!-- 1. Optionally, click one of the prompt suggestions visible just above the prompt text box. Clicking a suggestion auto-fills the suggested prompt in the prompt box. -->
 1. Fai clic su **[!UICONTROL Genera]**.
 
-Per impostazione predefinita, nell’area di lavoro vengono visualizzate quattro varianti generate, tutte alimentate dal prompt, dalle linee guida e dal contenuto aggiunto.
+Per impostazione predefinita, quattro varianti generate (tutte alimentate dal prompt, dalle linee guida e dal contenuto aggiunto) vengono generate e visualizzate nell’area di lavoro.
 
 ## Scegli il canale dei metadati
 
@@ -92,15 +87,13 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
 
 Per ottimizzare gli annunci generati e garantire una rigorosa aderenza all&#39;identità del brand, sfrutta la potenza del [_controllo delle linee guida per il brand_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check), che fornisce un riepilogo dell&#39;allineamento del brand per una variante, e del [_pannello di convalida del brand_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel), che mostra dettagli completi sulla convalida del brand e illustra le aree di miglioramento.
 
-Puoi modificare manualmente singoli frammenti di annunci o [generare varianti perfezionate](/help/user-guide/create/generate-variants.md) del risultato iniziale per ottenere l&#39;allineamento con il tuo marchio.
-
 **Per verificare l&#39;allineamento del brand**:
 
 1. Fai clic sull&#39;icona [**[!UICONTROL [!DNL Brand] controllo delle linee guida]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) per una variante e visualizza un riepilogo delle prestazioni della variante quando questa viene confrontata con il tuo marchio.
 1. Per ottenere i dettagli dei frammenti e delle linee guida che necessitano di miglioramenti, fai clic su **[!UICONTROL Rivedi]** _o_ fai clic sull&#39;icona Convalida marchio nella barra dei menu superiore per aprire il [_pannello di convalida marchio_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 
 1. Passa da un annuncio all’altro per vedere come migliorare i contenuti generati per allinearli maggiormente al marchio.
-1. [Rivedi manualmente le e-mail](#revise-generated-emails) o [genera varianti](/help/user-guide/create/generate-variants.md), per garantire che gli annunci siano strettamente allineati al tuo marchio.
+1. [Rivedi manualmente le e-mail](#revise-generated-emails) per garantire che gli annunci siano strettamente allineati al tuo marchio.
 
 Consulta [Convalida marchio](/help/user-guide/guidelines/brand-validation.md).
 

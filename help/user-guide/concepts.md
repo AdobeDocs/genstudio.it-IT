@@ -2,9 +2,9 @@
 title: Concetti di GenStudio
 description: Scopri i concetti e la terminologia degli Adobi GenStudio.
 feature: Workflow, Generative AI
-source-git-commit: 9a591802a4cda9724afbcb28a0a02c2327b0afb4
+source-git-commit: 12af1741c368666a56ff8663b8b3dfe2087d7e54
 workflow-type: tm+mt
-source-wordcount: '289'
+source-wordcount: '298'
 ht-degree: 0%
 
 ---
@@ -17,7 +17,8 @@ GenStudio è un prodotto aziendale indipendente che incorpora la catena di forni
 Con GenStudio è possibile:
 
 - Creazione di contenuti sul brand utilizzando i prompt del linguaggio naturale
-- Genera varianti da personalizzare su più canali o aggiorna una campagna in corso
+- Collaborare con le parti interessate per rivedere e approvare i contenuti generati
+- Salva i contenuti generati e approvati per accedere alle campagne di marketing future
 - Valuta le prestazioni dei contenuti con informazioni approfondite su campagne e attributi di contenuto
 
 ## Tecnologia di intelligenza artificiale generativa

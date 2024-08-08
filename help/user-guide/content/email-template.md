@@ -3,9 +3,9 @@ title: Preparare un modello di e-mail per GenStudio
 description: Scopri come creare un modello e-mail personalizzato per GenStudio.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 6870f1b7056219d03cabbcc4e5ddbfa436b1a56d
+source-git-commit: 31f02218e02b1400ca9f32472acdecae03dbd304
 workflow-type: tm+mt
-source-wordcount: '343'
+source-wordcount: '353'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,9 @@ Vedi [Anatomia di un modello](/help/user-guide/content/use-templates.md#anatomy-
 
 Prima di preparare un Meta Ad Template, assicurati di aver aggiunto [linee guida](/help/user-guide/guidelines/overview.md) al tuo GenStudio e di averle compilate con informazioni complete per i brand rilevanti. Le [linee guida per il brand](/help/user-guide/guidelines/brands.md) influenzano direttamente i contenuti generati.
 
-> **Esempio**: se desideri che il corpo di un modello di posta elettronica non superi i 500 caratteri, aggiungi tale requisito alle [linee guida del canale](/help/user-guide/guidelines/brands.md#channel-guidelines) per il campo &quot;body&quot;.
+**Esempio**: se desideri che il corpo di un modello di posta elettronica non superi i 500 caratteri, aggiungi tale requisito alle [linee guida del canale](/help/user-guide/guidelines/brands.md#channel-guidelines) per il campo &quot;body&quot;.
+
+Se non si aggiungono linee guida a GenStudio, vengono utilizzati i valori predefiniti.
 
 ## Codificare un modello e-mail
 

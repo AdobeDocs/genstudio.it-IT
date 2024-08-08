@@ -4,7 +4,7 @@ description: Scopri come aggiungere le linee guida—[!DNL Brands], [!DNL Produc
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: 121a567a6a45f6d17caa621e323cdc3a4aa3dcb4
+source-git-commit: 3693d7dc3b9ee5c4b6c22bdc373f3c78bded4bef
 workflow-type: tm+mt
 source-wordcount: '913'
 ht-degree: 0%
@@ -22,7 +22,7 @@ L’aggiunta di linee guida a GenStudio è un passaggio importante nel processo 
 
 ## Aggiungi [!DNL Brands]
 
-Per aggiungere un brand a GenStudio, puoi [caricare una guida del brand](#upload-brand-guidelines) o [creare manualmente un brand](#manually-add-brand) selezionando le linee guida e immettendo i dettagli del brand. [Publish a brand](#publish-brand) in [!DNL Content] per renderlo disponibile per la generazione di varianti.
+Per aggiungere un brand a GenStudio, puoi [caricare una guida del brand](#upload-brand-guidelines) o [creare manualmente un brand](#manually-add-brand) selezionando le linee guida e immettendo i dettagli del brand. [Publish a brand](#publish-brand) in [!DNL Content] per renderlo disponibile per la futura generazione di contenuti.
 
 Nell&#39;area di navigazione a sinistra, fare clic su **[!DNL Brands]**. Nel pannello _[!DNL Brands]_, seleziona **Aggiungi marchio**.
 
@@ -82,7 +82,7 @@ Prima di pubblicare il tuo marchio, fai clic sulle sezioni _Linee guida per la v
 
 Quando il brand viene pubblicato, viene visualizzato un banner che conferma che il brand è pronto all&#39;uso: &quot;*Brand pubblicato e disponibile all&#39;uso*&quot;.
 
-Il brand pubblicato è ora disponibile per l&#39;utilizzo nella generazione di varianti in _[!DNL Create]_o_[!DNL Content]_.
+Il marchio pubblicato è ora disponibile per l&#39;utilizzo in _[!DNL Create]_o_[!DNL Content]_.
 
 ### Gestisci [!DNL Brands]
 
