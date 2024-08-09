@@ -1,7 +1,7 @@
 ---
 title: Guida utente di Adobe GenStudio
 description: Scopri come utilizzare GenStudio e l’intelligenza artificiale generativa per personalizzare la supply chain dei contenuti.
-source-git-commit: f5b353ac807b5676fbeda593a3827c960facda3a
+source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 1%
@@ -123,3 +123,4 @@ Con GenStudio, le aziende possono sfruttare l’intelligenza artificiale generat
    </p>
 </td>
 </table>
+
