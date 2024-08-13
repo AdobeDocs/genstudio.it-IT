@@ -1,18 +1,20 @@
 ---
 title: Guida utente di Adobe GenStudio
-description: Scopri come utilizzare GenStudio e l’intelligenza artificiale generativa per personalizzare la supply chain dei contenuti.
-source-git-commit: 214f54bcc15eb8d0c3b766784ac911790a8fb351
+description: Abilita gli addetti al marketing e i creativi con GenStudio, l’applicazione IA-first di Adobe che fornisce accesso self-service ai contenuti sul marchio con guardrail aziendali e governance per esperienze ad alte prestazioni.
+source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
 workflow-type: tm+mt
-source-wordcount: '178'
-ht-degree: 1%
+source-wordcount: '234'
+ht-degree: 0%
 
 ---
 
 # Guida utente di GenStudio
 
-GenStudio è una soluzione di marketing completa basata sulla tecnologia di intelligenza artificiale generativa di Adobe. Consente agli addetti al marketing di semplificare la catena di fornitura dei contenuti, dall’ideazione alla distribuzione e alla misurazione delle prestazioni.
+Ad Adobe GenStudio, una piattaforma basata sull’intelligenza artificiale che consente alle aziende di generare e gestire in modo autonomo contenuti di marketing conformi ai propri standard di marchio, conformi alle politiche aziendali e con supporto continuo di una strategia di marketing di forte impatto.
 
-Con GenStudio, le aziende possono sfruttare l’intelligenza artificiale generativa per accelerare la creazione dei contenuti, trovare e riutilizzare facilmente i contenuti e promuovere campagne omnicanale di successo.
+Con GenStudio, sia gli esperti di marketing che i creativi possono ottimizzare il processo di creazione dei contenuti per creare contenuti di marketing coinvolgenti, pertinenti dal punto di vista culturale e personalizzati per tipi di pubblico specifici, mantenendo al contempo elevata qualità e integrità del marchio.
+
+Sfruttando la tecnologia AI, GenStudio fornisce una suite completa di strumenti che semplificano le complessità di creazione e gestione dei contenuti, consentendo ai creativi di concentrarsi sull’innovazione.
 
 ## Esplora le funzionalità di GenStudio
 
@@ -28,7 +30,7 @@ Con GenStudio, le aziende possono sfruttare l’intelligenza artificiale generat
          </a>
       </div>
       <p>
-         <em>Richieste di creazione con linguaggio descrittivo, risorse del brand e altri criteri.</em>
+         <em>Creare prompt descrittivi che generano esperienze digitali nel marchio.</em>
       </p>
    </td>
    <td valign="top">
@@ -41,7 +43,7 @@ Con GenStudio, le aziende possono sfruttare l’intelligenza artificiale generat
          </a>
       </div>
       <p>
-         <em>Creare immagini e contenuti performanti e nel brand.</em>
+         <em>Creare e-mail e annunci Meta performanti, on-brand.</em>
       </p>
    </td>
    <td valign="top">
@@ -54,7 +56,7 @@ Con GenStudio, le aziende possono sfruttare l’intelligenza artificiale generat
          </a>
       </div>
       <p>
-         <em>Rivedi e approva i componenti della campagna e le risorse del brand.</em>
+         <em>Organizza la revisione e l'approvazione semplificate delle risorse di marketing.</em>
       </p>
    </td>
    <td valign="top">
@@ -80,7 +82,7 @@ Con GenStudio, le aziende possono sfruttare l’intelligenza artificiale generat
          </a>
       </div>
       <p>
-         <em>Ottimizzare le prestazioni dei contenuti in base all'utilizzo in tempo reale.</em>
+         <em>Analizzare l'efficacia dei contenuti dei canali multimediali a pagamento.</em>
       </p>
    </td>
 </tr>
@@ -97,7 +99,7 @@ Con GenStudio, le aziende possono sfruttare l’intelligenza artificiale generat
       </a>
    </div>
    <p>
-      <em>Scopri come aggiungere linee guida a GenStudio.</em>
+      <em>Scopri come aggiungere linee guida - Marchi, prodotti e utenti tipo - a GenStudio.</em>
    </p>
 </td>
 <td valign="top">

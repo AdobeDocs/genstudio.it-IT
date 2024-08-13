@@ -2,9 +2,9 @@
 title: Scrivi prompt effettivi
 description: Scopri come scrivere prompt efficaci per GenStudio.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: d7de679ce310dcdcec4a1b5ea814b2ca8b1fc413
+source-git-commit: 5e17996ee3a86cf664ee468d6b9cf178c8853992
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '483'
 ht-degree: 0%
 
 ---
@@ -14,9 +14,9 @@ ht-degree: 0%
 
 Comunicare con l’intelligenza artificiale generativa è essenziale per lavorare efficacemente in GenStudio.
 
-GenStudio fornisce un prompt di IA generativo ogni volta che è possibile creare o modificare una risorsa. I componenti di un prompt efficace devono includere un linguaggio descrittivo, esempi e informazioni non fornite dalle linee guida configurate.
+GenStudio fornisce un prompt di IA generativo ogni volta che è possibile modificare una risorsa. I componenti di un prompt efficace devono includere un linguaggio descrittivo, esempi e informazioni non fornite dalle linee guida configurate.
 
-Come best practice, fornisci a GenStudio le tue informazioni sul brand utilizzando [linee guida](/help/user-guide/guidelines/overview.md), quindi puoi sfruttare appieno l&#39;intelligenza artificiale generativa per produrre contenuti allineati al brand.
+Come best practice, fornisci a GenStudio le tue informazioni sul brand utilizzando [linee guida](/help/user-guide/guidelines/overview.md), quindi puoi sfruttare appieno l’intelligenza artificiale generativa per produrre esperienze di contenuti allineati al brand.
 
 ## Lingua descrittiva
 
