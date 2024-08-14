@@ -1,7 +1,7 @@
 ---
 title: Guida utente di Adobe GenStudio
 description: Abilita gli addetti al marketing e i creativi con GenStudio, l’applicazione IA-first di Adobe che fornisce accesso self-service ai contenuti sul marchio con guardrail aziendali e governance per esperienze ad alte prestazioni.
-source-git-commit: a0646480c863f9776aa7dfe1ef17eb9d23f269ea
+source-git-commit: 1e30db88fac8e6d47a845d4eb5d54defcc256244
 workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 0%
@@ -125,4 +125,3 @@ Sfruttando la tecnologia AI, GenStudio fornisce una suite completa di strumenti 
    </p>
 </td>
 </table>
-
