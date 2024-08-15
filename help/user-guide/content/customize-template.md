@@ -3,9 +3,9 @@ title: Personalizzare i modelli
 description: Scopri come creare un modello personalizzato per GenStudio.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: d7d11077d35a4c1924e4be456c00b1fae24e0a1b
+source-git-commit: 5c43cf2014c1f93bdb9988ddefb503630714e522
 workflow-type: tm+mt
-source-wordcount: '808'
+source-wordcount: '812'
 ht-degree: 0%
 
 ---
@@ -63,7 +63,7 @@ Nella tabella seguente sono elencati i nomi dei campi riconosciuti da GenStudio 
 | `cta` | Invito all’azione | e-mail (consigliato)<br>Annuncio metadati |
 | `on_image_text` | Su testo immagine | Meta annuncio (consigliato) |
 | `image` | Immagine | e-mail (consigliato)<br>Annuncio metadati (consigliato) |
-| `brand_logo` | Logo del marchio selezionato | Meta annuncio |
+| `brand_logo` | Logo del marchio selezionato | e-mail<br>Meta annuncio |
 
 GenStudio compila automaticamente alcuni campi nei modelli, pertanto non è necessario includerli nelle progettazioni dei modelli:
 
@@ -76,15 +76,33 @@ GenStudio compila automaticamente alcuni campi nei modelli, pertanto non è nece
 
 #### Nome campo logo marchio
 
-Per aggiungere un logo del brand al modello, utilizza il seguente codice per eseguire il rendering del logo predefinito:
+Per aggiungere un logo del brand al modello, utilizza uno dei seguenti metodi per eseguire il rendering del logo predefinito.
 
-```{{#if brand_logo}}{{brand_logo}}{{else}} encoded inline logo {{/if}}```
+_Esempio_:
+
+```bash
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default image>{{/if}}" alt="WKND" style="max-width: 88px; margin: 10px auto; display: block;"> 
+```
+
+_Esempio_:
+
+```bash
+{{#if brand_logo}}
+
+                    <img src="{{brand_logo}}" alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{else}}
+
+                    <img src="data:image/png;base64,iVBORw0KGgo..." alt="img alt text" style="width: 120px; height: 45px; margin: 10px auto; display: block;">
+
+                {{/if}}
+```
 
 #### Nomi di campi manuali
 
 Tutti gli altri nomi di campo vengono trattati come campi popolati manualmente. Se si desidera che una sezione sia modificabile, aggiungere parentesi doppie intorno alla sezione che si desidera modificare.
 
-> Esempio: ``{{customVariable}}`` (customVariable è la sezione modificabile manualmente)
+_Esempio_: ``{{customVariable}}`` (`customVariable` è la sezione modificabile manualmente)
 
 ## Sezioni o gruppi
 
