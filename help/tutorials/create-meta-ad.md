@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '887'
+source-wordcount: '897'
 ht-degree: 0%
 
 ---
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # Creare un’esperienza di annuncio multimediale
 
-Questo tutorial illustra come generare esperienze di annunci multimediali con il marchio utilizzando GenStudio [[!DNL Create]](/help/user-guide/create/overview.md) (icona del pennello nell&#39;area di navigazione a sinistra).
+Questo tutorial illustra come generare esperienze di annunci multimediali con il marchio utilizzando GenStudio per gli esperti di marketing delle prestazioni [[!DNL Create]](/help/user-guide/create/overview.md) (icona del pennello nell’area di navigazione a sinistra).
 
-Prima di iniziare a generare un&#39;esperienza di annuncio multimediale, è importante [incorporare le linee guida](/help/user-guide/guidelines/add-guidelines.md) in GenStudio e acquisire familiarità con le nozioni di base sulla [creazione di un prompt](/help/user-guide/effective-prompts.md).
+Prima di iniziare a generare un&#39;esperienza di annunci multimediali, è importante [incorporare le linee guida](/help/user-guide/guidelines/add-guidelines.md) in GenStudio per gli esperti di marketing delle prestazioni e acquisire familiarità con le nozioni di base sulla [creazione di un prompt](/help/user-guide/effective-prompts.md).
 
 ## Scegli un modello
 
@@ -41,7 +41,7 @@ L&#39;aggiunta di [linee guida](/help/user-guide/guidelines/overview.md) e risor
 1. Fai clic sull&#39;icona _Parametri_ per espandere l&#39;area del prompt.
 1. Nella sezione _Parametri_, selezionare linee guida—[!DNL Brands], [!DNL Personas] e [!DNL Products], per informare la creazione dei contenuti.
 
-   Se da questi menu non sono disponibili marchi, utenti tipo o prodotti, [aggiungi linee guida al tuo GenStudio](/help/user-guide/guidelines/add-guidelines.md).
+   Se da questi menu non sono disponibili marchi, utenti tipo o prodotti, [aggiungi le linee guida al tuo GenStudio for Performance Marketers](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Fai clic su **[!UICONTROL Seleziona contenuto]** per aggiungere contenuto da utilizzare nell&#39;esperienza *e* per influenzare la generazione del contenuto.
    * Fai clic su **[!UICONTROL Seleziona dal contenuto]** per selezionare le risorse (immagini) già pubblicate in [!DNL Content]. Utilizza i filtri per restringere ulteriormente i risultati della ricerca.
@@ -120,8 +120,8 @@ Per rendere i Meta Ads generati disponibili per l&#39;uso corrente e futuro, pub
 
 Per ulteriori informazioni, vedere [[!DNL Content]](/help/user-guide/content/overview.md#search-and-find-approved-content).
 
-## Connetti metadati a GenStudio
+## Connetti metadati
 
-Puoi connettere GenStudio a Meta per ricevere analisi avanzate e [approfondimenti](/help/user-guide/insights/overview.md) sulle prestazioni dei contenuti.
+Puoi collegare GenStudio for Performance Marketers a Meta per ricevere analisi avanzate e [approfondimenti](/help/user-guide/insights/overview.md) sulle prestazioni dei contenuti.
 
 Per ulteriori informazioni, vedere [Connetti account canale](/help/user-guide/insights/connect-channel.md).

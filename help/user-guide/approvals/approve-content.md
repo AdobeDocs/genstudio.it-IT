@@ -2,9 +2,9 @@
 title: Approva contenuto
 description: Scopri come approvare i contenuti.
 feature: Approval
-source-git-commit: 0d6eff35e66d3657aa4f5fda65f91f0caab4a7e1
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
@@ -24,5 +24,5 @@ Se la bozza di contenuto soddisfa gli standard e le aspettative della tua organi
 
 1. Modifica stato bozza da **Richiede lavoro** a **Approvato**.
 
-Il tuo lavoro di approvatore è terminato. GenStudio avvisa il creatore della bozza della tua approvazione. Consulta [Contenuto Publish](./publish-content.md) per una panoramica del processo di salvataggio in [!DNL Content] o _pubblicazione_.
+Il tuo lavoro di approvatore è terminato. GenStudio for Performance Marketers avvisa il creatore della bozza della tua approvazione. Consulta [Contenuto Publish](./publish-content.md) per una panoramica del processo di salvataggio in [!DNL Content] o _pubblicazione_.
 

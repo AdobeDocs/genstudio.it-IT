@@ -2,9 +2,9 @@
 title: Rivedere e modificare il contenuto
 description: Scopri come rivedere e modificare il contenuto iterativamente.
 feature: Approval
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '555'
+source-wordcount: '570'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 I processi di revisione e approvazione che coinvolgono più revisori possono richiedere molto tempo. Il ciclo di revisione del contenuto, revisione del contenuto in risposta ai commenti di revisione, quindi revisione del contenuto modificato può ripetersi più volte.
 
-Le funzionalità di intelligenza artificiale generative di GenStudio accelerano queste fasi iterative critiche del processo di creazione e revisione dei contenuti. I creatori di contenuti possono rispondere alle richieste dei revisori utilizzando le funzionalità di richiesta per modificare rapidamente le bozze. Le notifiche interne al prodotto avvisano immediatamente i revisori che la bozza è stata rivista e possono esaminare le modifiche. Maggiore è il numero di revisori e cicli di revisione richiesti dallo sviluppo dei contenuti, maggiori sono i vantaggi offerti da GenStudio.
+Le funzionalità di intelligenza artificiale generative di GenStudio for Performance Marketers accelerano queste fasi iterative critiche del processo di creazione e revisione dei contenuti. I creatori di contenuti possono rispondere alle richieste dei revisori utilizzando le funzionalità di richiesta per modificare rapidamente le bozze. Le notifiche interne al prodotto avvisano immediatamente i revisori che la bozza è stata rivista e possono esaminare le modifiche. Maggiore è il numero di revisori e cicli di revisione richiesti dallo sviluppo dei contenuti, maggiori sono i vantaggi offerti da GenStudio per gli esperti di marketing delle prestazioni.
 
 ## Modifica bozza iterativa
 
@@ -24,7 +24,7 @@ I creatori possono apportare modifiche in-process ai contenuti in risposta ai co
 
 In qualità di approvatore designato, puoi accedere al contenuto che ti viene richiesto di rivedere e approvare in diversi modi:
 
-* **Accedi alla bozza per la revisione direttamente dal collegamento alla bozza nella richiesta di approvazione**. Fai clic sul collegamento della bozza nella notifica e-mail della richiesta di approvazione o nella notifica interna al prodotto. GenStudio apre un’area di lavoro che mostra la risorsa o l’esperienza. Il pannello a sinistra dei dettagli della _risorsa_ include un pannello _Approvazione_.
+* **Accedi alla bozza per la revisione direttamente dal collegamento alla bozza nella richiesta di approvazione**. Fai clic sul collegamento della bozza nella notifica e-mail della richiesta di approvazione o nella notifica interna al prodotto. GenStudio for Performance Marketers apre un’area di lavoro in cui viene visualizzata la risorsa o l’esperienza. Il pannello a sinistra dei dettagli della _risorsa_ include un pannello _Approvazione_.
 
 * **Accedi alla bozza per la revisione dall&#39;elenco delle richieste di approvazione**. Se ti viene richiesto di rivedere più bozze di contenuto, l&#39;e-mail di notifica include un pulsante **[!UICONTROL Visualizza tutte le notifiche]**. Fare clic su questo pulsante per passare a una pagina in cui vengono visualizzate tutte le richieste di revisione in sospeso.
 
@@ -34,7 +34,7 @@ Puoi approvare il contenuto se hai ricevuto un’e-mail di richiesta di approvaz
 
 **Per rivedere il contenuto**:
 
-1. Utilizza il collegamento nella notifica in produzione o nell’e-mail di richiesta per passare al contenuto da rivedere. In GenStudio viene visualizzata l’area di lavoro del contenuto.
+1. Utilizza il collegamento nella notifica in produzione o nell’e-mail di richiesta per passare al contenuto da rivedere. GenStudio for Performance Marketers visualizza l’area di lavoro del contenuto.
 
 1. L&#39;area di lavoro risorse include un pulsante **[!UICONTROL Rivedi e approva]** in alto a destra. Fai clic su questo pulsante per aprire il pannello _Approvazioni_ per questa risorsa.
 
@@ -42,7 +42,7 @@ Puoi approvare il contenuto se hai ricevuto un’e-mail di richiesta di approvaz
 
 Puoi elencare le modifiche suggerite o porre domande sulla bozza dal pannello _Approvazione_ del contenuto. Lo stato della bozza di **Necessità di lavoro** notifica al creatore del contenuto che le modifiche sono richieste.
 
-Questo processo di revisione, suggerimento di modifiche al creatore di contenuti, revisione del contenuto e nuovo invio per l’approvazione è altamente iterativo. È in questa parte del ciclo che si vedono le capacità di risparmio di tempo di GenStudio.
+Questo processo di revisione, suggerimento di modifiche al creatore di contenuti, revisione del contenuto e nuovo invio per l’approvazione è altamente iterativo. È in questa parte del ciclo che puoi vedere le funzionalità di risparmio di tempo di GenStudio per gli esperti di marketing delle prestazioni.
 
 **Per richiedere modifiche**:
 

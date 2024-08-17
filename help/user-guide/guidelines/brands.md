@@ -1,20 +1,20 @@
 ---
-title: GenStudio [!DNL Brands]
-description: GenStudio [!DNL Brands] sono una raccolta completa di risorse per i marchi, quali copie di marketing, immagini, esperienze e altro ancora, per informare la creazione di contenuti allineati al marchio in GenStudio.
+title: GenStudio per gli esperti di marketing delle prestazioni [!DNL Brands]
+description: GenStudio for Performance Marketers [!DNL Brands] è una raccolta completa di risorse per i marchi, come copie di marketing, immagini, esperienze e altro ancora, per informare la creazione di contenuti allineati al marchio.
 feature: Brands Service, Guidelines
-source-git-commit: c90cec72bd4cad505b7374e0ae81bafc383102e9
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '778'
+source-wordcount: '800'
 ht-degree: 1%
 
 ---
 
 
-# GenStudio [!DNL Brands]
+# GenStudio per gli esperti di marketing delle prestazioni [!DNL Brands]
 
 Un marchio distingue un’organizzazione, un prodotto, un servizio o un concetto dagli altri. Alcuni aspetti di un marchio sono oggettivi, come un logo, mentre altri sono soggettivi, come il tono di voce.
 
-GenStudio utilizza la vasta gamma di informazioni sul marchio del cliente, le associa con [!DNL Product] e [!DNL Persona] informazioni e crea un&#39;identità del marchio completa. Questa identità del brand viene utilizzata per informare la creazione di contenuti on-brand utilizzando la tecnologia AI generativa di Adobe.
+GenStudio per gli esperti di marketing delle prestazioni utilizza la vasta gamma di informazioni sul marchio del cliente, crea un partner con [!DNL Product] e [!DNL Persona] informazioni e crea un&#39;identità del marchio completa. Questa identità del brand viene utilizzata per informare la creazione di contenuti on-brand utilizzando la tecnologia AI generativa di Adobe.
 
 **Per visualizzare o modificare un marchio**:
 
@@ -22,11 +22,11 @@ GenStudio utilizza la vasta gamma di informazioni sul marchio del cliente, le as
 1. Per visualizzare le informazioni generali su un brand, fai clic su per aprire un brand definito.
 1. Per visualizzare singoli dettagli o modificare un marchio, fai clic su **[!UICONTROL Linee guida per la voce del marchio]**, **[!UICONTROL Linee guida per il canale]**, **[!UICONTROL Linee guida per le immagini]** o **[!UICONTROL Logo]** nella parte superiore.
 
-Puoi caricare i documenti sulle linee guida del brand (fino a tre file PDF o DOC) in GenStudio per creare automaticamente un brand. Consulta [Aggiungi linee guida](add-guidelines.md) per scoprire come aggiungere un brand a GenStudio, modificarlo, pubblicarlo e altro ancora.
+Puoi caricare i documenti sulle linee guida del brand (fino a tre file PDF o DOC) in GenStudio per consentire agli addetti al marketing delle prestazioni di creare automaticamente un brand. Consulta [Aggiungi linee guida](add-guidelines.md) per scoprire come aggiungere un brand a GenStudio per gli esperti di marketing delle prestazioni, modificarlo, pubblicarlo e altro ancora.
 
 ## [!DNL Brands] linee guida
 
-Le linee guida forniscono a GenStudio un quadro chiaro dell&#39;approccio, del tono, della percezione visiva e altro ancora specifici del marchio.
+Le linee guida forniscono a GenStudio per gli esperti di marketing delle prestazioni un quadro chiaro dell&#39;approccio, del tono, della percezione visiva e altro ancora specifici per il tuo marchio.
 
 Le sezioni delle linee guida riportate di seguito descrivono ogni categoria di linee guida, esempi di linee guida e risultati potenziali. Gli esempi di linee guida sono input di esempio che modellano l’output dei risultati (esempi di risultati sotto) e li utilizzano per informare le linee guida del tuo marchio.
 
@@ -72,16 +72,16 @@ You can create your own categories, like Photos, Product, or Illustration imager
 | Color and tone | Specify color or color theme, palette, color interpretation and accessibility | `Use bright and bold color palette, Ensure high contrast` |
 | Lighting   | Describe how highlights and shadows affect different objects| `Use natural light, Avoid using shadows` |
 
-![Image guidelines in GenStudio](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
+![Image guidelines in GenStudio for Performance Marketers](/help/assets/image-guidelines.png){width="650" zoomable="yes"} 
 
 ### Logos
 
 Add logos to your brand in the **[!UICONTROL Logos]** tab.
 
-![Logo guidelines in GenStudio](/help/assets/logos.png){width="650" zoomable="yes"} -->
+![Logo guidelines in GenStudio for Performance Marketers](/help/assets/logos.png){width="650" zoomable="yes"} -->
 
 ## Convalida del brand
 
-In GenStudio, la convalida del brand svolge un ruolo cruciale, insieme alla funzionalità di intelligenza artificiale generativa di [!DNL Brands], [!DNL Products] e [!DNL Personas]. In questo modo tutti i contenuti rimarranno coerenti con la tua identità del brand.
+In GenStudio per gli esperti di marketing delle prestazioni, la convalida del brand svolge un ruolo cruciale, insieme alla funzionalità di intelligenza artificiale generativa di [!DNL Brands], [!DNL Products] e [!DNL Personas]. In questo modo tutti i contenuti rimarranno coerenti con la tua identità del brand.
 
 Consulta [Convalida marchio](/help/user-guide/guidelines/brand-validation.md).

@@ -2,9 +2,9 @@
 title: Contenuto approvato da Publish
 description: Scopri come pubblicare i contenuti approvati.
 feature: Approval, Content
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '318'
+source-wordcount: '341'
 ht-degree: 0%
 
 ---
@@ -14,19 +14,19 @@ ht-degree: 0%
 
 La fase finale della creazione di contenuti approvati e allineati al brand lo salva in [!DNL Content] con i metadati appropriati. L&#39;utente (autore del contenuto) deve finalizzare la risorsa approvata pubblicandola o salvandola in [!DNL Content].
 
-Quando tutti i revisori designati approvano una bozza, GenStudio cambia lo stato della bozza in **Approvato**. Questo cambiamento di stato avvia il processo di pubblicazione.  GenStudio visualizza il pop-up _Varianti approvate pronte per la pubblicazione_ nell&#39;area di lavoro del creatore e invia un&#39;e-mail di notifica.
+Quando tutti i revisori designati approvano una bozza, GenStudio for Performance Marketers modifica lo stato della bozza in **Approvato**. Questo cambiamento di stato avvia il processo di pubblicazione. GenStudio for Performance Marketers visualizza il pop-up _Varianti approvate pronte per la pubblicazione_ nell&#39;area di lavoro del creatore e invia un&#39;e-mail di notifica.
 
-È quindi possibile finalizzare la bozza salvandola in [!DNL Content] con i metadati appropriati. La bozza approvata non è disponibile per altri utenti di GenStudio fino a quando non si pubblica la bozza in [!DNL Content].
+È quindi possibile finalizzare la bozza salvandola in [!DNL Content] con i metadati appropriati. La bozza approvata non è disponibile per altri utenti di GenStudio for Performance Marketers fino a quando non viene pubblicata in [!DNL Content].
 
 **Per pubblicare contenuti approvati**:
 
 1. Accedi alla bozza approvata dal messaggio e-mail di notifica dell&#39;approvazione o dal pop-up _Varianti approvate pronte per la pubblicazione_. Questo popup include un pulsante **[!UICONTROL Chiudi]** per posticipare la pubblicazione della risorsa approvata e un pulsante **[!UICONTROL Publish]** per avviare il processo di pubblicazione.
 
-1. Fai clic su **[!UICONTROL Publish]** per salvare la risorsa o l&#39;esperienza in [!DNL Content]. In GenStudio viene visualizzata la finestra _Conferma dettagli per il contenuto approvato_, in cui vengono visualizzate le miniature delle risorse approvate.
+1. Fai clic su **[!UICONTROL Publish]** per salvare la risorsa o l&#39;esperienza in [!DNL Content]. In GenStudio for Performance Marketers viene visualizzata la finestra _Conferma dettagli per il contenuto approvato_, in cui vengono visualizzate le miniature delle risorse approvate.
 
-1. Aggiungi informazioni sul contenuto come richiesto da GenStudio. Queste informazioni vengono salvate come metadati, che aggiungono valore al filtro [!DNL Content] e alle operazioni di ricerca. A questo punto del processo di pubblicazione, puoi aggiungere la risorsa a una campagna GenStudio.
+1. Aggiungere informazioni sul contenuto come richiesto da GenStudio per gli esperti di marketing delle prestazioni. Queste informazioni vengono salvate come metadati, che aggiungono valore al filtro [!DNL Content] e alle operazioni di ricerca. A questo punto del processo di pubblicazione, puoi aggiungere la risorsa a una campagna GenStudio for Performance Marketing.
 
-1. Al termine della pubblicazione del contenuto, in GenStudio viene visualizzato il popup _Le varianti approvate sono state pubblicate_. Da questa finestra popup è possibile:
+1. Al termine della pubblicazione del contenuto, in GenStudio for Performance Marketers viene visualizzato il popup _Le varianti approvate sono state pubblicate_. Da questa finestra popup è possibile:
 
    * Fai clic su **[!UICONTROL Apri nel contenuto]** per visualizzare la risorsa o l&#39;esperienza pubblicata.
 
@@ -34,10 +34,10 @@ Quando tutti i revisori designati approvano una bozza, GenStudio cambia lo stato
 
 ## Dopo la pubblicazione
 
-Tutti gli utenti di GenStudio possono accedere alle risorse o esperienze approvate in [!DNL Content]. Il pannello Dettagli risorsa identifica la cronologia di caricamento e approvazione della risorsa. Questi attributi identificano il contenuto salvato:
+Tutti gli utenti di GenStudio for Performance Marketers possono accedere alle risorse o esperienze approvate in [!DNL Content]. Il pannello Dettagli risorsa identifica la cronologia di caricamento e approvazione della risorsa. Questi attributi identificano il contenuto salvato:
 
 * **Data di caricamento**: identifica la data di caricamento del contenuto.
-* **Caricato da**: identifica il creatore di risorse GenStudio.
+* **Caricato da**: identifica il creatore della risorsa.
 
 Gli URL bozza non sono validi dopo il salvataggio di una risorsa o esperienza bozza in [!DNL Content].
 

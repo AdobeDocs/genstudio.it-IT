@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio per le note sulla versione di Beta per gli esperti di prestazioni marketing
 description: Scopri le funzioni e i miglioramenti più recenti di Adobe GenStudio per gli esperti di marketing delle prestazioni.
-source-git-commit: cbae3aeb1b8282fb64f2a6405a7ad9e07a48dbbd
+source-git-commit: 75d966e8474687e8e88ccec6fe6a96fda030dbcf
 workflow-type: tm+mt
-source-wordcount: '347'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -11,7 +11,7 @@ ht-degree: 0%
 
 # Adobe GenStudio per le note sulla versione di Beta per gli esperti di prestazioni marketing
 
-Queste note mettono in evidenza importanti correzioni e miglioramenti di Adobe GenStudio per la settimana che termina il 16 agosto.
+Queste note evidenziano un Adobe GenStudio significativo di correzioni e miglioramenti per gli esperti di marketing delle prestazioni per la settimana che termina il 16 agosto.
 
 ## In evidenza
 
@@ -26,8 +26,6 @@ Il pannello di convalida [!DNL Brand] è stato migliorato per migliorare l&#39;e
 * **Interfaccia di estrazione del marchio aggiornata**: l&#39;estrazione del marchio ora mostra il completamento del processo di estrazione come percentuale.
 
 * **Carico incrementale del brand durante l&#39;estrazione**: le linee guida per il brand ora vengono caricate in modo incrementale nell&#39;interfaccia utente.
-
-* **Semplificazione dello schema delle linee guida per la copia**: i campi `unique attributes` e `frequent keywords` sono stati rimossi dallo schema delle linee guida per la copia, semplificando il processo di configurazione delle linee guida.
 
 ### [!DNL Create]
 
@@ -57,19 +55,8 @@ Questa versione include le seguenti correzioni aggiuntive.
 
 I seguenti problemi noti saranno risolti dalla versione GA di GenStudio for Performance Marketers.
 
-### Analisi
-
-* Le azioni attivate dai pulsanti **[!UICONTROL Aggiungi modelli]** e **[!UICONTROL Carica]** non sono attualmente tracciate. <!-- GS-3505 -->
-
 ### [!DNL Insights]
 
 * Impossibile riprodurre video da _Assets_. <!-- GS-3846 -->
 
 * Gli utenti devono effettuare l’accesso due volte quando hanno effettuato anche l’accesso a Facebook. **Soluzione**: disconnettersi da Facebook prima di accedere a [!DNL Insights].
-
-* **I valori di spesa a livello di campagna** non sono precisi. Al momento i dati non sono coerenti tra Facebook Ads Manager e il data lake. <!-- GS-3202 -->
-
-### [!DNL Reviews and Approvals]
-
-* I creatori possono modificare le risorse dopo averle approvate prima della pubblicazione. Gli approvatori non ricevono alcuna notifica di queste modifiche.
-

@@ -1,10 +1,10 @@
 ---
 title: Dettagli risorsa
-description: GenStudio archivia i contenuti approvati con metadati avanzati per la ricerca e il tracciamento delle prestazioni.
+description: L'Adobe GenStudio di Performance Marketers memorizza i contenuti approvati con metadati avanzati per la ricercabilità e il tracciamento delle prestazioni.
 feature: Attributes, Assets
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '428'
 ht-degree: 1%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 1%
 
 # Dettagli risorsa
 
-GenStudio archivia i contenuti approvati con metadati avanzati per il discovery e il tracciamento delle prestazioni.
+L&#39;Adobe GenStudio di Performance Marketers memorizza i contenuti approvati con metadati avanzati per il rilevamento e il tracciamento delle prestazioni.
 
 A ogni risorsa (inclusi esperienze e modelli) sono associati _dettagli_ (metadati) che consentono di identificare, tenere traccia, utilizzare e apprendere dalle prestazioni dei contenuti.
 
@@ -26,7 +26,7 @@ I metadati predefiniti memorizzati e acquisiti per una risorsa includono il nome
 
 ### Tag generati
 
-Quando le risorse vengono approvate e memorizzate in [!DNL Content], GenStudio utilizza le funzionalità di intelligenza artificiale e machine learning di Adobe per generare tag in base alle funzioni delle risorse, ad esempio colore e tono, oppure parole chiave che identificano le funzioni delle risorse. Non è possibile modificare i tag.
+Quando le risorse vengono approvate e memorizzate in [!DNL Content], GenStudio for Performance Marketers utilizza le funzionalità di intelligenza artificiale e machine learning di Adobe per generare tag in base alle funzioni delle risorse, ad esempio colore e tono, o parole chiave che identificano le funzioni delle risorse. Non è possibile modificare i tag.
 
 ### Metadati del contenuto generato
 
@@ -36,7 +36,7 @@ Le informazioni utilizzate per generare una nuova risorsa o esperienza diventano
 
 I metadati definiti dall’utente aggiungono un contesto di marketing al contenuto della risorsa, consentendo agli addetti al marketing di comprendere meglio come utilizzarla e interagire con essa.
 
-Quando [carichi una risorsa](/help/user-guide/content/manage-assets.md#add-assets), puoi definire un set di dettagli facoltativi della risorsa presenti in GenStudio come metadati.
+Quando [carichi una risorsa](/help/user-guide/content/manage-assets.md#add-assets), puoi definire come metadati un set di dettagli facoltativi della risorsa esistenti in GenStudio per gli esperti di prestazioni marketing.
 
 ### Dettagli metadati
 
@@ -45,10 +45,10 @@ La tabella seguente descrive i metadati (dettagli risorsa) che puoi definire dur
 | Campo | Descrizione | Modificabile | Obbligatorio |
 | ------------- | ----------- | -------- | -------- |
 | Nome campagna (nome progetto) | Metadati predefiniti acquisiti e memorizzati con la risorsa | Y | N |
-| Marchio | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) aggiunto a GenStudio e pubblicato per l&#39;utilizzo | Y | N |
-| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) aggiunti a GenStudio per l&#39;utilizzo | Y | N |
-| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) aggiunti a GenStudio per l&#39;utilizzo | Y | N |
-| Canali | Tipi di contenuto in GenStudio per cui viene utilizzata la risorsa, ad esempio e-mail e annunci Meta | Y | N |
+| Marchio | [[!DNL Brands]](/help/user-guide/guidelines/brands.md) aggiunto a GenStudio per gli esperti di marketing delle prestazioni e pubblicato per l&#39;utilizzo | Y | N |
+| [!DNL Products] | [[!DNL Products]](/help/user-guide/guidelines/products.md) aggiunti a GenStudio per gli esperti di marketing delle prestazioni per l&#39;utilizzo | Y | N |
+| [!DNL Personas] | [[!DNL Personas]](/help/user-guide/guidelines/personas.md) aggiunti a GenStudio per gli esperti di marketing delle prestazioni per l&#39;utilizzo | Y | N |
+| Canali | Tipi di contenuto in GenStudio per gli addetti al marketing delle prestazioni per cui viene utilizzata la risorsa, ad esempio e-mail e meta-annunci | Y | N |
 | Intervallo temporale | Intervallo temporale per il quale la risorsa è stata utilizzata, ad esempio trimestre, stagione, anno e così via. Esempio: `Winter 2023` | Y | N |
 | Regione | Aree per le quali viene utilizzata la risorsa. Esempi: `North America`, `APAC`, `Italy` | Y | N |
 | Lingua | Lingue per cui viene utilizzata la risorsa. Esempio: `Spanish` | Y | N |

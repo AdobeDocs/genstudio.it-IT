@@ -1,13 +1,13 @@
 ---
-source-git-commit: 135502f6743f2d45860c900a49a8c19a024a58dc
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '304'
-ht-degree: 37%
+source-wordcount: '310'
+ht-degree: 36%
 
 ---
-# Documentazione di GenStudio
+# Documentazione di GenStudio per gli esperti di marketing delle prestazioni
 
-Questo sito contiene la documentazione più recente del prodotto GenStudio.
+Questo sito contiene la documentazione più recente del prodotto GenStudio per gli esperti di marketing delle prestazioni.
 
 ## Codice di condotta open source di Adobe
 
@@ -35,10 +35,10 @@ Per maggiori informazioni, consulta la [Guida per i collaboratori di Adobe Docs]
 
 ## Markdown
 
-Tutti gli articoli in questo archivio utilizzano markdown basato su GitHub. Se non conosci il linguaggio Markdown, consulta:
+Tutti gli articoli in questo archivio utilizzano markdown basato su GitHub. Se non hai familiarità con il markdown, vedi le risorse seguenti:
 
-- [Nozioni di base su Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [Scheda di riferimento Markdown stampabile](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
+- [Nozioni di base sul markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Opuscolo riassuntivo stampabile sul markdown](https://docs.github.com/en/get-started/getting-started-with-git/git-cheatsheet)
 
 ## Etichette
 

@@ -2,9 +2,9 @@
 title: Gestire risorse ed esperienze
 description: Semplifica e migliora la gestione delle risorse approvate dal marchio da utilizzare e riutilizzare nel percorso di marketing digitale.
 feature: Content, Assets, Experiences
-source-git-commit: ba7dced9e62f797cd43a0bd8d8263828ec5c3d5e
+source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
 workflow-type: tm+mt
-source-wordcount: '352'
+source-wordcount: '359'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Gestire risorse ed esperienze
 
-GenStudio [!DNL Content] semplifica e migliora la gestione delle risorse approvate dal marchio da utilizzare e riutilizzare nel percorso di marketing digitale.
+Adobe GenStudio per gli esperti di marketing delle prestazioni [!DNL Content] semplifica e migliora la gestione delle risorse approvate dal marchio da utilizzare e riutilizzare nel percorso di marketing digitale.
 
 ## Aggiungere risorse
 
@@ -26,11 +26,11 @@ GenStudio [!DNL Content] semplifica e migliora la gestione delle risorse approva
 
 1. Per migliorare la reperibilità, aggiungi dettagli facoltativi come _Brand name_, _Personas_, _Region_ e _Keywords_ nella sezione **More details**.
 
-   Maggiore è il numero di dettagli forniti, maggiori saranno le funzionalità di GenStudio. Selezionare uno o più dettagli dall&#39;elenco o immetterne uno nuovo, se applicabile, ad esempio con parole chiave. Ogni dettaglio aggiunto viene visualizzato sotto l&#39;elenco. Fare clic su **`x`** per rimuovere un dettaglio.
+   Maggiore è il numero di dettagli forniti, maggiori saranno le funzionalità di GenStudio per gli esperti di marketing delle prestazioni. Selezionare uno o più dettagli dall&#39;elenco o immetterne uno nuovo, se applicabile, ad esempio con parole chiave. Ogni dettaglio aggiunto viene visualizzato sotto l&#39;elenco. Fare clic su **`x`** per rimuovere un dettaglio.
 
    Tutti i dettagli aggiunti vengono applicati a tutte le risorse aggiunte in questa azione.
 
-   Vedi [Dettagli metadati](/help/user-guide/content/asset-details.md#genstudio-metadata).
+   Vedi [Dettagli metadati](/help/user-guide/content/asset-details.md#system-metadata).
 
 1. Fai clic su **[!UICONTROL Aggiungi risorse]**.
 1. Al termine del caricamento della risorsa, fai clic su **Fine**.
@@ -59,7 +59,3 @@ Per limitare i risultati della ricerca, applica i filtri e utilizza i tag di met
 1. Seleziona una risorsa per una visualizzazione completa e un elenco di dettagli.
 
    Fai clic su **[!UICONTROL Scarica]** (freccia giù) per utilizzare la risorsa nella workstation locale.
-
-<!-- 
-There is more here, but not ready yet.
--->

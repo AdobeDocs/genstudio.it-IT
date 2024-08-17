@@ -1,10 +1,10 @@
 ---
 title: Utilizzare i modelli
-description: Scopri come utilizzare i modelli per creare esperienze coinvolgenti in GenStudio.
+description: Scopri come utilizzare i modelli per creare esperienze coinvolgenti in Adobe GenStudio per gli esperti di marketing delle prestazioni.
 feature: Templates, Content
-source-git-commit: c8fa0cf1633a5ca0ab94d9a0f33d9b7e7d6d61ed
+source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
 workflow-type: tm+mt
-source-wordcount: '443'
+source-wordcount: '459'
 ht-degree: 2%
 
 ---
@@ -17,8 +17,8 @@ I modelli GenStudio sono essenziali per consentire ai creatori di contenuti di p
 Questa guida fornisce informazioni dettagliate su come:
 
 * Prepara un [modello di e-mail](email-template.md) o modello di annunci multimediali
-* [Personalizza modelli](customize-template.md) per GenStudio
-* [Carica modelli](#upload-a-template) in GenStudio
+* [Personalizzare i modelli](customize-template.md) per GenStudio per Performance Marketerstudio
+* [Carica modelli](#upload-a-template) in GenStudio per gli esperti di marketing delle prestazioni
 * [Utilizzare i modelli per creare esperienze](#use-a-template)
 
 ## Anatomia di un modello
@@ -38,11 +38,11 @@ La progettazione di base dei modelli include i seguenti elementi:
 
 >[!NOTE]
 > 
->È consigliabile includere campi specifici nel contenuto di ciascun canale, per garantire che GenStudio possa generare testo per i segnaposto di contenuto. Consulta [Nomi di campi riconosciuti](customize-template.md#recognized-field-names) per vedere quali campi sono consigliati per l&#39;inclusione.
+>È consigliabile includere campi specifici nel contenuto di ciascun canale per garantire che GenStudio for Performance Marketers possa generare testo per i segnaposto di contenuto. Consulta [Nomi di campi riconosciuti](customize-template.md#recognized-field-names) per vedere quali campi sono consigliati per l&#39;inclusione.
 
 ## Caricare un modello
 
-GenStudio accetta modelli in formato HTML.
+GenStudio for Performance Marketers accetta modelli in formato HTML.
 
 **Per aggiungere un modello**:
 
@@ -80,7 +80,6 @@ Trova e utilizza un modello esistente per creare esperienze.
 >[!TIP]
 >
 >Consulta [[!DNL Create] un&#39;esperienza e-mail](/help/tutorials/create-email-experience.md) o [[!DNL Create] un&#39;esperienza di annuncio multimediale](/help/tutorials/create-meta-ad.md) per le esercitazioni complete tramite i modelli.
-
 <!--  The create button in Content Template view does not work yet.
 1. Click **[!UICONTROL Create Experience]** (paintbrush) from the upper right corner to use the template.
 -->
