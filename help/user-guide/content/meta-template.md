@@ -3,9 +3,9 @@ title: Preparare un Meta Ad Template per Adobe GenStudio per gli esperti di mark
 description: Scopri come creare un modello di Meta Ad personalizzato, ad Adobe GenStudio per gli esperti di marketing delle prestazioni.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
 workflow-type: tm+mt
-source-wordcount: '423'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---
@@ -52,18 +52,18 @@ Definisci le aree nel modello e-mail che devono essere compilate dinamicamente c
 Per definire le aree di contenuto generato:
 
 * Identifica gli elementi di testo nel modello che GenStudio per gli addetti al marketing delle prestazioni deve generare automaticamente, ad esempio il titolo o CTA.
-* Adatta il modello di HTML inserendo segnaposto al suo interno utilizzando la sintassi Handblebars.
+* Adatta il modello di HTML inserendo segnaposto al suo interno utilizzando la sintassi Handlebars.
 
 Vedi [Segnaposto contenuto](/help/user-guide/content/customize-template.md#content-placeholders).
 
 ## Visualizzare l’anteprima del modello
 
-Controlla la visibilità di aree di contenuto specifiche utilizzando gli Helper integrati. Ad esempio, puoi includere parametri di tracciamento per i collegamenti in un modello esportato mantenendo collegamenti di anteprima puliti.
+Controlla la visibilità di specifiche aree di contenuto con Helper integrati. Ad esempio, includi i parametri di tracciamento per i collegamenti in un modello esportato mantenendo collegamenti di anteprima puliti.
 
 Vedi [Anteprima modello](/help/user-guide/content/customize-template.md#template-preview).
 
 ## Caricare e utilizzare il modello
 
-Dopo aver progettato, codificato, testato e visualizzato in anteprima il modello, puoi caricarlo in GenStudio for Performance Marketers per utilizzarlo nella generazione di nuovi contenuti di marketing.
+Dopo aver progettato, codificato, testato e visualizzato in anteprima il modello, caricalo in GenStudio for Performance Marketers per utilizzarlo nella generazione di nuovi contenuti di marketing.
 
 Vedi [Utilizzo dei modelli](use-templates.md).
