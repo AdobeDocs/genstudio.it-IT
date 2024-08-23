@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio per le note sulla versione di Beta per gli esperti di prestazioni marketing
 description: Scopri le funzioni e i miglioramenti più recenti di Adobe GenStudio per gli esperti di marketing delle prestazioni.
-source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
+source-git-commit: 17d2cb3afd6c3ce8a8c5efe8c5b406f6cdf5aa76
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -27,7 +27,7 @@ I seguenti problemi noti sono pianificati per la risoluzione nella versione GA d
 
 ### Risoluzione dei problemi noti
 
-* Il menu a discesa Prompt area ([!DNL Brands]) visualizza uno spinner alla fine dell&#39;elenco ([!DNL Brands]) durante la creazione dell&#39;e-mail. (risolto il 22/8) <!-- GS-4077 -->
+* Il menu a discesa Prompt area ([!DNL Brands]) visualizza un&#39;icona di selezione alla fine dell&#39;elenco ([!DNL Brands]) durante la creazione dell&#39;e-mail. (risolto il 22/8) <!-- GS-4077 -->
 
 ## Versioni precedenti di Beta
 
@@ -51,7 +51,7 @@ Le versioni precedenti di Beta includevano i seguenti elementi di rilievo e corr
 
 * Il nome del posizionamento del feed di pagina _Dettagli esperienza_ ora specifica il feed di Facebook o Instagram. (8/16)
 
-* Il ritaglio di immagini e video di dimensioni maggiori è ora coerente quando l&#39;utente passa dalla visualizzazione _Panoramica risorse_ alla visualizzazione _Dettagli risorsa_.  (8/16)
+* Il ritaglio di immagini e video di dimensioni maggiori è ora coerente quando l&#39;utente passa dalla visualizzazione _Panoramica risorse_ alla visualizzazione _Dettagli risorsa_. (8/16)
 
 * Il conteggio dei risultati della ricerca nella schermata Attributi non visualizza più `0 of` prima che un utente effettui l&#39;accesso.  (8/16) <!-- GS- 3665 -->
 
