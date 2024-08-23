@@ -1,9 +1,9 @@
 ---
 title: Adobe GenStudio per le note sulla versione di Beta per gli esperti di prestazioni marketing
 description: Scopri le funzioni e i miglioramenti più recenti di Adobe GenStudio per gli esperti di marketing delle prestazioni.
-source-git-commit: 72103c750a7708d97be87bed144bfe053ceeaa0f
+source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -24,6 +24,10 @@ I seguenti problemi noti sono pianificati per la risoluzione nella versione GA d
 * Impossibile riprodurre video da _Assets_. <!-- GS-3846 -->
 
 * Gli utenti devono accedere due volte a un account di canale Meta Ads quando hanno effettuato anche l’accesso a Facebook. **Soluzione**: esci da Facebook prima di accedere a un account Meta Ads del canale.
+
+### Risoluzione dei problemi noti
+
+* Nell&#39;area Prompt ([!DNL Brands]) del menu a discesa viene visualizzato uno spinner alla fine dell&#39;elenco ([!DNL Brands] durante la creazione dell&#39;e-mail. (risolto il 22/8) <!-- GS-4077 -->
 
 ## Versioni beta precedenti
 
