@@ -1,7 +1,7 @@
 ---
 title: Adobe GenStudio per le note sulla versione di Beta per gli esperti di prestazioni marketing
 description: Scopri le funzioni e i miglioramenti più recenti di Adobe GenStudio per gli esperti di marketing delle prestazioni.
-source-git-commit: 071871f91f0624c1bdb3be3f5ed2d9742352afea
+source-git-commit: 44cee6fa5b543372b1264745dd42ca6d3c754ec5
 workflow-type: tm+mt
 source-wordcount: '345'
 ht-degree: 0%
@@ -27,11 +27,11 @@ I seguenti problemi noti sono pianificati per la risoluzione nella versione GA d
 
 ### Risoluzione dei problemi noti
 
-* Nell&#39;area Prompt ([!DNL Brands]) del menu a discesa viene visualizzato uno spinner alla fine dell&#39;elenco ([!DNL Brands] durante la creazione dell&#39;e-mail. (risolto il 22/8) <!-- GS-4077 -->
+* Il menu a discesa Prompt area ([!DNL Brands]) visualizza uno spinner alla fine dell&#39;elenco ([!DNL Brands]) durante la creazione dell&#39;e-mail. (risolto il 22/8) <!-- GS-4077 -->
 
-## Versioni beta precedenti
+## Versioni precedenti di Beta
 
-Le versioni beta precedenti includevano i seguenti elementi di rilievo e correzioni.
+Le versioni precedenti di Beta includevano i seguenti elementi di rilievo e correzioni.
 
 ### In evidenza
 
