@@ -1,85 +1,78 @@
 ---
-title: Personalizzare i modelli
-description: Scopri come creare un modello personalizzato, ad Adobe GenStudio per gli esperti di marketing delle prestazioni.
+title: Personalizzare un modello
+description: Scopri come personalizzare e ottimizzare il modello, ad Adobe GenStudio per gli esperti di marketing delle prestazioni.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 44390d551e638fcff47cff5844fcfda4ed9f98f3
+source-git-commit: 909ac53580e672df1adf0c73e67a32f2c045dc35
 workflow-type: tm+mt
-source-wordcount: '908'
+source-wordcount: '1032'
 ht-degree: 0%
 
 ---
 
 
-# Personalizzare i modelli
+# Personalizzare un modello
 
-Adattare i modelli di HTML per Adobe GenStudio per gli esperti di marketing delle prestazioni utilizzando il linguaggio di modelli _Handlebars_. La sintassi Handlebars utilizza testo normale con doppie parentesi graffe come segnaposto di contenuto. Per informazioni su come preparare il modello, consulta [`What is Handlebars?`](https://handlebarsjs.com/guide/#what-is-handlebars) nella _Guida del linguaggio Handlebars_.
+Adattare i modelli di HTML per Adobe GenStudio per gli esperti di marketing delle prestazioni utilizzando il linguaggio di modelli _Handlebars_. La sintassi [!DNL Handlebars] utilizza testo normale con doppie parentesi graffe come segnaposto di contenuto. Per informazioni su come preparare il modello, consulta [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) nella _Guida del linguaggio Handlebars_.
 
-Se non si dispone di un modello di HTML pronto per l&#39;utilizzo in GenStudio per gli addetti al marketing delle prestazioni, è possibile iniziare definendo la struttura del modello utilizzando i tag di HTML: `DOCTYPE`, `html`, `head` e `body`. Di seguito è riportato un modello e-mail di base che include stili CSS per personalizzare l’aspetto:
-
-```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Title</title>
-    <style>
-    </style>
-</head>
-<body>
-</body>
-</html>
-```
-
->[!TIP]
->
->Nelle sezioni successive, aggiungi segnaposto di contenuto per i campi e-mail, vedi modelli di esempio, nascondi elementi non necessari dall’anteprima e gestisci collegamenti a contenuto statico. Quando il modello è pronto, puoi [caricarlo in GenStudio per gli esperti di marketing delle prestazioni](use-templates.md#upload-a-template) e iniziare a generare e-mail personalizzate in base al modello personalizzato.
+Nelle sezioni successive viene illustrato come aggiungere segnaposto di contenuto, nascondere elementi non necessari dall’anteprima e gestire i collegamenti al contenuto statico. Quando il modello è pronto, puoi [caricarlo in GenStudio per gli esperti di marketing delle prestazioni](use-templates.md#upload-a-template) e iniziare a generare e-mail personalizzate in base al modello personalizzato.
 
 ## Segnaposto di contenuto
 
-All&#39;interno dell&#39;intestazione o del corpo di un modello, è possibile utilizzare la sintassi Handlebars per inserire segnaposto di contenuto in cui è necessario che GenStudio for Performance Marketers compili il modello con il contenuto effettivo. GenStudio for Performance Marketers riconosce e interpreta automaticamente i segnaposto di contenuto in base al nome del campo.
+GenStudio for Performance Marketers riconosce alcuni [elementi](use-templates.md#template-elements) all&#39;interno di un modello, ma solo se li identifichi con un nome di campo riconosciuto.
 
-Ad esempio, puoi utilizzare `{{ headline }}` per indicare dove deve essere posizionato il titolo dell&#39;e-mail:
+All&#39;interno dell&#39;intestazione o del corpo di un modello, è possibile utilizzare la sintassi [!DNL Handlebars] come segnaposto di contenuto in cui è necessario GenStudio for Performance Marketers per compilare il modello con il contenuto effettivo. GenStudio for Performance Marketers riconosce e interpreta i segnaposto di contenuto in base al [nome _campo_ riconosciuto](#recognized-field-names).
+
+Ad esempio, è possibile utilizzare `{{ headline }}` con la sintassi [!DNL Handlebars] per indicare dove deve essere posizionato il titolo dell&#39;e-mail:
 
 ```handlebars
-<div>{{ headline }}</div>
+<div>{{headline}}</div>
 ```
 
 ### Nomi di campi riconosciuti
 
-Il numero massimo di campi consentiti in un modello personalizzato è venti.
-
-Nella tabella seguente sono elencati i nomi dei campi riconosciuti da GenStudio per gli addetti al marketing delle prestazioni per la compilazione in modelli.
+Nella tabella seguente sono elencati i nomi dei campi riconosciuti da GenStudio per gli addetti al marketing delle prestazioni per la compilazione in modelli. Aggiungi questi nomi di campo utilizzando la sintassi [!DNL Handlebars] al modello in cui è necessario GenStudio per gli esperti di marketing delle prestazioni per generare il contenuto.
 
 | Campo | Ruolo | Modello canale |
-| -------------- | ---------------------- | -------------------- |
-| `pre_header` | Pre header | e-mail (consigliato) |
-| `headline` | Titolo | e-mail (consigliato)<br>Annuncio metadati |
-| `body` | Corpo del testo | e-mail (consigliato)<br>Annuncio metadati |
-| `cta` | Invito all’azione | e-mail (consigliato)<br>Annuncio metadati |
-| `on_image_text` | Su testo immagine | Meta annuncio (consigliato) |
-| `image` | Immagine | e-mail (consigliato)<br>Annuncio metadati (consigliato) |
-| `brand_logo` | Logo del marchio selezionato<br>Per informazioni sull&#39;utilizzo consigliato, vedere il [nome campo](#brand-logo-field-name). | e-mail<br>Meta annuncio |
+| -------------- | ---------------------- | ------------------------------ |
+| `pre_header` | Pre header | email |
+| `headline` | Titolo | invia e-mail a <br>Meta annuncio |
+| `body` | Corpo del testo | invia e-mail a <br>Meta annuncio |
+| `cta` | Invito all’azione | invia e-mail a <br>Meta annuncio |
+| `on_image_text` | Su testo immagine | Meta annuncio |
+| `image` | Immagine | invia e-mail a <br>Meta annuncio |
+| `brand_logo` | Logo del marchio selezionato<br>Per informazioni sull&#39;utilizzo consigliato, vedere [Nome campo logo marchio](#brand-logo-field-name). | e-mail<br>Meta annuncio |
 
-GenStudio for Performance Marketers compila automaticamente alcuni campi nei modelli, pertanto non è necessario includerli nelle progettazioni dei modelli:
+GenStudio for Performance Marketers compila automaticamente alcuni campi nei seguenti modelli:
 
-- Campo `subject` (modello e-mail)
-- Campi `headline`, `body` e `CTA` (modello di annunci multimediali)
+- **Il modello di posta elettronica** non richiede l&#39;identificazione del campo `subject`
+- Il modello **Meta Ads** non richiede l&#39;identificazione dei campi `headline`, `body` e `CTA`
+
+<!--
+- **Display Ads template** does not require you to idenitify the `CTA` field
+-->
 
 >[!WARNING]
 >
 >Per gli annunci Instagram, il titolo generato non viene visualizzato nell’esperienza finale.
 
+È previsto un limite di 20 campi per il caricamento di un modello in GenStudio per gli addetti al marketing delle prestazioni. Poiché il campo `subject` viene generato automaticamente in un messaggio e-mail, viene conteggiato come un campo. Ciò significa che sono consentiti 19 campi in un modello e-mail.
+
+>[!TIP]
+>
+>Puoi verificare il tuo modello utilizzando l&#39;[anteprima modello](#template-preview) in GenStudio per gli esperti di marketing delle prestazioni.
+
 #### Nome campo logo marchio
 
-Negli esempi seguenti vengono illustrati due metodi che eseguono il rendering condizionale del logo del marchio, verificano l’origine, forniscono un logo predefinito o alternativo nel caso in cui il logo del marchio non sia disponibile e applicano uno stile:
+Al momento, non è possibile selezionare il logo del brand per il caricamento del modello. Gli esempi seguenti illustrano due metodi che eseguono il rendering del logo del brand in modo condizionale. Ogni metodo verifica l’origine, fornisce un’immagine predefinita o alternativa nel caso in cui il logo del brand non sia disponibile e applica uno stile:
 
-_Esempio_: nella definizione HTML `img src`
+**Esempio 1**: utilizzo della condizione Helper incorporati [!DNL Handlebars] direttamente nell&#39;attributo HTML `img src`:
 
 ```html
-<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;"> 
+<img src="{{#if brand_logo}}{{brand_logo}}{{else}}<default-image>{{/if}}" alt="img alt text" style="max-width: 88px; margin: 10px auto; display: block;">
 ```
 
-_Esempio_: in una condizione Handlebars
+**Esempio 2**: utilizzo dell&#39;istruzione di condizione incorporata [!DNL Handlebars] per racchiudere il tag HTML `img`:
 
 ```handlebars
 {{#if brand_logo}}
@@ -91,24 +84,24 @@ _Esempio_: in una condizione Handlebars
 
 #### Nomi di campi manuali
 
-Tutti gli altri nomi di campo vengono trattati come campi popolati manualmente. Per creare una sezione modificabile, aggiungere parentesi doppie attorno al nome della sezione:
+Tutti gli altri nomi di campo vengono trattati come campi popolati manualmente.
+
+Per creare una sezione modificabile, aggiungere parentesi doppie attorno al nome della sezione:
 
 ```handlebars
 {{customVariable}}
 ```
 
-## Sezioni o gruppi
+### Sezioni o gruppi
 
 _Le sezioni_ informano GenStudio per gli addetti al marketing delle prestazioni che i campi in questa sezione richiedono un elevato grado di coerenza. Stabilire questa relazione aiuta l’intelligenza artificiale a generare contenuti che corrispondono agli elementi creativi della sezione.
 
-Utilizzare un prefisso scelto nel nome del campo per indicare che un campo fa parte di una sezione o di un gruppo.
-
-Ad esempio, potrebbe essere utile evidenziare il contenuto visualizzato in un&#39;area evidenziata:
+Utilizzare un prefisso scelto nel nome del campo per indicare che un campo fa parte di una sezione o di un gruppo. Ad esempio, potrebbe essere utile evidenziare il contenuto visualizzato in un&#39;area evidenziata:
 
 - `spotlight_headline`
 - `spotlight_body`
 
-Ogni sezione può avere un solo tipo di campo. Nell&#39;esempio precedente, il prefisso `spotlight` può avere un solo campo `spotlight_headline`.
+Ogni sezione può utilizzare solo uno di ogni tipo di campo. Nell&#39;esempio precedente, la sezione `spotlight` può utilizzare un solo campo `spotlight_headline`.
 
 Un modello può includere fino a tre sezioni:
 
@@ -120,6 +113,45 @@ Un modello può includere fino a tre sezioni:
 - `news_body`
 
 GenStudio for Performance Marketers è consapevole del fatto che `spotlight_headline` è più strettamente correlato a `spotlight_body` che a `news_body`.
+
+## Anteprima modello
+
+Quando [carichi un modello](use-templates.md#upload-a-template), GenStudio for Performance Marketers analizza il file HTML per individuare i campi riconosciuti. Utilizza l&#39;anteprima per rivedere i tuoi [elementi modello](use-templates.md#template-elements) e confermare di averli identificati correttamente con i [nomi di campo riconosciuti](#recognized-field-names).
+
+Esempio di anteprima per un modello e-mail:
+
+![Rilevati campi di anteprima](../../assets/template-detected-fields.png){width="650"}
+
+### Anteprima controllo
+
+È possibile controllare la visibilità dei contenuti speciali utilizzando Helper incorporati (espressioni speciali nel linguaggio del modello [!DNL Handlebars] che eseguono determinate azioni). Ad esempio, puoi aggiungere un’istruzione condizionale che aggiunge parametri di tracciamento ai collegamenti nel modello esportato mantenendo puliti i collegamenti di anteprima.
+
+Il valore `_genStudio.browser` viene impostato durante il rendering di un modello e il valore `genStudio.export` viene impostato durante l&#39;esportazione di un modello. Puoi decidere di includere un determinato contenuto nella parte superiore di un’e-mail utilizzando un wrapper condizionale, ad esempio, quando il modello viene utilizzato per l’esportazione:
+
+```handlebars
+{{#if _genStudio.export}}
+<%@ include view='emailParent' %>
+{{/if}}
+```
+
+Un altro esempio può essere quello di impedire l’utilizzo dei codici di tracciamento durante l’anteprima di un modello in GenStudio per gli esperti di marketing delle prestazioni. L’esempio seguente mostra come aggiungere parametri di tracciamento ai collegamenti nel modello esportato, mantenendo allo stesso tempo puliti i collegamenti di anteprima:
+
+```handlebars
+<a class="button" {{#if _genStudio.browser }}
+   href="{{ link }}"{{/if}}{{#if _genStudio.export }}
+   href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
+   target="_blank">{{ cta }}</a>
+```
+
+## Contenuto statico
+
+I modelli e-mail e metadati spesso si collegano a immagini e file CSS ospitati al di fuori di GenStudio per gli esperti di marketing delle prestazioni. Quando GenStudio for Performance Marketers genera le miniature per questi modelli o le esperienze da essi derivate, potrebbe ignorare queste risorse esterne se non dispongono delle intestazioni CORS (Cross-Origin Resource Sharing) corrette.
+
+Per garantire che queste risorse siano disponibili durante il processo di generazione delle miniature, considera due opzioni:
+
+1. **Usa intestazioni CORS**: il server host deve inviare risposte con un&#39;intestazione `Access-Control-Allow-Origin` impostata sul valore `https://experience.adobe.com` per gli ambienti di produzione. Questo metodo consente a GenStudio per gli esperti di marketing delle prestazioni di accedere alle risorse e di includerle.
+
+1. **Usa URL dati**: incorpora le risorse esterne direttamente nel modello utilizzando URL dati. Questo metodo bypassa le restrizioni CORS e garantisce che le risorse siano disponibili durante la generazione delle miniature.
 
 ## Esempi di modelli
 
@@ -262,32 +294,3 @@ Di seguito è riportato un esempio di base di un modello di annunci Meta. L’in
 
 +++
 
-## Anteprima modello
-
-Controlla la visibilità dei contenuti speciali utilizzando Helper incorporati (espressioni speciali nel linguaggio dei modelli Handlebars che eseguono determinate azioni). Ad esempio, puoi aggiungere parametri di tracciamento ai collegamenti nel modello esportato mantenendo puliti i collegamenti di anteprima.
-
-Il valore `_genStudio.browser` viene impostato durante il rendering di un modello e il valore `genStudio.export` viene impostato durante l&#39;esportazione di un modello. Puoi decidere di includere un determinato contenuto nella parte superiore di un’e-mail utilizzando un wrapper condizionale, ad esempio, quando il modello viene utilizzato per l’esportazione:
-
-```handlebars
-{{#if _genStudio.export}}
-<%@ include view='emailParent' %>
-{{/if}}
-```
-
-Un altro esempio può essere quello di impedire l’utilizzo dei codici di tracciamento durante l’anteprima di un modello in GenStudio. Questo esempio mostra come aggiungere parametri di tracciamento ai collegamenti nel modello esportato, mantenendo allo stesso tempo puliti i collegamenti di anteprima:
-
-```handlebars
-<a class="button" {{#if _genStudio.browser }}
-   href="{{ link }}"{{/if}}{{#if _genStudio.export }}
-   href="{{ link }}?trackingid=<%=getTrackingId()%>&mv=email"{{/if}}
-   target="_blank">{{ cta }}</a>
-```
-
-## Contenuto statico
-
-I modelli e-mail e metadati spesso si collegano a immagini e file CSS ospitati al di fuori di GenStudio per gli esperti di marketing delle prestazioni. Quando GenStudio for Performance Marketers genera le miniature per questi modelli o le esperienze da essi derivate, potrebbe ignorare queste risorse esterne se non dispongono delle intestazioni CORS (Cross-Origin Resource Sharing) corrette.
-
-Per garantire che queste risorse siano disponibili durante il processo di generazione delle miniature, considera due opzioni:
-
-1. **Usa intestazioni CORS**: il server host deve inviare risposte con un&#39;intestazione `Access-Control-Allow-Origin` impostata sul valore `https://experience.adobe.com` per gli ambienti di produzione. Questo metodo consente a GenStudio per gli esperti di marketing delle prestazioni di accedere alle risorse e di includerle.
-1. **Usa URL dati**: incorpora le risorse esterne direttamente nel modello utilizzando URL dati. Questo metodo bypassa le restrizioni CORS e garantisce che le risorse siano disponibili durante la generazione delle miniature.

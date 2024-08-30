@@ -2,9 +2,9 @@
 title: Panoramica di Adobe GenStudio per gli addetti al marketing delle prestazioni [!DNL Content]
 description: Scopri come trovare, modificare, riutilizzare e condividere le risorse approvate dal brand in un portale intuitivo.
 feature: Attributes, Content, Templates
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: c34fd3ac0925624c685ae27d56d9964896796786
 workflow-type: tm+mt
-source-wordcount: '285'
+source-wordcount: '300'
 ht-degree: 1%
 
 ---
@@ -20,45 +20,43 @@ GenStudio per gli esperti di marketing delle prestazioni [!DNL Content] fornisce
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-      <img alt="lente di ingrandimento" src="../../assets/icons/icon-search.svg" width="35">
+         <img alt="lente di ingrandimento" src="../../assets/icons/icon-search-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md#search">
          <strong>Trova contenuto</strong>
          </a>
-      </div>
+      </p>
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-      <img alt="immagini con segno più" src="../../assets/icons/icon-addContent.svg" width="35">
+         <img alt="immagini con segno più" src="../../assets/icons/icon-addContent-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/manage-assets.md">
          <strong>Aggiungi risorse</strong>
          </a>
-      </div>
+      </p>
    </td>
-<!--
    <td align="center" valign="top" width="100">
-      <a href="../content/manage-assets.md#search">
-      <img alt="sparkle and new asset" src="../../assets/icons/icon-AIVariation.svg" width="35">
+      <a href="../content/customize-template.md">
+         <img alt="bullone di schiarimento sulla risorsa" src="../../assets/icons/icon-template-35.svg" width="35">
       </a>
-      <div>
-         <a href="../content/manage-assets.md#search">
-         <strong>Refresh content</strong>
+      <p>
+         <a href="../content/customize-template.md">
+         <strong>Personalizzare un modello</strong>
          </a>
-      </div>
+      </p>
    </td>
--->
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-      <img alt="bullone di schiarimento sulla risorsa" src="../../assets/icons/icon-template.svg" width="35">
+         <img alt="fulmine sulla risorsa con segno più" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
       </a>
-      <div>
+      <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong>Carica modello</strong>
          </a>
-      </div>
+      </p>
    </td>
 </tr>
 </table>
@@ -77,4 +75,4 @@ Quando si salvano le risorse approvate, [!DNL Content] mantiene i metadati avanz
 
 ### Utilizzare i modelli
 
-I modelli velocizzano il processo di creazione per generare contenuti coerenti su più canali. I modelli forniscono un punto di partenza nel processo di creazione con layout ed elementi di progettazione preconfigurati.
+I modelli velocizzano il processo di creazione per generare contenuti coerenti su più canali. Carica il modello personalizzato da utilizzare come punto di partenza nel processo di creazione con layout e elementi di progettazione preconfigurati.

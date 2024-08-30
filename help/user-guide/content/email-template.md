@@ -3,9 +3,9 @@ title: Prepara un modello e-mail per Adobe GenStudio per gli esperti di marketin
 description: Scopri come creare un modello e-mail personalizzato, ad Adobe GenStudio per gli esperti di marketing delle prestazioni.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '381'
 ht-degree: 0%
 
 ---
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 In genere, una finestra di progettazione crea la progettazione visiva di un modello in un programma di progettazione come Adobe XD. Dopo aver progettato, codificato e testato un modello e-mail, puoi prepararlo per il caricamento e l’utilizzo in GenStudio per gli esperti di performance marketing.
 
-Vedi [Anatomia di un modello](/help/user-guide/content/use-templates.md#anatomy-of-a-template).
+Vedi [Elementi modello](use-templates.md#template-elements).
 
 ## Aggiungi linee guida
 

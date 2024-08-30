@@ -3,9 +3,9 @@ title: Preparare un Meta Ad Template per Adobe GenStudio per gli esperti di mark
 description: Scopri come creare un modello di Meta Ad personalizzato, ad Adobe GenStudio per gli esperti di marketing delle prestazioni.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 5bbc089fa7441ad8ce4cd84dd92889d1a22c0f61
+source-git-commit: 09431d6f5f5b00c1b84cf69667a337ce51683c1d
 workflow-type: tm+mt
-source-wordcount: '417'
+source-wordcount: '415'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Se non vengono aggiunte linee guida a GenStudio per gli addetti al marketing del
 
 In genere, una finestra di progettazione crea la progettazione visiva di un modello in un programma di progettazione come Adobe XD.
 
-Consulta [Anatomia di un modello](/help/user-guide/content/use-templates.md#anatomy-of-a-template) e [Esempi di modelli](/help/user-guide/content/customize-template.md#template-examples).
+Vedi [Elementi modello](use-templates.md#template-elements) e [Esempi modello](/help/user-guide/content/customize-template.md#template-examples).
 
 ### Specifiche dell’annuncio
 
