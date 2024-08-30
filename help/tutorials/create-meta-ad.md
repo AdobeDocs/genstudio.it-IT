@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
 workflow-type: tm+mt
-source-wordcount: '897'
+source-wordcount: '955'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,8 @@ Durante la generazione di un Meta Ad, puoi scegliere tra annunci Facebook o Inst
 
 Attiva l&#39;opzione Canale Meta ads nella barra dei menu superiore su **Facebook** o **Instagram** per gestire le bozze generate da ogni canale.
 
+Quando [rivedi i Meta Ads](#revise-generated-meta-ads), puoi modificare le proporzioni degli annunci Facebook e Instagram.
+
 ## Rivedere i metadati generati
 
 Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblicazione a [!DNL Content], è possibile modificare i Meta Ads o eliminare una variante dal set di annunci generati.
@@ -81,6 +83,7 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
   L’oggetto e il preheader richiedono un solo clic per essere modificati, mentre l’intestazione e il corpo del testo richiedono un doppio clic.
 
 * **Per modificare o selezionare l&#39;invito all&#39;azione**, fare clic sul pulsante di invito all&#39;azione e selezionare un pulsante disponibile.
+* **Per modificare le dimensioni e le proporzioni**, fare clic sul pulsante _[!UICONTROL Ridimensiona]_ (casella con l&#39;icona di un pulsante sul lato sinistro dell&#39;area di lavoro) e selezionare le nuove dimensioni e proporzioni da applicare a tutte le varianti. Le varianti vengono duplicate e ridimensionate.
 * **Per eliminare un Meta ad**, fare clic per selezionare il titolo dell&#39;annuncio (ad esempio, &quot;Meta 4&quot;) e fare clic su **[!UICONTROL Elimina variante]**.
 
 ## Verificare l’allineamento del brand

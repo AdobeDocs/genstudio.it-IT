@@ -6,9 +6,9 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '813'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ Per creare un&#39;esperienza e-mail efficace, ti consigliamo di [aggiungere line
 
 ## Scegli un modello
 
-Per iniziare a creare una nuova esperienza e-mail, utilizza un modello disponibile per fornire il framework per il contenuto.
+Per creare una nuova esperienza e-mail, utilizza un modello disponibile per fornire il framework per il contenuto.
 
 **Per scegliere un modello di posta elettronica**:
 
@@ -47,6 +47,10 @@ L&#39;aggiunta di [linee guida](/help/user-guide/guidelines/overview.md) e risor
    * Fai clic su **[!UICONTROL Seleziona dal contenuto]** per selezionare le risorse (immagini) già pubblicate in [!DNL Content]. Utilizza i filtri per restringere ulteriormente i risultati della ricerca.
    * Fai clic su **[!UICONTROL Carica]** per sfogliare i file e scegliere le risorse da utilizzare. Oltre a sfogliare il dispositivo, è anche possibile importare da Microsoft OneDrive o Dropbox.
    * Trascina le risorse nella sezione _Contenuto_.
+
+>[!NOTE]
+>
+>Se il modello di posta elettronica include più sezioni, selezionare [!DNL Products] e contenuto (risorse visive) per ogni sezione di posta elettronica in _Messaggi di posta elettronica con più sezioni_. Le e-mail con più sezioni supportano una risorsa visiva per sezione.
 
 Dopo aver aggiunto i parametri, è possibile comprimere l&#39;area del prompt facendo nuovamente clic sull&#39;icona _Parametri_.
 
