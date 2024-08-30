@@ -2,9 +2,9 @@
 title: Scrivi prompt effettivi
 description: Scopri come scrivere prompt efficaci per Adobi GenStudio per gli esperti di marketing delle prestazioni.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 306b64b44e69dbcec3984d1a0b54230fe0dbe48c
 workflow-type: tm+mt
-source-wordcount: '511'
+source-wordcount: '492'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ Per [e-mail](/help/tutorials/create-email-experience.md), i criteri di richiesta
 
 >[!NOTE]
 >
->Se vengono aggiunte linee guida in _Parametri_ nell&#39;area prompt, non è necessario includere un riferimento a tali linee guida nel prompt. Gli addetti al marketing delle prestazioni di GenStudio sfrutteranno questi [!DNL Brands], [!DNL Products] e [!DNL Personas] nella generazione dei contenuti.
+>Se le linee guida vengono aggiunte in _Parametri_ nell&#39;area dei prompt, non è necessario includervi un riferimento. GenStudio per gli esperti di marketing delle prestazioni sfrutta tali proprietà [!DNL Brands], [!DNL Products] e [!DNL Personas] nella generazione dei contenuti.
 
 ### Linee guida
 
@@ -57,15 +57,7 @@ Le linee guida di GenStudio for Performance Marketers aiutano l’intelligenza a
 
 ## Riprova
 
-La richiesta è un processo iterativo. Se i risultati non soddisfano le aspettative, rivedere la richiesta e apportare alcune modifiche o aggiungere ulteriori dettagli. Per perfezionare la richiesta, fornisci un URL come esempio o come origine per ulteriori informazioni.
-
-```bash
-Write an email to motivate infrequent users of Photoshop to follow an in-app tutorial that teaches them to combine elements of two photos into a beautiful work of art. Highlight the generative AI capabilities of Photoshop and use references to natural imagery.
-
-Use information from https://www.adobe.com/products/photoshop.html to inspire users with the latest features.
-```
-
-In alternativa, puoi incollare le sezioni da una descrizione della campagna. Puoi anche richiedere che GenStudio for Performance Marketers eviti determinate parole, elementi o temi.
+La richiesta è un processo iterativo. Se i risultati non soddisfano le aspettative, rivedere la richiesta e apportare alcune modifiche o aggiungere ulteriori dettagli. In alternativa, puoi incollare le sezioni da una descrizione della campagna. Puoi anche richiedere che GenStudio for Performance Marketers eviti determinate parole, elementi o temi.
 
 ## Best practice
 
