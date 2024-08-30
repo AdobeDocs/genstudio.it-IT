@@ -2,7 +2,7 @@
 title: Panoramica di Adobe GenStudio per gli addetti al marketing delle prestazioni [!DNL Content]
 description: Scopri come trovare, modificare, riutilizzare e condividere le risorse approvate dal brand in un portale intuitivo.
 feature: Attributes, Content, Templates
-source-git-commit: c34fd3ac0925624c685ae27d56d9964896796786
+source-git-commit: 6ee651ab67a92e2eca9929c3cfc6c66fb90d785e
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 1%
@@ -20,7 +20,7 @@ GenStudio per gli esperti di marketing delle prestazioni [!DNL Content] fornisce
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-         <img alt="lente di ingrandimento" src="../../assets/icons/icon-search-35.svg" width="35">
+         <img alt="lente di ingrandimento" src="../../assets/icons/icon-search.png" width="35">
       </a>
       <p>
          <a href="../content/manage-assets.md#search">
@@ -30,7 +30,7 @@ GenStudio per gli esperti di marketing delle prestazioni [!DNL Content] fornisce
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-         <img alt="immagini con segno più" src="../../assets/icons/icon-addContent-35.svg" width="35">
+         <img alt="immagini con segno più" src="../../assets/icons/icon-addContent.png" width="35">
       </a>
       <p>
          <a href="../content/manage-assets.md">
@@ -40,7 +40,7 @@ GenStudio per gli esperti di marketing delle prestazioni [!DNL Content] fornisce
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/customize-template.md">
-         <img alt="bullone di schiarimento sulla risorsa" src="../../assets/icons/icon-template-35.svg" width="35">
+         <img alt="bullone di schiarimento sulla risorsa" src="../../assets/icons/icon-template.png" width="35">
       </a>
       <p>
          <a href="../content/customize-template.md">
@@ -50,7 +50,7 @@ GenStudio per gli esperti di marketing delle prestazioni [!DNL Content] fornisce
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-         <img alt="fulmine sulla risorsa con segno più" src="../../assets/icons/icon-addTemplate-35.svg" width="35">
+         <img alt="fulmine sulla risorsa con segno più" src="../../assets/icons/icon-addTemplate.png" width="35">
       </a>
       <p>
          <a href="../content/use-templates.md#upload-a-template">
