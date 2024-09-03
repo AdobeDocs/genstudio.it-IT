@@ -2,17 +2,17 @@
 name: Bug report
 about: Report a bug issue if you encounter something wrong while browsing our documentation
 labels: 'bug'
-source-git-commit: 4a73d0c55fc664c4c046f361c33be776ba2fd7b7
+source-git-commit: 5637f43a059fd747f7d656852d5428784525771a
 workflow-type: tm+mt
-source-wordcount: '21'
-ht-degree: 19%
+source-wordcount: '20'
+ht-degree: 0%
 
 ---
 
 
-## Descrizione del bug
+# Descrizione del bug
 
-<!-- (REQUIRED) What is the issue or current behavior? -->
+<!-- (REQUIRED) What is the issue? Describe your experience with the current behavior. Provide as much detail and resources as you can. -->
 
 Assicurati di:
 
@@ -20,12 +20,8 @@ Assicurati di:
 - [ ] Aggiungi screenshot
 - [ ] Descrivere il risultato previsto
 
-## Soluzioni possibili
+## Proporre una soluzione
 
-<!-- (OPTIONAL) What would a solution for this issue look like? -->
-
-## Informazioni aggiuntive
-
-<!-- (OPTIONAL) What other information can you provide about this issue? -->
+<!-- (OPTIONAL) Describe your solution for this issue. -->
 
 <!-- Thank you for taking the time to report the issue. -->
