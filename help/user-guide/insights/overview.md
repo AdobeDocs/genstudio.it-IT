@@ -1,14 +1,14 @@
 ---
 title: Panoramica di  [!DNL Insights]
 description: Scopri come ottimizzare le esperienze in base a metriche delle prestazioni dei contenuti in tempo reale.
-feature: Attributes, Insights, Experiences, Assets
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+feature: Attributes, Insights, Experiences, Assets, Channels
+exl-id: 26402a06-f776-42be-9d8d-fc498c0f75a8
+source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
 workflow-type: tm+mt
-source-wordcount: '484'
+source-wordcount: '533'
 ht-degree: 0%
 
 ---
-
 
 # Adobe GenStudio per gli esperti di marketing delle prestazioni [!DNL Insights]
 
@@ -26,21 +26,23 @@ Dal dashboard [!DNL Insights] è possibile:
 
 ## Dashboard
 
-Il dashboard [!DNL Insights] dispone di una griglia configurabile per ogni tipo di contenuto: Canali, Esperienze, Assets e Attributi.
+Il dashboard [!DNL Insights] dispone di una tabella configurabile per ogni tipo di contenuto: [!UICONTROL Canali], [!UICONTROL Esperienze], [!UICONTROL Assets] e [!UICONTROL Attributi].
 
 ![[!DNL Insights] dashboard](/help/assets/insights-dashboard.png)
 
-Ogni vista mostra una griglia corrispondente, che puoi cercare per parola chiave, filtro e intervallo di date. Puoi fare clic sull’icona del baricentro sopra il lato destro della tabella per attivare/disattivare i tipi di colonna visualizzabili. La riga _[!UICONTROL Riepilogo]_ può mostrare i totali o le medie di una colonna.
+Ogni vista mostra una tabella corrispondente, che puoi cercare per parola chiave, filtro e intervallo di date. Puoi fare clic sull’icona delle impostazioni (cog) sopra il lato destro della tabella per attivare o disattivare i tipi di colonna visualizzabili. La riga _[!UICONTROL Riepilogo]_ può mostrare i totali o le medie di una colonna.
 
-Per una descrizione di ogni tipo di colonna nella griglia, vedere [Colonne dati per [!DNL Insights]](data-columns.md).
+Per una descrizione di ogni tipo di colonna nella tabella, vedere [Colonne dati per [!DNL Insights]](data-columns.md).
+
+[!UICONTROL Le esperienze], [!UICONTROL Assets] e [!UICONTROL Attributi] includono una visualizzazione galleria che consente di analizzare e ordinare le risorse utilizzando schede con miniature di immagini o video. È disponibile un&#39;opzione per visualizzare una delle tre metriche chiave su ogni scheda: `Click-through rate`, `Cost per click` e `Spend`.
 
 ### Canali
 
-La visualizzazione predefinita [!DNL Insights] _[!UICONTROL Canali]_ mostra un elenco di dettagli attivi della campagna, quali obiettivi, budget, data di lancio e attività.
+La visualizzazione predefinita [!DNL Insights] _[!UICONTROL Canali]_ mostra un elenco di dettagli attivi della campagna, quali obiettivi, budget, data di lancio e attività. Vedi [Panoramica canali](channels.md).
 
 ### Esperienze
 
-La visualizzazione [!DNL Insights] _[!UICONTROL Esperienze]_ si concentra sulla valutazione dell&#39;efficacia di un&#39;esperienza. Questa vista ti consente di analizzare le metriche di un’esperienza in base al suo posizionamento pubblicitario all’interno di un intervallo di date specificato. Facendo clic su **[!UICONTROL Visualizza prestazioni risorse]**, puoi accedere a un elenco di risorse utilizzate nell&#39;esperienza selezionata, per identificare quali componenti hanno contribuito al suo successo complessivo.
+La visualizzazione [!DNL Insights] _[!UICONTROL Esperienze]_ si concentra sulla valutazione dell&#39;efficacia di un&#39;esperienza. La visualizzazione [!UICONTROL Esperienze] consente di analizzare le metriche di un&#39;esperienza in base al posizionamento dell&#39;annuncio all&#39;interno di un intervallo di date specificato. Facendo clic su un _[!UICONTROL nome annuncio]_, puoi accedere a un elenco di risorse utilizzate nell&#39;esperienza selezionata, per identificare quali componenti hanno contribuito al suo successo complessivo.
 
 ### Risorse
 
@@ -50,10 +52,10 @@ Facendo clic su una risorsa è possibile ottenere ulteriori informazioni sulle s
 
 ![Visualizzazione risorse](/help/assets/insights-asset-view.png){width="600" zoomable="yes"}
 
-Nella vista delle risorse, a sinistra vengono mostrati un primo piano della risorsa e un elenco di attributi. Sono presenti tre metriche evidenziate: `Click-through rate`, `Cost per click` e `Spend`. Gli elementi di rilievo delle prestazioni mostrano il confronto tra i valori effettivi (linea continua) e il valore medio (linea tratteggiata) nel periodo di tempo selezionato (l&#39;impostazione predefinita è `Last 30 days`).
+Nella visualizzazione delle risorse, a sinistra sono presenti una miniatura della risorsa e un elenco di attributi. Sono presenti tre metriche evidenziate: `Click-through rate`, `Cost per click` e `Spend`. Gli elementi di rilievo delle prestazioni mostrano il confronto tra i valori effettivi (linea continua) e il valore medio (linea tratteggiata) nel periodo di tempo selezionato (l&#39;impostazione predefinita è `Last 30 days`).
 
 ### Attributi
 
-Il contenuto _attributi_ consente di identificare le risorse in base a dettagli intrinseci, quali colore, tono, composizione (oggetto, font, elementi visivi) e altri componenti chiave. Gli attributi sono spesso il set di informazioni sul contenuto meno misurato e analizzato.
+Il contenuto _attributi_ consente di identificare le risorse in base a dettagli intrinseci, quali colore, tono, composizione (come oggetto, font, elementi visivi) e altri componenti chiave. Gli attributi sono spesso il set di informazioni sul contenuto meno misurato e analizzato.
 
-La visualizzazione [!DNL Insights] _[!UICONTROL Attributi]_ consente di analizzare e identificare gli attributi con prestazioni migliori per determinati tipi di pubblico, canali, aree geografiche ed evidenziare le tendenze stagionali. Con queste informazioni, puoi utilizzare gli attributi delle prestazioni per creare varianti, rivolgerti a un pubblico specifico o sperimentare diverse strategie per campagne.
+La visualizzazione [!DNL Insights] _[!UICONTROL Attributi]_ consente di analizzare e identificare gli attributi con prestazioni migliori per alcuni tipi di pubblico, canali e aree geografiche e può aiutarti a evidenziare le tendenze stagionali. Con queste informazioni, puoi utilizzare gli attributi delle prestazioni per creare varianti, rivolgerti a un pubblico specifico o sperimentare diverse strategie per campagne.

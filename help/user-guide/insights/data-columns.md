@@ -1,26 +1,26 @@
 ---
 title: Colonne dati per  [!DNL Insights]
-description: Comprendere cosa rappresenta ogni colonna di una griglia  [!DNL Insights] .
+description: Comprendere cosa rappresenta ciascuna colonna di una tabella  [!DNL Insights]  in GenStudio per gli addetti al marketing delle prestazioni.
 feature: Attributes, Insights
 recommendations: noDisplay
-source-git-commit: 4d5de6fc053297c823be9005c628dafcecc3f7a7
+exl-id: 138ad192-b178-45c9-9293-96d89ed7f2aa
+source-git-commit: 2a3085f535b4f161bd6e8bf321eac11357c44a5a
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 3%
+source-wordcount: '282'
+ht-degree: 2%
 
 ---
 
-
 # Colonne dati per [!DNL Insights]
 
-[!DNL Insights] visualizza griglie personalizzabili per ogni visualizzazione: Canali, Esperienze, Assets e Attributi.
+[!DNL Insights] visualizza tabelle personalizzabili per ogni visualizzazione: Canali, Esperienze, Assets e Attributi.
 
-Personalizzare la griglia:
+Personalizzare la tabella:
 
-- Fare clic su un&#39;intestazione di colonna per accedere al menu di scelta rapida con le opzioni di ridimensionamento e ordinamento.
-- Fare clic sull&#39;icona del baricentro sopra il lato destro della griglia e aprire il menu _[!UICONTROL Configura tabella]_ per attivare/disattivare le colonne visualizzabili.
+- Fai clic su un&#39;intestazione di colonna per accedere al menu di scelta rapida con le opzioni _Ridimensiona_ e _Ordina_.
+- Fai clic sull&#39;icona delle impostazioni (cog) sul lato destro sopra la tabella e apri il menu _[!UICONTROL Configura tabella]_ per attivare/disattivare le colonne visualizzabili.
 
-Le colonne disponibili includono:
+## Vista tabella canali
 
 | Colonna | Descrizione |
 | ----------- | ------------ |
@@ -32,5 +32,7 @@ Le colonne disponibili includono:
 | Tasso di click-through | La velocità di trasmissione dei clic viene misurata come tutti i clic sull’annuncio |
 | Conversione | Eventi che rappresentano preziose azioni dei clienti verso la fine del percorso, come acquisti, abbonamenti o lead. |
 | Impression | Il numero di volte in cui gli annunci della campagna sono stati mostrati ai visualizzatori tramite impression registrate. |
+| Launch | Data di lancio della campagna. |
 | Obiettivo | L’obiettivo di una campagna o di un progetto. Imposta l’obiettivo durante la creazione della campagna o del progetto.<br>I tipi di obiettivo includono: `Awareness`, `Traffic`, `Engagement`, `Leads`, `App promotion`, `Sales` |
 | Spesa | La quantità totale di denaro speso in USD per tutti gli annunci all’interno di una campagna. |
+| Riproduzioni video | Il numero di volte in cui un video inizia a essere riprodotto quando viene fatto clic su di esso o con la riproduzione automatica. |
