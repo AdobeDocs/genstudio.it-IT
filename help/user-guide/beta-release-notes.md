@@ -1,17 +1,23 @@
 ---
 title: Adobe GenStudio per le note sulla versione di Beta per gli esperti di prestazioni marketing
 description: Scopri le funzioni e i miglioramenti più recenti di Adobe GenStudio per gli esperti di marketing delle prestazioni.
-source-git-commit: 16f44baf646d696da3572ac2c17a5efb7c8f7fc6
+exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
+source-git-commit: ca5e746850925252679facc321d7522b251cd57a
 workflow-type: tm+mt
-source-wordcount: '446'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
 
-
 # Adobe GenStudio per le note sulla versione di Beta per gli esperti di prestazioni marketing
 
 Queste note evidenziano un Adobe GenStudio significativo di correzioni e miglioramenti per gli esperti di marketing delle prestazioni per la settimana che termina il 6 settembre.
+
+## Nuove funzioni
+
+* GenStudio ora supporta l&#39;opzione per visualizzare in anteprima le risorse multimediali in [!DNL Insights]. Le miniature video includono un pulsante **Riproduci** con un&#39;opzione di disattivazione audio. <!-- GS-4398 -->
+
+* È ora possibile filtrare Assets in [!DNL Insights] per tipo `video`. <!-- GS-4398 -->
 
 ## Problemi noti
 
@@ -31,15 +37,48 @@ I seguenti problemi noti sono pianificati per la risoluzione nella versione GA d
 
 * Gli utenti devono accedere due volte a un account di canale Meta Ads quando hanno effettuato anche l’accesso a Facebook. **Soluzione**: esci da Facebook prima di accedere a un account Meta Ads del canale.
 
-### Risoluzione dei problemi noti
+* Le immagini caricate non sempre includono i tag avanzati previsti. <!-- GS-4856 -->
 
-* GenStudio visualizza un errore quando un utente tenta di immettere le credenziali nella visualizzazione [!DNL Insights]. (risolto il 29/8) <!-- GS-4689 -->
+### Ulteriori miglioramenti e problemi risolti
+
+* La finestra a comparsa _Aggiungi Assets_ è ora localizzata come previsto. <!-- GS-3834 -->
+
+* Sono stati risolti i problemi relativi alla scalabilità del modello di esperienza Meta ads. <!-- GS-4174 -->
+
+* I modelli per frammenti di contenuto creati per i modelli ora possono essere rappresentati con precisione in AEM. <!-- GS-4716 -->
+
+* I campi di testo nel file di esportazione CSV per le e-mail in più parti ora vengono ordinati come previsto. <!-- GS-4013 -->
+
+* Il campo di ricerca [!DNL Content] non scompare più quando un utente preme ripetutamente il tasto **Backspace** per cancellare il testo del campo di ricerca.  <!-- GS-4543 -->
+
+* GenStudio ora carica gli utenti come previsto quando un collaboratore aggiunge una menzione @ a un commento. In precedenza, GenStudio non caricava gli utenti e visualizzava questo errore: `Unable to load users. Refresh the page`. <!-- GS-4113 -->
+
+* GenStudio non visualizza più il messaggio **Si è verificato un errore** quando un editor fa clic su **Seleziona contenuto** durante la creazione dell&#39;e-mail nell&#39;area dei prompt. <!-- GS-4879 -->
 
 ## Versioni precedenti di Beta
 
 Le versioni precedenti di Beta includevano i seguenti elementi di rilievo e correzioni.
 
 ### In evidenza
+
+* Le linee guida per i canali Instagram e Facebook sono state unite nelle linee guida per i marchi Meta.
+
+* [!DNL Create] elementi di navigazione dell&#39;area di lavoro sono stati semplificati. Nella pagina di destinazione [!DNL Create] viene visualizzato il pannello di navigazione sinistro, ma gli utenti ora utilizzano un pulsante **[!UICONTROL Indietro]** per passare a questo spazio da altre aree di lavoro [!DNL Create].
+
+* Gli elementi di navigazione sono stati migliorati per supportare l’attenzione degli utenti durante l’esecuzione di attività in tutto il prodotto, incluse queste aree di prodotto:
+
+   * Dettagli risorsa, esperienza e modello in [!DNL Content]
+   * Esperienza, risorsa, dettagli attributo in [!DNL Insights]
+   * Dettagli marchio in [!DNL Brands]
+   * Dettagli del prodotto e della persona in Prodotti e utenti tipo
+
+* Gli utenti non dovranno più fare clic sul pulsante **[!UICONTROL Aggiorna]** per visualizzare gli aggiornamenti alle esperienze in [!DNL Content].
+
+* Nella pagina _Dettagli esperienza_ le miniature delle risorse esterne vengono ora visualizzate come HTML.
+
+* È stata migliorata la latenza dell’interfaccia utente dopo l’aggiunta o l’eliminazione di Assets ed Experience.
+
+* Le anteprime dei modelli ora includono testo predefinito più descrittivo. Vedi [Personalizzare un modello](https://experienceleague.adobe.com/en/docs/genstudio/user-guide/content/templates/customize-template#template-preview).
 
 * **Punteggio di convalida basato su percentuale**: la convalida del brand visualizza ora il punteggio di convalida del brand come percentuale anziché come valore di esito positivo/negativo. (fisso 8/16)
 
@@ -51,7 +90,7 @@ Le versioni precedenti di Beta includevano i seguenti elementi di rilievo e corr
 
 * **Ridimensionamento dei metadati**: gli editor possono ridimensionare le proporzioni dei metadati. (fisso 8/16)
 
-* **Account di accesso Approfondimenti limitati**: l&#39;accesso Approfondimenti ora supporta un solo account per cliente. (fisso 8/16)
+* **Account di accesso limitati [!DNL Insights]**: l&#39;accesso [!DNL Insights] ora supporta un solo account per cliente. (fisso 8/16)
 
 ### Ulteriori miglioramenti e problemi risolti
 
@@ -65,7 +104,8 @@ Le versioni precedenti di Beta includevano i seguenti elementi di rilievo e corr
 
 ### Problemi noti risolti nelle precedenti versioni di Beta
 
+* GenStudio visualizza un errore quando un utente tenta di immettere le credenziali nella visualizzazione [!DNL Insights]. (risolto il 29/8) <!-- GS-4689 -->
+
 * Il caricamento delle linee guida per il marchio non riesce a causa di problemi con la piattaforma di storage ACP. (risolto il 22/8) <!-- GS-4369 -->
 
 * Il menu a discesa dell&#39;area dei prompt [!DNL Brands] visualizza un elemento spinner alla fine dell&#39;elenco [!DNL Brands] durante la creazione dell&#39;e-mail. (risolto il 22/8) <!-- GS-4077 -->
-
