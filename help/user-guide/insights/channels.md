@@ -2,13 +2,13 @@
 title: Panoramica dei canali
 description: Consulta una panoramica sul coinvolgimento dei clienti, sulle prestazioni, sul budget e sulle spese per le campagne di marketing in Adobe GenStudio for Performance Marketer.
 feature: Insights, Channels
-source-git-commit: 2e76eadcc3281ea935dca383eb3db8c41b83e679
+exl-id: 99059c81-0fef-4759-b52b-d6f7f9f82a52
+source-git-commit: 13e49dd7bd36e842513baa6311373671da827926
 workflow-type: tm+mt
-source-wordcount: '675'
+source-wordcount: '688'
 ht-degree: 0%
 
 ---
-
 
 # Panoramica dei canali
 
@@ -20,9 +20,9 @@ La visualizzazione [!DNL Insights] _[!UICONTROL Canali]_ mostra un elenco di cam
 
 La tabella [!UICONTROL Canali] è organizzata utilizzando la campagna pubblicitaria basata su canale. L&#39;icona del filtro (funnel) sopra il lato sinistro della tabella apre il menu **[!UICONTROL Filtro]** in cui è possibile selezionare gli elenchi [!UICONTROL Account], [!UICONTROL Stato] e [!UICONTROL Obiettivo] per filtrare le campagne nella tabella.
 
-![Filtro canale e tabella](../../assets/insights-channel-filter.png)
+![Filtro canali e tabella](../../assets/insights-channels-filter.png)
 
-Quando selezioni una campagna, si apre la scheda [!UICONTROL Esperienze] in un elenco di nomi di annunci associati alla campagna.
+Quando selezioni una campagna, la scheda [[!UICONTROL Esperienze]](experiences.md) si apre in un elenco di nomi di annunci associati alla campagna, che ti consente di identificare quali esperienze hanno contribuito al suo successo complessivo.
 
 ## Obiettivi
 
