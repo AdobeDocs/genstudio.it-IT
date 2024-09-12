@@ -2,13 +2,13 @@
 title: GenStudio per gli esperti di marketing delle prestazioni [!DNL Brands]
 description: GenStudio for Performance Marketers [!DNL Brands] è una raccolta completa di risorse per i marchi, come copie di marketing, immagini, esperienze e altro ancora, per informare la creazione di contenuti allineati al marchio.
 feature: Brands Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
 source-wordcount: '800'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
-
 
 # GenStudio per gli esperti di marketing delle prestazioni [!DNL Brands]
 
@@ -45,9 +45,9 @@ La tabella seguente mostra ogni categoria di linee guida e di esempi di linee gu
 
 Ogni canale ha determinate linee guida che influenzano la composizione delle risorse del canale.
 
-La tabella seguente mostra ogni frammento di canale, i canali per cui è disponibile, la descrizione del frammento, esempi di linee guida e risultati di esempio.
+La tabella seguente mostra le sezioni di canale, i canali per i quali sono disponibili, la descrizione della sezione, gli esempi di linee guida e i risultati degli esempi.
 
-| Frammenti | Canali | Descrizione | Best practice |
+| Sezioni | Canali | Descrizione | Best practice |
 | ------------------| --------- | --------- | -------- |
 | Generale | e-mail, annunci social | Una seconda riga dell’oggetto o un testo di anteprima e-mail | Definisci il tono/emozione generale in modo che sia coerente in tutte le e-mail (2-5 linee guida).<br>_Esempi_: &quot;Mantieni un tono amichevole e accessibile&quot;, &quot;Evita un linguaggio eccessivamente formale&quot;<br><br> |
 | Oggetto | email | Titolo interessante per riepilogare il contenuto di un messaggio e-mail | Fornisci indicazioni specifiche (2-5 linee guida) su tono, lunghezza, ecc. Aggiungi righe oggetto riuscite in precedenza nella sezione _Esempi_ per ottenere un output di qualità migliore.<br>_Esempio_: &quot;Allinea l&#39;oggetto al corpo dell&#39;e-mail&quot; |

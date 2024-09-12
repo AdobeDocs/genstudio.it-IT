@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 5026afb4eb71df73063559aee34971039511b31a
+exl-id: 34446202-da98-45ff-869a-b43496a477f8
+source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
 workflow-type: tm+mt
-source-wordcount: '813'
+source-wordcount: '816'
 ht-degree: 0%
 
 ---
-
 
 # Creare un’esperienza e-mail
 
@@ -69,16 +69,14 @@ Per impostazione predefinita, quattro varianti (tutte alimentate dal prompt, dal
 
 ## Rivedere le e-mail generate
 
-Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblicazione a [!DNL Content], è possibile modificare i frammenti di posta elettronica o eliminare una variante dal set di e-mail generate.
+Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblicazione a [!DNL Content], è possibile modificare le sezioni e-mail o eliminare una variante dal set di e-mail generate.
 
 **Per rivedere le varianti generate**:
 
-* **Per modificare il nome della bozza e-mail**, fai clic sul titolo _Bozza senza titolo_ nella parte superiore dell&#39;area di lavoro e immetti un nuovo titolo.
-* **Per modificare manualmente un&#39;e-mail**, fare doppio clic in uno dei frammenti di posta elettronica (ad esempio l&#39;oggetto, l&#39;intestazione o la copia del corpo) e modificarli in base alle esigenze.
-
-  L’oggetto e il preheader richiedono solo un singolo clic per essere modificati, mentre l’intestazione, il corpo del testo e l’invito all’azione richiedono un doppio clic.
-
-* **Per eliminare un&#39;e-mail**, fare clic per selezionare il titolo dell&#39;e-mail (ad esempio, &quot;E-mail 1/4&quot;) e fare clic su **[!UICONTROL Elimina variante]**.
+* **Per [modificare il nome della bozza e-mail](/help/user-guide/create/manage-variants.md#change-draft-name)**, fai clic sul titolo _Bozza senza titolo_ nella parte superiore dell&#39;area di lavoro e immetti un nuovo titolo.
+* **Per [modificare manualmente un&#39;e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)**, fare doppio clic in uno dei campi di testo modificabili (ad esempio l&#39;oggetto, l&#39;intestazione o il corpo del testo) e modificarlo in base alle esigenze.
+* **Per [rigenerare una sezione di una variante](/help/user-guide/create/manage-variants.md#re-generate-sections)**, fare clic su un campo di testo modificabile e utilizzare le _[!UICONTROL opzioni di modifica consigliate]_ oppure immettere un nuovo prompt e fare clic su **[!UICONTROL Genera]**.
+* **Per [eliminare un&#39;e-mail](/help/user-guide/create/manage-variants.md#delete-variant)**, fare clic per selezionare il titolo dell&#39;e-mail (ad esempio, &quot;E-mail 1/4&quot;) e fare clic su **[!UICONTROL Elimina variante]**.
 
 ## Verificare l’allineamento del brand
 
@@ -87,7 +85,7 @@ Per ottimizzare le e-mail generate e garantire una rigorosa aderenza alla brand 
 **Per verificare l&#39;allineamento del brand**:
 
 1. Fai clic sull&#39;icona [**[!UICONTROL [!DNL Brand] controllo delle linee guida]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) per una variante e visualizza un riepilogo delle prestazioni della variante quando questa viene confrontata con il tuo marchio.
-1. Per ottenere i dettagli dei frammenti e delle linee guida che necessitano di miglioramenti, fai clic su **[!UICONTROL Rivedi]** _o_ fai clic sull&#39;icona Convalida marchio nella barra dei menu superiore per aprire il [_pannello di convalida marchio_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
+1. Per ottenere i dettagli delle sezioni e delle linee guida che necessitano di miglioramenti, fai clic su **[!UICONTROL Rivedi]** _o_ fai clic sull&#39;icona Convalida marchio nella barra dei menu superiore per aprire il [_pannello di convalida marchio_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 
 1. Passa da un’e-mail all’altra per vedere come migliorare il contenuto generato in modo che sia più allineato al brand.
 1. [Rivedi manualmente le e-mail](#revise-generated-emails) per assicurarti che siano strettamente allineate al tuo marchio.

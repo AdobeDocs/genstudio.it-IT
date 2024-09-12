@@ -6,13 +6,13 @@ role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
-source-git-commit: 4745e7cab9cd605c3bc7e93cb610e510566c9302
+exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
+source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
 workflow-type: tm+mt
-source-wordcount: '955'
+source-wordcount: '1014'
 ht-degree: 0%
 
 ---
-
 
 # Creare un’esperienza di annuncio multimediale
 
@@ -77,14 +77,16 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
 
 **Per rivedere le varianti generate**:
 
-* **Per modificare il nome della bozza del Meta Ad**, fai clic sul titolo della _Bozza senza titolo_ nella parte superiore dell&#39;area di lavoro e immetti un nuovo titolo.
-* **Per modificare manualmente un annuncio meta**, fare doppio clic in uno dei frammenti dell&#39;annuncio (ad esempio l&#39;oggetto, l&#39;intestazione o la copia del corpo) e modificarlo in base alle esigenze.
+* **Per [modificare il nome della bozza del Meta Ad](/help/user-guide/create/manage-variants.md#change-draft-name)**, fai clic sul titolo della _Bozza senza titolo_ nella parte superiore dell&#39;area di lavoro e immetti un nuovo titolo.
+* **Per [modificare manualmente un Meta Ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, fare doppio clic in una delle sezioni dell&#39;annuncio (ad esempio l&#39;oggetto, l&#39;intestazione o la copia del corpo) e modificarle in base alle esigenze.
 
   L’oggetto e il preheader richiedono un solo clic per essere modificati, mentre l’intestazione e il corpo del testo richiedono un doppio clic.
 
-* **Per modificare o selezionare l&#39;invito all&#39;azione**, fare clic sul pulsante di invito all&#39;azione e selezionare un pulsante disponibile.
-* **Per modificare le dimensioni e le proporzioni**, fare clic sul pulsante _[!UICONTROL Ridimensiona]_ (casella con l&#39;icona di un pulsante sul lato sinistro dell&#39;area di lavoro) e selezionare le nuove dimensioni e proporzioni da applicare a tutte le varianti. Le varianti vengono duplicate e ridimensionate.
-* **Per eliminare un Meta ad**, fare clic per selezionare il titolo dell&#39;annuncio (ad esempio, &quot;Meta 4&quot;) e fare clic su **[!UICONTROL Elimina variante]**.
+* **Per modificare o selezionare l&#39;invito all&#39;azione**, fare clic sul pulsante di invito all&#39;azione e selezionare una delle opzioni di testo disponibili per il pulsante. In _[!UICONTROL Collegamento]_, immettere un collegamento per il testo dell&#39;invito all&#39;azione.
+* **Per [modificare le dimensioni e le proporzioni dell&#39;annuncio](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, fare clic sul pulsante _[!UICONTROL Ridimensiona]_ (casella con l&#39;icona di un pulsante sul lato sinistro dell&#39;area di lavoro) e selezionare nuove dimensioni e proporzioni da applicare a tutte le varianti. Le varianti vengono duplicate e ridimensionate.
+* **Per [rigenerare una sezione di una variante](/help/user-guide/create/manage-variants.md#re-generate-sections)**, fare clic su un campo di testo modificabile e utilizzare le _[!UICONTROL opzioni di modifica consigliate]_ oppure immettere un nuovo prompt e fare clic su **[!UICONTROL Genera]**.
+* **Per [ritagliare o riposizionare le immagini](/help/user-guide/create/manage-variants.md#crop-assets)**, posizionare il puntatore del mouse su un&#39;immagine, fare clic su **[!UICONTROL Applica ritaglio]** e modificare le dimensioni e la posizione dell&#39;immagine.
+* **Per [eliminare un Meta Ad](/help/user-guide/create/manage-variants.md#delete-variant)**, fare clic per selezionare il titolo dell&#39;annuncio (ad esempio, &quot;Meta 4&quot;) e fare clic su **[!UICONTROL Elimina variante]**.
 
 ## Verificare l’allineamento del brand
 
@@ -93,7 +95,7 @@ Per ottimizzare gli annunci generati e garantire una rigorosa aderenza all&#39;i
 **Per verificare l&#39;allineamento del brand**:
 
 1. Fai clic sull&#39;icona [**[!UICONTROL [!DNL Brand] controllo delle linee guida]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) per una variante e visualizza un riepilogo delle prestazioni della variante quando questa viene confrontata con il tuo marchio.
-1. Per ottenere i dettagli dei frammenti e delle linee guida che necessitano di miglioramenti, fai clic su **[!UICONTROL Rivedi]** _o_ fai clic sull&#39;icona Convalida marchio nella barra dei menu superiore per aprire il [_pannello di convalida marchio_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
+1. Per ottenere i dettagli delle sezioni e delle linee guida che necessitano di miglioramenti, fai clic su **[!UICONTROL Rivedi]** _o_ fai clic sull&#39;icona Convalida marchio nella barra dei menu superiore per aprire il [_pannello di convalida marchio_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 
 1. Passa da un annuncio all’altro per vedere come migliorare i contenuti generati per allinearli maggiormente al marchio.
 1. [Rivedi manualmente gli annunci](#revise-generated-meta-ads) per assicurarti che siano strettamente allineati al tuo marchio.
