@@ -3,9 +3,9 @@ title: Panoramica di GenStudio per gli esperti di marketing delle prestazioni [!
 description: Genera rapidamente contenuti a elevate prestazioni e sul marchio con IA generativa in Adobe GenStudio per gli esperti di marketing delle prestazioni [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '554'
 ht-degree: 1%
 
 ---
@@ -18,8 +18,7 @@ Con [!DNL Create] è possibile generare contenuti per i seguenti canali:
 
 * E-mail
 * Meta annunci
-<!-- * Social media images and ads
-* Display ads -->
+* Visualizza annunci
 
 Oltre alla potenza di [linee guida](/help/user-guide/guidelines/overview.md)—[!DNL Brands], [!DNL Products] e [!DNL Personas]—[Contenuto](/help/user-guide/content/overview.md), [Recensioni e approvazioni](/help/user-guide/approvals/overview.md) e [Approfondimenti](/help/user-guide/insights/overview.md), [!DNL Create] facilita la creazione di contenuti di marketing di grande impatto e allineati al brand.
 
@@ -108,12 +107,13 @@ Dopo aver generato le varianti di contenuto, invia le bozze per l&#39;approvazio
 
 GenStudio for Performance Marketers consente [il controllo completo sulle sezioni di singole varianti](/help/user-guide/create/manage-variants.md).
 
-Puoi rivedere le sezioni di una singola variante, rigenerare il contenuto di singole sezioni e utilizzare le modifiche suggerite per migliorare il messaggio, ritagliare e ridimensionare le risorse e altro ancora all’interno dell’area di lavoro.
+Puoi rivedere le sezioni di una singola variante, rigenerare il contenuto di singole sezioni e utilizzare le modifiche suggerite per migliorare il messaggio, ridimensionare le risorse e altro all’interno dell’area di lavoro.
 
 ## Tutorial
 
 * [Creare un’esperienza e-mail](/help/tutorials/create-email-experience.md)
 * [Creare un’esperienza di annuncio multimediale](/help/tutorials/create-meta-ad.md)
+* [Creare un’esperienza di visualizzazione annuncio](/help/tutorials/create-display-ad.md)
 
 <!-- ### Anatomy of an email experience
 

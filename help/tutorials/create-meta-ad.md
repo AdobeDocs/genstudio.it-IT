@@ -1,15 +1,15 @@
 ---
 title: Creare un’esperienza di annuncio multimediale
-description: Scopri come creare una nuova esperienza di annunci Meta per il brand, per Facebook o Instagram, con IA generativa.
-feature: Content, Brands Service, Guidelines, Content Generation
+description: Scopri come creare una nuova esperienza di annunci multimediali per il marchio, per Facebook o Instagram, con un Adobe GenStudio per gli esperti di marketing delle prestazioni.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: b71f53eca2a0fdd7bf353a2eaf0b1b4e657b18b0
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '1014'
+source-wordcount: '1005'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ L&#39;aggiunta di [linee guida](/help/user-guide/guidelines/overview.md) e risor
    * Fai clic su **[!UICONTROL Seleziona dal contenuto]** per selezionare le risorse (immagini) già pubblicate in [!DNL Content]. Utilizza i filtri per restringere ulteriormente i risultati della ricerca.
    * Fai clic su **[!UICONTROL Carica]** per sfogliare i file e scegliere le risorse da utilizzare. Oltre a sfogliare il dispositivo, è anche possibile importare da Microsoft OneDrive o Dropbox.
    * Trascina le risorse nella sezione _Contenuto_.
+1. Fai clic su **[!UICONTROL Usa]**.
 
 Dopo aver aggiunto i parametri, è possibile comprimere l&#39;area del prompt facendo nuovamente clic sull&#39;icona _Parametri_.
 
@@ -67,7 +68,7 @@ Per impostazione predefinita, quattro varianti (tutte alimentate dal prompt, dal
 
 Durante la generazione di un Meta Ad, puoi scegliere tra annunci Facebook o Instagram.
 
-Attiva l&#39;opzione Canale Meta ads nella barra dei menu superiore su **Facebook** o **Instagram** per gestire le bozze generate da ogni canale.
+Attiva l&#39;opzione di canale Meta ads (tra **Facebook** e **Instagram**) nella barra dei menu a destra (icone di Facebook e Instagram) per visualizzare e gestire le varianti per ciascun canale.
 
 Quando [rivedi i Meta Ads](#revise-generated-meta-ads), puoi modificare le proporzioni degli annunci Facebook e Instagram.
 
@@ -77,6 +78,7 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
 
 **Per rivedere le varianti generate**:
 
+
 * **Per [modificare il nome della bozza del Meta Ad](/help/user-guide/create/manage-variants.md#change-draft-name)**, fai clic sul titolo della _Bozza senza titolo_ nella parte superiore dell&#39;area di lavoro e immetti un nuovo titolo.
 * **Per [modificare manualmente un Meta Ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, fare doppio clic in una delle sezioni dell&#39;annuncio (ad esempio l&#39;oggetto, l&#39;intestazione o la copia del corpo) e modificarle in base alle esigenze.
 
@@ -85,7 +87,7 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
 * **Per modificare o selezionare l&#39;invito all&#39;azione**, fare clic sul pulsante di invito all&#39;azione e selezionare una delle opzioni di testo disponibili per il pulsante. In _[!UICONTROL Collegamento]_, immettere un collegamento per il testo dell&#39;invito all&#39;azione.
 * **Per [modificare le dimensioni e le proporzioni dell&#39;annuncio](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, fare clic sul pulsante _[!UICONTROL Ridimensiona]_ (casella con l&#39;icona di un pulsante sul lato sinistro dell&#39;area di lavoro) e selezionare nuove dimensioni e proporzioni da applicare a tutte le varianti. Le varianti vengono duplicate e ridimensionate.
 * **Per [rigenerare una sezione di una variante](/help/user-guide/create/manage-variants.md#re-generate-sections)**, fare clic su un campo di testo modificabile e utilizzare le _[!UICONTROL opzioni di modifica consigliate]_ oppure immettere un nuovo prompt e fare clic su **[!UICONTROL Genera]**.
-* **Per [ritagliare o riposizionare le immagini](/help/user-guide/create/manage-variants.md#crop-assets)**, posizionare il puntatore del mouse su un&#39;immagine, fare clic su **[!UICONTROL Applica ritaglio]** e modificare le dimensioni e la posizione dell&#39;immagine.
+<!-- * **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)** hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
 * **Per [eliminare un Meta Ad](/help/user-guide/create/manage-variants.md#delete-variant)**, fare clic per selezionare il titolo dell&#39;annuncio (ad esempio, &quot;Meta 4&quot;) e fare clic su **[!UICONTROL Elimina variante]**.
 
 ## Verificare l’allineamento del brand

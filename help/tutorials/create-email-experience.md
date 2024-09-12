@@ -1,15 +1,15 @@
 ---
 title: Creare un’esperienza e-mail
-description: Scopri come creare esperienze e-mail in Adobe [!DNL GenStudio].
-feature: Content, Brands Service, Guidelines, Content Generation
+description: Scopri come creare esperienze e-mail in Adobe [!DNL GenStudio] per gli esperti di marketing delle prestazioni.
+feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 9624429977e21af614173c5078c6b470c8b5a147
 workflow-type: tm+mt
-source-wordcount: '816'
+source-wordcount: '879'
 ht-degree: 0%
 
 ---
@@ -47,6 +47,7 @@ L&#39;aggiunta di [linee guida](/help/user-guide/guidelines/overview.md) e risor
    * Fai clic su **[!UICONTROL Seleziona dal contenuto]** per selezionare le risorse (immagini) già pubblicate in [!DNL Content]. Utilizza i filtri per restringere ulteriormente i risultati della ricerca.
    * Fai clic su **[!UICONTROL Carica]** per sfogliare i file e scegliere le risorse da utilizzare. Oltre a sfogliare il dispositivo, è anche possibile importare da Microsoft OneDrive o Dropbox.
    * Trascina le risorse nella sezione _Contenuto_.
+1. Fai clic su **[!UICONTROL Usa]**.
 
 >[!NOTE]
 >
@@ -77,6 +78,12 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
 * **Per [modificare manualmente un&#39;e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)**, fare doppio clic in uno dei campi di testo modificabili (ad esempio l&#39;oggetto, l&#39;intestazione o il corpo del testo) e modificarlo in base alle esigenze.
 * **Per [rigenerare una sezione di una variante](/help/user-guide/create/manage-variants.md#re-generate-sections)**, fare clic su un campo di testo modificabile e utilizzare le _[!UICONTROL opzioni di modifica consigliate]_ oppure immettere un nuovo prompt e fare clic su **[!UICONTROL Genera]**.
 * **Per [eliminare un&#39;e-mail](/help/user-guide/create/manage-variants.md#delete-variant)**, fare clic per selezionare il titolo dell&#39;e-mail (ad esempio, &quot;E-mail 1/4&quot;) e fare clic su **[!UICONTROL Elimina variante]**.
+
+## Anteprima per dispositivo
+
+Durante la revisione e la preparazione delle esperienze e-mail, puoi passare dalle anteprime per le viste desktop a quelle mobili per garantire la coerenza e l’impatto visivo delle varianti di bozza.
+
+**Per visualizzare in anteprima le varianti per desktop e dispositivi mobili**, attiva l&#39;opzione di anteprima del dispositivo, tra **desktop** e **mobile**, nella barra dei menu a destra (icone computer e telefono) per visualizzare in anteprima le varianti.
 
 ## Verificare l’allineamento del brand
 

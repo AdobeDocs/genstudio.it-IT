@@ -2,9 +2,9 @@
 title: Gestisci varianti
 description: Personalizza e migliora le varianti e le risorse generate in base alle tue esigenze di marketing digitale.
 feature: Content, Assets, Experiences
-source-git-commit: a6cf07179e888599860bc699ec17a3e8e4167e7b
+source-git-commit: d300d9e68cf63cde69500c90d97999057c8d1575
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '684'
 ht-degree: 0%
 
 ---
@@ -55,30 +55,35 @@ Ad esempio, puoi generare nuovamente la sezione titolo di una variante di Meta a
 
    La variante viene aggiornata con il testo rivisto.
 
-## Ritagliare le risorse
+<!-- ## Crop assets
 
-Puoi ritagliare e riposizionare manualmente le risorse immagine nelle singole varianti generate.
+You can manually crop and reposition image assets in individual generated variants.
 
-**Per ritagliare e riposizionare le immagini nelle varianti**:
+**To crop and reposition images in variants**:
 
-1. Dopo aver generato un set di varianti, passa il cursore su un’immagine all’interno di una variante.
-1. Fare clic su **[!UICONTROL Applica ritaglio]**.
-1. Ingrandire e ridurre l&#39;immagine e trascinarla nella posizione desiderata.
-1. Fai clic su **[!UICONTROL Applica]**.
+1. After generating a set of variants, hover over an image within a variant.
+1. Click **[!UICONTROL Apply Crop]**.
+1. Zoom in and out and drag the image into the desired position.
+1. Click **[!UICONTROL Apply]**.
 
-   L’immagine ritagliata viene salvata automaticamente e visibile per la variante.
+   The cropped image is automatically saved and visible for the variant. -->
 
 ## Modifica proporzioni
 
 Puoi modificare rapidamente le proporzioni dei Meta pubblicitari per adattarli al dimensionamento desiderato.
 
-Le proporzioni disponibili sono:
+Le dimensioni e le proporzioni disponibili sono:
 
-* Quadrato 1:1
-* 4:5 verticale
-* 9:16 verticale
+* Quadrato 1:1 (Meta)
+* 4:5 verticale (Meta)
+* 9:16 verticale (Meta)
+* 250 x 980 (display ad)
 
-**Per modificare le proporzioni degli annunci Meta generati**:
+>[!NOTE]
+>
+>Altre proporzioni e dimensioni potrebbero essere disponibili in base ai modelli disponibili.
+
+**Per modificare le proporzioni delle varianti generate**:
 
 1. Dopo aver generato un set di varianti, seleziona l’icona di ridimensionamento delle proporzioni (freccia rivolta verso l’angolo della casella) sul lato sinistro dell’area di lavoro.
 
