@@ -4,9 +4,9 @@ breadcrumb-title: Guida utente
 user-guide-description: Scopri come trovare e generare rapidamente risorse sul brand, creare varianti e ottimizzare le esperienze in base a informazioni approfondite sulle prestazioni dei contenuti in tempo reale.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 0713b18ed1ca5a0b695fdcef4bd488cf87bf2040
+source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '128'
 ht-degree: 10%
 
 ---
@@ -29,7 +29,6 @@ ht-degree: 10%
    + [Convalida del brand](guidelines/brand-validation.md)
 + Crea {#create}
    + [Panoramica di [!DNL Create]](create/overview.md)
-   + [Gestisci varianti](create/manage-variants.md)
 + Recensioni e approvazioni {#approve}
    + [Panoramica sulla revisione e sulle approvazioni](approvals/overview.md)
    + [Richiedi revisione e approvazione del contenuto](approvals/request-review.md)

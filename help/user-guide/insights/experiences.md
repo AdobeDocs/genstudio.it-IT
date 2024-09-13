@@ -2,7 +2,7 @@
 title: Panoramica sulle esperienze
 description: Consulta una panoramica del coinvolgimento dei clienti, del budget e delle spese per esperienze e prestazioni dei beni in Adobe GenStudio for Performance Marketer.
 feature: Insights, Experiences
-source-git-commit: 70ce82b026b2ee1f088cda75caa22bbb1b9c5ef3
+source-git-commit: ed0ddb10ee65c2691f8ecbfe23533508e9174bf9
 workflow-type: tm+mt
 source-wordcount: '708'
 ht-degree: 0%
