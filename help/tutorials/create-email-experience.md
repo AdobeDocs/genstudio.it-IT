@@ -1,15 +1,15 @@
 ---
 title: Creare un’esperienza e-mail
-description: Scopri come creare esperienze e-mail in Adobe [!DNL GenStudio] per gli esperti di marketing delle prestazioni.
-feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
+description: Scopri come creare esperienze e-mail in Adobe [!DNL GenStudio].
+feature: Content, Brands Service, Guidelines, Content Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 3827d8222bd548caf83288656d5f2af8d2248dec
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
-source-wordcount: '853'
+source-wordcount: '813'
 ht-degree: 0%
 
 ---
@@ -47,7 +47,6 @@ L&#39;aggiunta di [linee guida](/help/user-guide/guidelines/overview.md) e risor
    * Fai clic su **[!UICONTROL Seleziona dal contenuto]** per selezionare le risorse (immagini) già pubblicate in [!DNL Content]. Utilizza i filtri per restringere ulteriormente i risultati della ricerca.
    * Fai clic su **[!UICONTROL Carica]** per sfogliare i file e scegliere le risorse da utilizzare. Oltre a sfogliare il dispositivo, è anche possibile importare da Microsoft OneDrive o Dropbox.
    * Trascina le risorse nella sezione _Contenuto_.
-1. Fai clic su **[!UICONTROL Usa]**.
 
 >[!NOTE]
 >
@@ -70,20 +69,16 @@ Per impostazione predefinita, quattro varianti (tutte alimentate dal prompt, dal
 
 ## Rivedere le e-mail generate
 
-Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblicazione a [!DNL Content], è possibile modificare le sezioni e-mail o eliminare una variante dal set di e-mail generate.
+Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblicazione a [!DNL Content], è possibile modificare i frammenti di posta elettronica o eliminare una variante dal set di e-mail generate.
 
 **Per rivedere le varianti generate**:
 
-* **Per [modificare il nome della bozza e-mail](/help/user-guide/create/manage-variants.md#change-draft-name)**, fai clic sul titolo _Bozza senza titolo_ nella parte superiore dell&#39;area di lavoro e immetti un nuovo titolo.
-* **Per [modificare manualmente un&#39;e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)**, fare doppio clic in uno dei campi di testo modificabili (ad esempio l&#39;oggetto, l&#39;intestazione o il corpo del testo) e modificarlo in base alle esigenze.
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **Per [eliminare un&#39;e-mail](/help/user-guide/create/manage-variants.md#delete-variant)**, fare clic per selezionare il titolo dell&#39;e-mail (ad esempio, &quot;E-mail 1/4&quot;) e fare clic su **[!UICONTROL Elimina variante]**.
+* **Per modificare il nome della bozza e-mail**, fai clic sul titolo _Bozza senza titolo_ nella parte superiore dell&#39;area di lavoro e immetti un nuovo titolo.
+* **Per modificare manualmente un&#39;e-mail**, fare doppio clic in uno dei frammenti di posta elettronica (ad esempio l&#39;oggetto, l&#39;intestazione o la copia del corpo) e modificarli in base alle esigenze.
 
-## Anteprima per dispositivo
+  L’oggetto e il preheader richiedono solo un singolo clic per essere modificati, mentre l’intestazione, il corpo del testo e l’invito all’azione richiedono un doppio clic.
 
-Durante la revisione e la preparazione delle esperienze e-mail, puoi passare dalle anteprime per le viste desktop a quelle mobili per garantire la coerenza e l’impatto visivo delle varianti di bozza.
-
-**Per visualizzare in anteprima le varianti per desktop e dispositivi mobili**, attiva l&#39;opzione di anteprima del dispositivo, tra **desktop** e **mobile**, nella barra dei menu a destra (icone computer e telefono) per visualizzare in anteprima le varianti.
+* **Per eliminare un&#39;e-mail**, fare clic per selezionare il titolo dell&#39;e-mail (ad esempio, &quot;E-mail 1/4&quot;) e fare clic su **[!UICONTROL Elimina variante]**.
 
 ## Verificare l’allineamento del brand
 
@@ -92,7 +87,7 @@ Per ottimizzare le e-mail generate e garantire una rigorosa aderenza alla brand 
 **Per verificare l&#39;allineamento del brand**:
 
 1. Fai clic sull&#39;icona [**[!UICONTROL [!DNL Brand] controllo delle linee guida]**](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check) per una variante e visualizza un riepilogo delle prestazioni della variante quando questa viene confrontata con il tuo marchio.
-1. Per ottenere i dettagli delle sezioni e delle linee guida che necessitano di miglioramenti, fai clic su **[!UICONTROL Rivedi]** _o_ fai clic sull&#39;icona Convalida marchio nella barra dei menu superiore per aprire il [_pannello di convalida marchio_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
+1. Per ottenere i dettagli dei frammenti e delle linee guida che necessitano di miglioramenti, fai clic su **[!UICONTROL Rivedi]** _o_ fai clic sull&#39;icona Convalida marchio nella barra dei menu superiore per aprire il [_pannello di convalida marchio_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel).
 
 1. Passa da un’e-mail all’altra per vedere come migliorare il contenuto generato in modo che sia più allineato al brand.
 1. [Rivedi manualmente le e-mail](#revise-generated-emails) per assicurarti che siano strettamente allineate al tuo marchio.

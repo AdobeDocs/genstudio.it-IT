@@ -4,7 +4,7 @@ description: Scopri come impostare GenStudio per gli esperti di marketing delle 
 level: Beginner
 feature: Prompt, Brands Service, Personas Service, Products Service, Generative AI, Guidelines
 exl-id: bcb03198-bbcb-45ae-af01-25c1e834b563
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
 source-wordcount: '1106'
 ht-degree: 1%
@@ -38,7 +38,7 @@ Tre tipi di ruoli utente di GenStudio for Performance Marketers supportano quest
 
 ### Editor GenStudio
 
-**Gli editor** dispongono delle autorizzazioni di base necessarie per creare risorse GenStudio per gli esperti di marketing delle prestazioni [!DNL Brands], [!DNL Campaigns] e [!DNL Content]. Possono anche modificare ed eliminare le risorse create. GenStudio per gli esperti di marketing delle prestazioni supporta la creazione rapida di centinaia di contenuti. Questi utenti possono generare sezioni di contenuto o intere esperienze che orchestrano parti discrete di contenuto approvato per soddisfare le esigenze di specifiche campagne di marketing.
+**Gli editor** dispongono delle autorizzazioni di base necessarie per creare risorse GenStudio per gli esperti di marketing delle prestazioni [!DNL Brands], [!DNL Campaigns] e [!DNL Content]. Possono anche modificare ed eliminare le risorse create. GenStudio per gli esperti di marketing delle prestazioni supporta la creazione rapida di centinaia di contenuti. Questi utenti possono generare frammenti di contenuto o intere esperienze che orchestrano parti discrete di contenuti approvati per soddisfare le esigenze di specifiche campagne di marketing.
 
 Gli editor interagiscono con le tecnologie di intelligenza artificiale generative di GenStudio for Performance Marketers tramite _prompt_. L’area dei prompt nell’area di lavoro fornisce gli strumenti per inserire i prompt nel contesto delle linee guida di una campagna specifica. Di conseguenza, la qualità e il successo dei contenuti generati dipendono in parte dalla qualità delle linee guida del brand caricate dalla tua organizzazione e dalla specificità del prompt.
 

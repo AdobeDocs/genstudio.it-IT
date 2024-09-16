@@ -3,9 +3,9 @@ title: Convalida del marchio in Adobe GenStudio per gli esperti di marketing del
 description: Scopri come funziona il sistema integrato di convalida del brand in GenStudio per gli esperti di marketing delle prestazioni.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: 1fbf1bcb0434b9dbabcd2933d1451a165ec351d2
+source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
 workflow-type: tm+mt
-source-wordcount: '606'
+source-wordcount: '612'
 ht-degree: 0%
 
 ---
@@ -32,22 +32,22 @@ Consulta [Migliorare l&#39;allineamento del brand](#improve-brand-alignment).
 
 ## Pannello di convalida del brand
 
-Il _pannello di convalida del marchio_ fornisce informazioni dettagliate sulla convalida del marchio e illustra le opportunità di miglioramento per ogni sezione di varianti.
+Il _pannello di convalida del marchio_ fornisce informazioni dettagliate sulla convalida del marchio e illustra le opportunità di miglioramento per ogni frammento di variante.
 
 Il _pannello di convalida del marchio_ visualizza informazioni per:
 
 * **E-mail**:
-   * Oggetto
-   * Preheader
-   * Intestazione
-   * Corpo
-   * CTA (invito all&#39;azione)
+   * Frammento della riga oggetto
+   * Frammento di preintestazione
+   * Frammento intestazione
+   * Frammento di corpo
+   * Frammento CTA (invito all’azione)
    * Linee guida per la voce del brand
 * **Meta annuncio**:
-   * Titolo
-   * Corpo del testo
-   * CTA (invito all&#39;azione)
-   * Testo su immagine
+   * Frammento titolo
+   * Frammento del testo
+   * Frammento CTA (invito all’azione)
+   * Frammento di testo su immagine
 
 Consulta [Migliorare l&#39;allineamento del brand](#improve-brand-alignment).
 
@@ -66,7 +66,7 @@ Nel _pannello di convalida del marchio_ puoi filtrare le linee guida visualizzat
 
 ## Migliorare l’allineamento del brand
 
-Per massimizzare l&#39;efficacia dei contenuti generati e mantenere un&#39;identità del brand coerente, utilizza il _controllo delle linee guida per il brand_ e il _pannello di convalida del brand_. Puoi modificare manualmente sezioni specifiche per allinearle alle [linee guida per il brand](brands.md).
+Per massimizzare l&#39;efficacia dei contenuti generati e mantenere un&#39;identità del brand coerente, utilizza il _controllo delle linee guida per il brand_ e il _pannello di convalida del brand_. Puoi modificare manualmente frammenti specifici per allinearli alle [linee guida per il brand](brands.md).
 
 **Per migliorare l&#39;allineamento del brand per le varianti di contenuto generato**:
 
@@ -74,24 +74,24 @@ Per massimizzare l&#39;efficacia dei contenuti generati e mantenere un&#39;ident
 
    Se confrontata con il tuo marchio, consulta un riepilogo delle prestazioni della variante specifica, ovvero delle linee guida che superano la convalida del brand e quelle che richiedono una revisione.
 
-1. Per ottenere i dettagli delle sezioni delle risorse e delle linee guida che necessitano di miglioramenti, fai clic su **[!UICONTROL Rivedi]** _o_ fai clic sull&#39;icona Convalida marchio nella barra dei menu superiore per aprire il _pannello di convalida marchio_.
+1. Per ottenere i dettagli dei frammenti e delle linee guida che necessitano di miglioramenti, fai clic su **[!UICONTROL Rivedi]** _o_ fai clic sull&#39;icona Convalida marchio nella barra dei menu superiore per aprire il _pannello di convalida marchio_.
 
-   Consulta tutte le sezioni e le linee guida per il brand che richiedono la tua attenzione. La sezione evidenziata nel pannello corrisponde alla sezione evidenziata nella variante generata nell’area di lavoro.
+   Scopri tutti i frammenti e le linee guida per il brand che richiedono la tua attenzione. Il frammento evidenziato nel pannello corrisponde al frammento evidenziato nella variante generata nell’area di lavoro.
 
    >[!NOTE]
    >
-   > La linea guida di _Brand voice_ indicata nel _pannello di convalida del brand_ si applica all&#39;intera variante, non a una singola sezione. L’intera variante di contenuto è evidenziata per suggerire un miglioramento.
+   > La linea guida di _Brand voice_ indicata nel _pannello di convalida del brand_ si applica all&#39;intera variante, non a un singolo frammento. L’intera variante di contenuto è evidenziata per suggerire un miglioramento.
 
-1. Rivedi manualmente le sezioni delle varianti per ottenere l’allineamento più sicuro al tuo marchio.
+1. Rivedi manualmente i frammenti di variante per ottenere l’allineamento più forte al tuo marchio.
 
 1. Dopo aver apportato le revisioni necessarie, fai clic su **[!UICONTROL Ricontrolla]** per convalidare le modifiche e assicurarti che siano più strettamente allineate con l&#39;identità del tuo marchio.
 
-   Il processo di convalida del brand verrà eseguito nuovamente. Se la sezione/linea guida supera la convalida, nel _pannello di convalida del marchio_ viene visualizzato un segno di spunta verde per tale sezione. Anche la percentuale nell&#39;icona _Controllo linee guida per il marchio_ per la variante rivista mostra il tuo avanzamento.
+   Il processo di convalida del brand verrà eseguito nuovamente. Se il frammento/linea guida supera la convalida, nel pannello di convalida del _marchio_ viene visualizzato un segno di spunta verde per tale frammento. Anche la percentuale nell&#39;icona _Controllo linee guida per il marchio_ per la variante rivista mostra il tuo avanzamento.
 
-1. Continua a rivedere le sezioni per garantire che l’intera variante superi la convalida del brand.
+1. Continua a rivedere i frammenti per garantire che l’intera variante superi la convalida del brand.
 
    Naviga tra le linee guida nel _pannello di convalida del marchio_ utilizzando i pulsanti **[!UICONTROL Next]** e **[!UICONTROL Previous]**.
 
-1. Nella parte superiore del _pannello di convalida del marchio_, passa tra le diverse varianti utilizzando le frecce (ad esempio, utilizza la freccia per passare da `Email 1` a `Email 2`) e continua a rivedere le sezioni delle varianti per rispettare meglio il tuo marchio.
+1. Nella parte superiore del pannello di convalida del _Marchio_, passa da una variante all&#39;altra utilizzando le frecce (ad esempio, utilizza la freccia per passare da `Email 1` a `Email 2`) e continua a rivedere i frammenti per rispettare meglio il tuo marchio.
 
    Per ulteriori informazioni sulle linee guida considerate, consulta le [linee guida per la voce del marchio](/help/user-guide/guidelines/brands.md#brand-voice-guidelines).
