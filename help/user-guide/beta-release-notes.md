@@ -2,9 +2,9 @@
 title: Adobe GenStudio per le note sulla versione di Beta per gli esperti di prestazioni marketing
 description: Scopri le funzioni e i miglioramenti più recenti di Adobe GenStudio per gli esperti di marketing delle prestazioni.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: 5f729070a3a4c162ebac0fde9814c649c9984b4d
+source-git-commit: d1904bfe6e5775f71290c2fc7aa185ac2a4a4668
 workflow-type: tm+mt
-source-wordcount: '881'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -33,11 +33,11 @@ I seguenti problemi noti sono pianificati per la risoluzione nella versione GA d
 
 ### Ulteriori miglioramenti e problemi risolti
 
-* L&#39;area di lavoro [!DNL Create] non esegue correttamente il rendering delle immagini nei Meta Ads. <!-- GS-4864 -->
+* L&#39;area di lavoro [!DNL Create] ora esegue correttamente il rendering delle immagini nei Meta Ads. <!-- GS-4864 -->
 
 * Anche se possono esistere discrepanze tra le anteprime Meta Ads Canvas e le viste esportate, le esperienze esportate funzionano come previsto. <!-- GS-4492 4401 -->
 
-* Le immagini caricate non sempre includono i tag avanzati previsti. <!-- GS-4856 -->
+* Le immagini caricate ora includono i tag avanzati previsti. <!-- GS-4856 -->
 
 * Il file CSV di esportazione dei metadati ora contiene le immagini come previsto. In precedenza, il file ZIP conteneva il file di esportazione CSV e i file NULL invece delle immagini.  <!-- GS-5107 -->
 
