@@ -4,7 +4,7 @@ breadcrumb-title: Guida utente
 user-guide-description: Scopri come trovare e generare rapidamente risorse sul brand, creare varianti e ottimizzare le esperienze in base a informazioni approfondite sulle prestazioni dei contenuti in tempo reale.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: a531ef2a7869a3f8e19fccd17b7acda54a767f6b
+source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 10%
@@ -15,6 +15,8 @@ ht-degree: 10%
 # Adobe GenStudio per la guida per gli addetti al marketing delle prestazioni {#user-guide}
 
 + [Guida di GenStudio per gli esperti di marketing delle prestazioni](home.md)
++ Note sulla versione {#release-notes}
+   + [Note sulla versione di Beta](beta-release-notes.md)
 + [Introduzione](get-started.md)
 + Introduzione {#intro}
    + [Concetti](concepts.md)
@@ -55,5 +57,3 @@ ht-degree: 10%
    + [Canali](insights/channels.md)
    + [Esperienze](insights/experiences.md)
    + [Colonne dati](insights/data-columns.md)
-+ Note sulla versione {#release-notes}
-   + [Note sulla versione di Beta](beta-release-notes.md)
