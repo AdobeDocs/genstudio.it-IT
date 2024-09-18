@@ -2,13 +2,13 @@
 title: Panoramica di Adobe GenStudio per gli addetti al marketing delle prestazioni [!DNL Content]
 description: Scopri come trovare, modificare, riutilizzare e condividere le risorse approvate dal brand in un portale intuitivo.
 feature: Attributes, Content, Templates
-source-git-commit: 6ee651ab67a92e2eca9929c3cfc6c66fb90d785e
+exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
+source-git-commit: c8c23be561dfb77ceb8f1abe6a85b9321201bb40
 workflow-type: tm+mt
 source-wordcount: '300'
 ht-degree: 1%
 
 ---
-
 
 # Adobe GenStudio per gli esperti di marketing delle prestazioni [!DNL Content]
 
@@ -20,7 +20,7 @@ GenStudio per gli esperti di marketing delle prestazioni [!DNL Content] fornisce
 <tr style="border: 0;">
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md#search">
-         <img alt="lente di ingrandimento" src="../../assets/icons/icon-search.png" width="35">
+         <img alt="lente di ingrandimento" src="../../assets/icons/icon-search.png">
       </a>
       <p>
          <a href="../content/manage-assets.md#search">
@@ -30,7 +30,7 @@ GenStudio per gli esperti di marketing delle prestazioni [!DNL Content] fornisce
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/manage-assets.md">
-         <img alt="immagini con segno più" src="../../assets/icons/icon-addContent.png" width="35">
+         <img alt="immagini con segno più" src="../../assets/icons/icon-addContent.png">
       </a>
       <p>
          <a href="../content/manage-assets.md">
@@ -40,7 +40,7 @@ GenStudio per gli esperti di marketing delle prestazioni [!DNL Content] fornisce
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/customize-template.md">
-         <img alt="bullone di schiarimento sulla risorsa" src="../../assets/icons/icon-template.png" width="35">
+         <img alt="bullone di schiarimento sulla risorsa" src="../../assets/icons/icon-template.png">
       </a>
       <p>
          <a href="../content/customize-template.md">
@@ -50,7 +50,7 @@ GenStudio per gli esperti di marketing delle prestazioni [!DNL Content] fornisce
    </td>
    <td align="center" valign="top" width="100">
       <a href="../content/use-templates.md">
-         <img alt="fulmine sulla risorsa con segno più" src="../../assets/icons/icon-addTemplate.png" width="35">
+         <img alt="fulmine sulla risorsa con segno più" src="../../assets/icons/icon-addTemplate.png">
       </a>
       <p>
          <a href="../content/use-templates.md#upload-a-template">

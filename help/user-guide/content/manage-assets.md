@@ -2,19 +2,45 @@
 title: Gestire risorse ed esperienze
 description: Semplifica e migliora la gestione delle risorse approvate dal marchio da utilizzare e riutilizzare nel percorso di marketing digitale.
 feature: Content, Assets, Experiences
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
+source-git-commit: dc438085cfe7c93b20dc7fb0d5919d2dc8b3dcde
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '722'
 ht-degree: 0%
 
 ---
-
 
 # Gestire risorse ed esperienze
 
 Adobe GenStudio per gli esperti di marketing delle prestazioni [!DNL Content] semplifica e migliora la gestione delle risorse approvate dal marchio da utilizzare e riutilizzare nel percorso di marketing digitale.
 
-## Aggiungere risorse
+## Galleria Assets
+
+La raccolta [!UICONTROL Assets] mostra un inventario delle risorse approvate. L&#39;icona del filtro (funnel) sopra il lato sinistro della tabella apre il menu **[!UICONTROL Filtro]** in cui è possibile selezionare diverse categorie per filtrare le risorse visualizzate nella raccolta. Fai clic sull’icona di ricerca (lente di ingrandimento) per trovare una risorsa con una parola chiave.
+
+Di seguito è riportata una ricerca per il termine `dog` nella raccolta [!UICONTROL Assets]:
+
+![Visualizzazione Assets con ricerca su cane](../../assets/content-assets.png)
+
+### Posizione Assets
+
+Per impostazione predefinita, le risorse aggiunte a [!DNL Content] tramite il processo [!DNL Create] o il caricamento vengono archiviate nell&#39;archivio `GenStudio assets`. L&#39;archivio `GenStudio assets` è di lettura/scrittura in GenStudio per gli esperti di prestazioni marketing. Ciò significa che è possibile salvare, modificare ed eliminare le risorse nell&#39;archivio `GenStudio assets`.
+
+L&#39;elenco **[!UICONTROL Posizione]** sopra la raccolta sul lato destro consente di selezionare dagli archivi Adobe Experience Manager (AEM) [!DNL Assets Content Hub] connessi. Quando selezioni un archivio AEM, la galleria mostra un inventario delle risorse provenienti da tale archivio, che ti consente di sfruttare le risorse approvate provenienti da tali archivi come input per la creazione di contenuti. Le opzioni del filtro cambiano per riflettere le categorie configurate in [!DNL AEM Assets Content Hub].
+
+L’archivio AEM è di sola lettura, il che significa che non è possibile salvare bozze, nuove risorse o metadati nell’archivio AEM. Tutte le bozze e gli aggiornamenti finali per risorse, esperienze e modelli vengono salvati nell&#39;archivio `GenStudio assets` con i nuovi [metadati di sistema](asset-details.md#system-metadata).
+
+Per informazioni sull&#39;aggiunta dell&#39;archivio [!DNL AEM Assets Content Hub] a GenStudio per gli esperti di prestazioni, vedere [Connettere un archivio AEM](connect-aem-repo.md).
+
+## Gestione di Assets
+
+In [!UICONTROL Content], gli addetti al marketing delle prestazioni possono archiviare, recuperare e gestire facilmente le risorse digitali. Sfruttando sia l&#39;archivio `GenStudio assets` che gli archivi AEM, gli utenti possono garantire che le proprie risorse siano ben organizzate e accessibili per varie campagne di marketing. Questo approccio con più repository offre flessibilità e controllo sull’utilizzo delle risorse in ambienti diversi, garantendo che solo le risorse approvate e aggiornate vengano utilizzate nelle attività di marketing.
+
+### Aggiungere risorse
+
+Per impostazione predefinita, quando si aggiungono risorse a [!DNL Content], queste vengono memorizzate nell&#39;archivio `GenStudio assets`. Il pulsante _[!UICONTROL Aggiungi risorse]_ è disponibile solo quando _[!UICONTROL Posizione]_ è l&#39;archivio `GenStudio assets`.
+
+![Campo posizione](../../assets/content-location.png){width="350" align="center"}
 
 **Per aggiungere una o più risorse**:
 
@@ -40,15 +66,21 @@ Adobe GenStudio per gli esperti di marketing delle prestazioni [!DNL Content] se
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-## Cerca risorse
+### Cerca risorse
 
 L&#39;interfaccia di ricerca [!DNL Content] è rapida e reattiva e fornisce un&#39;esperienza di ricerca proficua.
 
-Per limitare i risultati della ricerca, applica i filtri e utilizza i tag di metadati dei dettagli della risorsa. Ad esempio, potresti voler trovare una risorsa per aiutarti a creare una nuova esperienza per la campagna.
+Per limitare i risultati della ricerca, applica i filtri e utilizza i tag di metadati dei dettagli della risorsa. Ad esempio, potresti voler trovare una risorsa di un particolare tipo di file o oggetto per aiutarti a creare una nuova esperienza per la campagna.
 
 **Per cercare contenuto da riutilizzare**:
 
 1. In _[!DNL Content]_, selezionare la sezione **[!UICONTROL Assets]**.
+
+1. Selezionare un repository di risorse dall&#39;elenco **[!UICONTROL Posizione]** oppure verificare che si stia cercando il repository di risorse corretto. `GenStudio assets` è l&#39;archivio predefinito.
+
+   >[!IMPORTANT]
+   >
+   >L&#39;elenco _Posizione_ è disponibile solo quando si esegue la [connessione a un repository AEM](connect-aem-repo.md).
 
 1. Fare clic su **[!UICONTROL Cerca]** (lente di ingrandimento) per immettere una parola chiave o una descrizione.
 
