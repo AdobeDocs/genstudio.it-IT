@@ -4,13 +4,13 @@ description: Scopri come aggiungere le linee guida—[!DNL Brands], [!DNL Produc
 feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
-source-git-commit: b383295810d4bd1b37227cf689ee76687e940f03
+exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
+source-git-commit: 7fd93bae4d81021d328e941710152e7d3aa20b76
 workflow-type: tm+mt
-source-wordcount: '944'
+source-wordcount: '968'
 ht-degree: 0%
 
 ---
-
 
 # Aggiungi linee guida
 
@@ -25,6 +25,9 @@ L’aggiunta di linee guida a GenStudio per gli esperti di marketing delle prest
 Per aggiungere un marchio a GenStudio per gli esperti di marketing delle prestazioni, puoi [caricare una guida del marchio](#upload-brand-guidelines) o [creare manualmente un marchio](#manually-add-brand) selezionando le linee guida e immettendo i dettagli del marchio. [Publish a brand](#publish-brand) in [!DNL Content] per renderlo disponibile per la futura generazione di contenuti.
 
 Nell&#39;area di navigazione a sinistra, fare clic su **[!DNL Brands]**. Nel pannello _[!DNL Brands]_, seleziona **Aggiungi marchio**.
+
+>[!TIP]
+>Ogni marchio opera in modo indipendente senza relazioni gerarchiche. Per creare marchi secondari con un marchio principale, includi le informazioni del marchio principale durante il processo di creazione.
 
 ### Aggiungi marchio tramite caricamento
 

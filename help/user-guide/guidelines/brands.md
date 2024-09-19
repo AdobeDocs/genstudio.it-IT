@@ -3,10 +3,10 @@ title: GenStudio per gli esperti di marketing delle prestazioni [!DNL Brands]
 description: GenStudio for Performance Marketers [!DNL Brands] è una raccolta completa di risorse per i marchi, come copie di marketing, immagini, esperienze e altro ancora, per informare la creazione di contenuti allineati al marchio.
 feature: Brands Service, Guidelines
 exl-id: 34cd40d5-8851-48c2-8bf3-5a07eea05013
-source-git-commit: 333d32757a4327d8f8a54b25cb5c08ce2b3e2771
+source-git-commit: 1991e59c0badc0cdde92b863d6c8528e7ca31a38
 workflow-type: tm+mt
 source-wordcount: '800'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ GenStudio per gli esperti di marketing delle prestazioni utilizza la vasta gamma
 
 1. Nell&#39;area di navigazione a sinistra, fare clic su **[!UICONTROL [!DNL Brands]]**.
 1. Per visualizzare le informazioni generali su un brand, fai clic su per aprire un brand definito.
-1. Per visualizzare singoli dettagli o modificare un marchio, fai clic su **[!UICONTROL Linee guida per la voce del marchio]**, **[!UICONTROL Linee guida per il canale]**, **[!UICONTROL Linee guida per le immagini]** o **[!UICONTROL Logo]** nella parte superiore.
+1. Per visualizzare singoli dettagli o modificare un marchio, fai clic su [**[!UICONTROL Linee guida per la voce del marchio]**](#brand-voice-guidelines), [**[!UICONTROL Linee guida per il canale]**](#channel-guidelines), **[!UICONTROL Linee guida per le immagini]** o **[!UICONTROL Logo]** nella parte superiore.
 
 Puoi caricare i documenti sulle linee guida del brand (fino a tre file PDF o DOC) in GenStudio per consentire agli addetti al marketing delle prestazioni di creare automaticamente un brand. Consulta [Aggiungi linee guida](add-guidelines.md) per scoprire come aggiungere un brand a GenStudio per gli esperti di marketing delle prestazioni, modificarlo, pubblicarlo e altro ancora.
 
@@ -45,9 +45,9 @@ La tabella seguente mostra ogni categoria di linee guida e di esempi di linee gu
 
 Ogni canale ha determinate linee guida che influenzano la composizione delle risorse del canale.
 
-La tabella seguente mostra ogni frammento di canale, i canali per cui è disponibile, la descrizione del frammento, esempi di linee guida e risultati di esempio.
+La tabella seguente mostra ogni sezione di canale, i canali per i quali è disponibile, la descrizione della sezione, gli esempi di linee guida e i risultati degli esempi.
 
-| Frammenti | Canali | Descrizione | Best practice |
+| Sezioni | Canali | Descrizione | Best practice |
 | ------------------| --------- | --------- | -------- |
 | Generale | e-mail, annunci social | Una seconda riga dell’oggetto o un testo di anteprima e-mail | Definisci il tono/emozione generale in modo che sia coerente in tutte le e-mail (2-5 linee guida).<br>_Esempi_: &quot;Mantieni un tono amichevole e accessibile&quot;, &quot;Evita un linguaggio eccessivamente formale&quot;<br><br> |
 | Oggetto | email | Titolo interessante per riepilogare il contenuto di un messaggio e-mail | Fornisci indicazioni specifiche (2-5 linee guida) su tono, lunghezza, ecc. Aggiungi righe oggetto riuscite in precedenza nella sezione _Esempi_ per ottenere un output di qualità migliore.<br>_Esempio_: &quot;Allinea l&#39;oggetto al corpo dell&#39;e-mail&quot; |
