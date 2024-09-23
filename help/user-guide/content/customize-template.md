@@ -3,13 +3,13 @@ title: Personalizzare un modello
 description: Scopri come personalizzare e ottimizzare il modello, ad Adobe GenStudio per gli esperti di marketing delle prestazioni.
 level: Intermediate
 feature: Templates, Content
-source-git-commit: 909ac53580e672df1adf0c73e67a32f2c045dc35
+exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
+source-git-commit: 8ea0c17b60b18928540070448ad1ce0206208b00
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
 
 ---
-
 
 # Personalizzare un modello
 
@@ -98,21 +98,21 @@ _Le sezioni_ informano GenStudio per gli addetti al marketing delle prestazioni 
 
 Utilizzare un prefisso scelto nel nome del campo per indicare che un campo fa parte di una sezione o di un gruppo. Ad esempio, potrebbe essere utile evidenziare il contenuto visualizzato in un&#39;area evidenziata:
 
-- `spotlight_headline`
-- `spotlight_body`
+- `pod1_headline`
+- `pod1_body`
 
-Ogni sezione può utilizzare solo uno di ogni tipo di campo. Nell&#39;esempio precedente, la sezione `spotlight` può utilizzare un solo campo `spotlight_headline`.
+Ogni sezione può utilizzare solo uno di ogni tipo di campo. Nell&#39;esempio precedente, la sezione `pod1` può utilizzare un solo campo `pod1_headline`.
 
 Un modello può includere fino a tre sezioni:
 
 - `headline`
 - `body`
-- `spotlight_headline`
-- `spotlight_body`
-- `news_headline`
-- `news_body`
+- `pod1_headline`
+- `pod1_body`
+- `pod2_headline`
+- `pod2_body`
 
-GenStudio for Performance Marketers è consapevole del fatto che `spotlight_headline` è più strettamente correlato a `spotlight_body` che a `news_body`.
+GenStudio for Performance Marketers è consapevole del fatto che `pod1_headline` è più strettamente correlato a `pod1_body` che a `pod2_body`.
 
 ## Anteprima modello
 
@@ -224,14 +224,18 @@ Di seguito è riportato lo stesso modello di HTML nell&#39;esempio precedente, m
                 width="600" height="600"
                 border="0"/></p>
         <p>{{ body }}</p>
+    <!-- Pod1 -->
         <div class="pod">
-            <h2>{{ pod1_headline }}</h2>
-            <p>This is Pod 1 content.</p>
+            <h2>{{ pod1_header }}</h2>
+            <p>{{ pod1_body }}</p>
         </div>
+        <!-- End of Pod1 -->
+    <!-- Pod2 -->
         <div class="pod">
-            <h2>{{ pod2_headline }}</h2>
-            <p>This is Pod 2 content.</p>
+            <h2>{{ pod2_header }}</h2>
+            <p>{{ pod2_body }}</p>
         </div>
+        <!-- End of Pod2 -->
     </div>
 </body>
 </html>
@@ -293,4 +297,3 @@ Di seguito è riportato un esempio di base di un modello di annunci Meta. L’in
 ```
 
 +++
-
