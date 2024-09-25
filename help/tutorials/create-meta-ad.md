@@ -1,13 +1,13 @@
 ---
 title: Creare un’esperienza di annuncio multimediale
-description: Scopri come creare esperienze di annunci multimediali per Facebook o Instagram con Adobi GenStudio per gli esperti di marketing delle prestazioni.
+description: Scopri come creare esperienze di annunci Meta per il marchio, per Facebook o Instagram, con Adobe GenStudio for Performance Marketing.
 feature: Content, Brands Service, Guidelines, Content Generation, Create, Experiences, Variant Generation
 role: User
 level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c102556fb1c95b70dc724252e4ecdc9ce10c89e7
+source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # Creare un’esperienza di annuncio multimediale
 
-Questo tutorial illustra come generare esperienze di annunci multimediali con il marchio utilizzando GenStudio per gli esperti di marketing delle prestazioni [[!DNL Create]](/help/user-guide/create/overview.md) (icona del pennello nell’area di navigazione a sinistra).
+Questo tutorial illustra come generare esperienze di annunci multimediali con il marchio utilizzando GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (icona del pennello nell&#39;area di navigazione a sinistra).
 
-Prima di iniziare a generare un&#39;esperienza di annunci multimediali, è importante [incorporare le linee guida](/help/user-guide/guidelines/add-guidelines.md) in GenStudio per gli esperti di marketing delle prestazioni e acquisire familiarità con le nozioni di base sulla [creazione di un prompt](/help/user-guide/effective-prompts.md).
+Prima di iniziare a generare un&#39;esperienza di annuncio multimediale, è importante [incorporare le linee guida](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing e acquisire familiarità con le nozioni di base sulla [creazione di un prompt](/help/user-guide/effective-prompts.md).
 
 ## Scegli un modello
 
@@ -41,7 +41,7 @@ L&#39;aggiunta di [linee guida](/help/user-guide/guidelines/overview.md) e risor
 1. Fai clic sull&#39;icona _Parametri_ per espandere l&#39;area del prompt.
 1. Nella sezione _Parametri_, selezionare linee guida—[!DNL Brands], [!DNL Personas] e [!DNL Products], per informare la creazione dei contenuti.
 
-   Se da questi menu non sono disponibili marchi, utenti tipo o prodotti, [aggiungi le linee guida al tuo GenStudio for Performance Marketers](/help/user-guide/guidelines/add-guidelines.md).
+   Se da questi menu non sono disponibili marchi, utenti tipo o prodotti, [aggiungi linee guida al tuo GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Fai clic su **[!UICONTROL Seleziona contenuto]** per aggiungere contenuto da utilizzare nell&#39;esperienza *e* per influenzare la generazione del contenuto.
    * Fai clic su **[!UICONTROL Seleziona dal contenuto]** per selezionare le risorse (immagini) già pubblicate in [!DNL Content]. Utilizza i filtri per restringere ulteriormente i risultati della ricerca.
@@ -125,6 +125,6 @@ Per ulteriori informazioni, vedere [[!DNL Content]](/help/user-guide/content/ove
 
 ## Connetti metadati
 
-Puoi collegare GenStudio for Performance Marketers a Meta per ricevere analisi avanzate e [approfondimenti](/help/user-guide/insights/overview.md) sulle prestazioni dei contenuti.
+Puoi collegare GenStudio for Performance Marketing a Meta per ricevere analisi avanzate e [approfondimenti](/help/user-guide/insights/overview.md) sulle prestazioni dei contenuti.
 
 Per ulteriori informazioni, vedere [Connetti account canale](/help/user-guide/insights/connect-channel.md).

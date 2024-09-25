@@ -2,7 +2,7 @@
 title: Gestisci varianti
 description: Personalizza e migliora le varianti e le risorse generate in base alle tue esigenze di marketing digitale.
 feature: Content, Assets, Experiences
-source-git-commit: bf22e0006f2abe96f8cffd3607d0a8ee7e138583
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '542'
 ht-degree: 0%
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Gestisci varianti
 
-L&#39;Adobe GenStudio per gli esperti di marketing delle prestazioni [!DNL Create] consente di personalizzare e migliorare le varianti generate (e-mail, meta-annunci e altro) da utilizzare nelle iniziative di marketing digitale.
+Adobe GenStudio di Performance Marketing [!DNL Create] consente di personalizzare e migliorare le varianti generate (e-mail, meta-annunci e altro) da utilizzare nelle iniziative di marketing digitale.
 
 Quando [crei esperienze](/help/tutorials/tutorials.md), puoi modificare il contenuto e le risorse delle varianti generate singolarmente o in un batch. La possibilità di gestire le varianti a livello individuale di micro-livello consente di gestire in modo esplicito ogni elemento di contenuto generato.
 
@@ -40,7 +40,7 @@ Puoi modificare i campi di testo nelle varianti generate. Perfeziona il testo pe
 
 <!-- ## Re-generate sections
 
-GenStudio for Performance Marketers has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
+GenStudio for Performance Marketing has the built-in functionality to regenerate single sections of generated variants using _[!UICONTROL Suggested edits]_ and fresh prompts.
 
 For example, you can re-generate the headline section of one Meta ad variant to see how it looks with a specific background asset using the _[!UICONTROL Suggested edits]_ options—_[!UICONTROL Rephrase]_, _[!UICONTROL Shorten]_, or _[!UICONTROL Lengthen]_—and entering a new prompt.
 

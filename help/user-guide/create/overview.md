@@ -1,18 +1,18 @@
 ---
-title: Panoramica di GenStudio per gli esperti di marketing delle prestazioni [!DNL Create]
-description: Genera rapidamente contenuti a elevate prestazioni e sul marchio con IA generativa in Adobe GenStudio per gli esperti di marketing delle prestazioni [!DNL Create].
+title: Panoramica di GenStudio for Performance Marketing [!DNL Create]
+description: Genera rapidamente contenuti a elevate prestazioni e sul marchio con IA generativa in Adobe GenStudio for Performance Marketing [!DNL Create].
 feature: Create, Prompt, Guidelines, Experiences, Content Generation, Approval
 exl-id: ca5ee31c-d2c2-42fb-a6bf-05fd63fe86d2
-source-git-commit: dab19da0063d6f4f4497112c4063bfc9c285e651
+source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
 workflow-type: tm+mt
 source-wordcount: '547'
 ht-degree: 1%
 
 ---
 
-# GenStudio per gli esperti di marketing delle prestazioni [!DNL Create]
+# GenStudio per il marketing delle prestazioni [!DNL Create]
 
-GenStudio per gli esperti di marketing delle prestazioni [!DNL Create] sfrutta la potenza di Adobe GenAI per consentire agli addetti al marketing e ai team distribuiti di creare esperienze on-brand ad alte prestazioni.
+GenStudio for Performance Marketing [!DNL Create] sfrutta la potenza di Adobe GenAI per consentire agli addetti al marketing e ai team distribuiti di creare esperienze on-brand ad alte prestazioni.
 
 Con [!DNL Create] è possibile generare contenuti per i seguenti canali:
 
@@ -60,13 +60,13 @@ Oltre alla potenza di [linee guida](/help/user-guide/guidelines/overview.md)—[
 </tr>
 </table>
 
-GenStudio for Performance Marketers consente agli addetti al marketing di **creare nuovi contenuti di marketing**. In questo caso d&#39;uso, utilizza le [linee guida](/help/user-guide/guidelines/overview.md) definite e le immagini di ispirazione per creare contenuti allineati al brand.
-<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketers and use the power of Adobe generative AI technology to revise and improve existing content. 
+GenStudio for Performance Marketing consente agli addetti al marketing di **creare nuovi contenuti di marketing**. In questo caso d&#39;uso, utilizza le [linee guida](/help/user-guide/guidelines/overview.md) definite e le immagini di ispirazione per creare contenuti allineati al brand.
+<!-- * **Re-use existing content** - In this use case, upload an existing email, ad, or image to GenStudio for Performance Marketing and use the power of Adobe generative AI technology to revise and improve existing content. 
 * **Generate variants of approved content** - In this use case, [generate variations of content that is approved by stakeholders](generate-variants.md) and published to [!DNL Content]. -->
 
 ## Funzionalità di [!DNL Create]
 
-[!DNL Create] integra vari componenti di GenStudio for Performance Marketers per aiutare gli utenti a generare contenuti.
+[!DNL Create] integra vari componenti di GenStudio for Performance Marketing per aiutare gli utenti a generare contenuti.
 
 ### Bozze
 
@@ -92,11 +92,11 @@ Nell&#39;area dei prompt, puoi aggiungere _parametri_ come [!DNL Brands], [!DNL 
 
 Le immagini caricate nei _Parametri_ vengono utilizzate nelle varianti generate e informano il contenuto della copia (testo) generato per le varianti.
 
-Questi parametri aggiunti inseriscono [linee guida](/help/user-guide/guidelines/overview.md) e risorse nel processo di generazione, garantendo che il contenuto sia personalizzato in modo da essere allineato all&#39;identità completa di un brand. Si consiglia di aggiungere linee guida al GenStudio per gli esperti di marketing delle prestazioni e di utilizzarle durante il processo di generazione dei contenuti, in quanto migliorano notevolmente la creazione di contenuti adatti per il marchio.
+Questi parametri aggiunti inseriscono [linee guida](/help/user-guide/guidelines/overview.md) e risorse nel processo di generazione, garantendo che il contenuto sia personalizzato in modo da essere allineato all&#39;identità completa di un brand. Si consiglia di aggiungere linee guida al GenStudio per il marketing delle prestazioni e di utilizzarle durante il processo di generazione dei contenuti, in quanto migliorano notevolmente la creazione di contenuti adatti per il brand.
 
 ### Convalida del brand
 
-GenStudio for Performance Marketers esegue la convalida del brand su vari aspetti dell&#39;identità del brand (come definito nelle [linee guida](/help/user-guide/guidelines/overview.md)). [Le informazioni sulla convalida del marchio](/help/user-guide/guidelines/brand-validation.md) sono disponibili per qualsiasi contenuto generato, a indicare la conformità alle linee guida del marchio e la coerenza tra testo e immagini. Puoi utilizzare queste informazioni per rivedere o migliorare l’esperienza generata per allinearla meglio al tuo marchio.
+GenStudio for Performance Marketing esegue la convalida del brand su vari aspetti dell&#39;identità del brand (come definito nelle [linee guida](/help/user-guide/guidelines/overview.md)). [Le informazioni sulla convalida del marchio](/help/user-guide/guidelines/brand-validation.md) sono disponibili per qualsiasi contenuto generato, a indicare la conformità alle linee guida del marchio e la coerenza tra testo e immagini. Puoi utilizzare queste informazioni per rivedere o migliorare l’esperienza generata per allinearla meglio al tuo marchio.
 
 ### Recensioni e approvazioni
 
@@ -106,7 +106,7 @@ Dopo aver generato le varianti di contenuto, invia le bozze per l&#39;approvazio
 
 ### Gestisci varianti
 
-GenStudio for Performance Marketers consente [il controllo completo sulle sezioni di singole varianti](/help/user-guide/create/manage-variants.md).
+GenStudio for Performance Marketing consente un controllo [completo sulle sezioni di singole varianti](/help/user-guide/create/manage-variants.md).
 
 Puoi rivedere le sezioni di una singola variante, rigenerare il contenuto di singole sezioni e utilizzare le modifiche suggerite per migliorare il messaggio, ridimensionare le risorse e altro all’interno dell’area di lavoro.
 

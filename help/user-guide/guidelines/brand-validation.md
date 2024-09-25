@@ -1,9 +1,9 @@
 ---
-title: Convalida del marchio in Adobe GenStudio per gli esperti di marketing delle prestazioni
-description: Scopri come funziona il sistema integrato di convalida del brand in GenStudio per gli esperti di marketing delle prestazioni.
+title: Convalida del marchio in Adobe GenStudio per Performance Marketing
+description: Scopri come funziona il sistema integrato di convalida del brand in GenStudio for Performance Marketing.
 feature: Brands Service, Guidelines
 exl-id: 2e777186-3b7e-46a6-9d37-7c7b7c2aa7ae
-source-git-commit: a00d4fcaabb97eae69294ddc9689179842d49512
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -12,9 +12,9 @@ ht-degree: 0%
 
 # Convalida del brand
 
-In GenStudio per gli esperti di marketing delle prestazioni, la convalida del brand è un componente essenziale che funziona in collaborazione con le funzionalità e le linee guida di IA generativa: [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) e [[!DNL Personas]](/help/user-guide/guidelines/personas.md). In questo modo tutti i contenuti saranno allineati alla tua identità del brand.
+In GenStudio for Performance Marketing, la convalida del brand è un componente essenziale che funziona in collaborazione con le funzionalità e le linee guida generative di IA: [[!DNL Brands]](/help/user-guide/guidelines/brands.md), [[!DNL Products]](/help/user-guide/guidelines/products.md) e [[!DNL Personas]](/help/user-guide/guidelines/personas.md). In questo modo tutti i contenuti saranno allineati alla tua identità del brand.
 
-GenStudio for Performance Marketers esegue la convalida del brand su vari aspetti, tra cui:
+GenStudio for Performance Marketing esegue la convalida del marchio su vari aspetti, tra cui:
 
 * Linee guida per il marchio specifiche per ciascun cliente
 * Copia delle linee guida per diverse piattaforme di canale

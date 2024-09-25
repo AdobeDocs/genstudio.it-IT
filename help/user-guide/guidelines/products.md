@@ -1,22 +1,22 @@
 ---
-title: GenStudio per gli esperti di marketing delle prestazioni [!DNL Products]
-description: GenStudio for Performance Marketers [!DNL Products] incorpora tutti gli aspetti del prodotto (immagini, descrizioni e proposte di valore) per creare contenuti rilevanti che mettano in evidenza i punti di forza del prodotto e ne mantengano la coerenza nella messaggistica.
+title: GenStudio per il marketing delle prestazioni [!DNL Products]
+description: GenStudio for Performance Marketing [!DNL Products] incorpora tutti gli aspetti del prodotto (immagini, descrizioni e proposte di valore) per creare contenuti rilevanti che mettano in evidenza i punti di forza del prodotto e mantengano la coerenza nella messaggistica del prodotto.
 feature: Products Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: a9aee814-cca6-4973-a6db-842de7622a8a
+source-git-commit: 874c6f08b39b6e72d2c3d4ade5a2c78be0fcfa31
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
 
+# GenStudio per il marketing delle prestazioni [!DNL Products]
 
-# GenStudio per gli esperti di marketing delle prestazioni [!DNL Products]
+[!DNL Products] in GenStudio for Performance Marketing sfrutta una conoscenza approfondita delle specifiche di prodotto, dei vantaggi e dei fattori di differenziazione per generare contenuti di impatto.
 
-GenStudio per gli esperti di marketing delle prestazioni [!DNL Products] sfrutta una conoscenza approfondita delle specifiche dei prodotti, dei vantaggi e dei fattori di differenziazione per generare contenuti di impatto.
+[!DNL Products] include tutti gli elementi di un prodotto specifico, ad esempio immagini, descrizioni e proposte di valore, per creare una rappresentazione coerente del marchio. Sfruttando la tecnologia di intelligenza artificiale avanzata di Adobe, le linee guida di GenStudio for Performance Marketing [[!DNL Brands], [!DNL Products] e [!DNL Personas]](/help/user-guide/guidelines/overview.md) collaborano per generare contenuti coinvolgenti che presentino i punti di forza dei tuoi prodotti e garantiscano la coerenza di tutti i messaggi.
 
-[!DNL Products] include tutti gli elementi di un prodotto specifico, ad esempio immagini, descrizioni e proposte di valore, per creare una rappresentazione coerente del marchio. Sfruttando la tecnologia di intelligenza artificiale avanzata di Adobe, le linee guida di GenStudio for Performance Marketers: [[!DNL Brands], [!DNL Products] e [!DNL Personas]](/help/user-guide/guidelines/overview.md) collaborano per generare contenuti coinvolgenti che presentino i punti di forza dei tuoi prodotti e garantiscano la coerenza di tutti i messaggi.
-
-![[!DNL Products] linee guida in GenStudio per gli esperti di marketing delle prestazioni](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
+![[!DNL Products] linee guida in GenStudio per Performance Marketing](/help/assets/products-guidelines.png){width="650" zoomable="yes"}
 
 **Per visualizzare o modificare un prodotto**:
 
@@ -24,11 +24,11 @@ GenStudio per gli esperti di marketing delle prestazioni [!DNL Products] sfrutta
 1. Per [visualizzare i singoli dettagli o modificare un prodotto](add-guidelines.md#manage-products), fare clic sul menu Azioni _[!DNL Products]_e selezionare **[!UICONTROL Apri]**.
 1. Rivedi le linee guida del prodotto facendo clic su in un campo di testo categoria linee guida.
 
-Consulta [Aggiungere linee guida](add-guidelines.md) per scoprire come aggiungere o modificare un prodotto in GenStudio per gli esperti di marketing delle prestazioni.
+Consulta [Aggiungi linee guida](add-guidelines.md) per scoprire come aggiungere o modificare un prodotto in GenStudio per Performance Marketing.
 
 ## [!DNL Products] linee guida
 
-Le linee guida dei singoli prodotti forniscono a GenStudio per gli esperti di marketing delle prestazioni un quadro chiaro dei prodotti.
+Con l&#39;aggiunta delle linee guida dei singoli prodotti, GenStudio for Performance Marketing offre un quadro chiaro dei prodotti.
 
 Le presenti linee guida descrivono in dettaglio ogni categoria di linee guida e gli esempi correlati. Gli esempi sono input di esempio che modellano l’output del contenuto generato. Utilizzali per informare le linee guida di [!DNL Products].
 

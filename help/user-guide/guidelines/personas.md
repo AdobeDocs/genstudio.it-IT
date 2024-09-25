@@ -1,22 +1,22 @@
 ---
-title: GenStudio per gli esperti di marketing delle prestazioni [!DNL Personas]
-description: GenStudio for Performance Marketers [!DNL Personas] è una rappresentazione fedele dei segmenti di clienti, che acquisisce i loro interessi, punti critici, preferenze e caratteristiche comportamentali.
+title: GenStudio per il marketing delle prestazioni [!DNL Personas]
+description: GenStudio for Performance Marketing [!DNL Personas] è una rappresentazione fedele dei segmenti di clienti, che acquisisce i loro interessi, punti critici, preferenze e caratteristiche comportamentali.
 feature: Personas Service, Guidelines
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+exl-id: f8c86f0b-81fe-4b94-b3d1-438de411864a
+source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
 workflow-type: tm+mt
 source-wordcount: '401'
 ht-degree: 0%
 
 ---
 
-
-# GenStudio per gli esperti di marketing delle prestazioni [!DNL Personas]
+# GenStudio per il marketing delle prestazioni [!DNL Personas]
 
 [!DNL Personas] fornisce un&#39;immagine autentica dei segmenti di clienti, che include informazioni, interessi, punti critici, preferenze e caratteristiche comportamentali.
 
-GenStudio per gli esperti di marketing delle prestazioni sfrutta la potenza delle linee guida ([[!DNL Brands], [!DNL Products] e [!DNL Personas]](overview.md)) e la tecnologia di intelligenza artificiale generativa di Adobe per curare contenuti di marketing personalizzati per i clienti target&#x200B;
+GenStudio for Performance Marketing sfrutta la potenza delle linee guida ([[!DNL Brands], [!DNL Products] e [!DNL Personas]](overview.md)) e la tecnologia AI generativa di Adobe per curare contenuti di marketing personalizzati per i clienti target&#x200B;.
 
-![[!DNL Personas] linee guida in GenStudio per gli esperti di marketing delle prestazioni](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
+![[!DNL Personas] linee guida in GenStudio per Performance Marketing](/help/assets/personas-guidelines.png){width="650" zoomable="yes"}
 
 **Per visualizzare o modificare un utente tipo**:
 
@@ -24,11 +24,11 @@ GenStudio per gli esperti di marketing delle prestazioni sfrutta la potenza dell
 1. Per [visualizzare i dettagli individuali o modificare un utente tipo](add-guidelines.md#manage-personas), fare clic sul menu Azioni _[!DNL Personas]_e selezionare **Apri**.
 1. Rivedi le linee guida per gli utenti tipo facendo clic su in un campo di testo per categoria linee guida.
 
-Consulta [Aggiungi linee guida](add-guidelines.md) per scoprire come aggiungere o modificare un utente tipo in GenStudio per gli esperti di marketing delle prestazioni.
+Consulta [Aggiungi linee guida](add-guidelines.md) per scoprire come aggiungere o modificare un utente tipo in GenStudio for Performance Marketing.
 
 ## [!DNL Personas] linee guida
 
-Le singole linee guida per gli utenti tipo forniscono a GenStudio per gli addetti al marketing delle prestazioni un&#39;immagine chiara di [!DNL Personas].
+Le singole linee guida per gli utenti tipo forniscono a GenStudio for Performance Marketing un&#39;immagine chiara di [!DNL Personas].
 
 Le presenti linee guida descrivono in dettaglio ogni categoria di linee guida e gli esempi correlati. Gli esempi sono input di esempio che modellano l’output del contenuto generato. Utilizzali per informare le tue linee guida di [!DNL Personas].
 
