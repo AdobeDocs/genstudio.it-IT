@@ -5,9 +5,9 @@ feature: Content, Brands Service, Products Service, Personas Service, Guidelines
 role: User
 level: Beginner
 exl-id: cb893b5d-b535-42f6-8dd8-8bd779d80a4f
-source-git-commit: 86f9c94956b7e4891aa237ad00428753903d2839
+source-git-commit: 448c5f9d090d34107199baf23b150447635d1ed5
 workflow-type: tm+mt
-source-wordcount: '968'
+source-wordcount: '1538'
 ht-degree: 0%
 
 ---
@@ -22,16 +22,16 @@ L’aggiunta di linee guida a GenStudio per il marketing basato sulle prestazion
 
 ## Aggiungi [!DNL Brands]
 
-Per aggiungere un marchio a GenStudio per Performance Marketing, puoi [caricare una guida del marchio](#upload-brand-guidelines) o [creare manualmente un marchio](#manually-add-brand) selezionando le linee guida e immettendo i dettagli del marchio. [Publish a brand](#publish-brand) in [!DNL Content] per renderlo disponibile per la futura generazione di contenuti.
+Per aggiungere un marchio, [carica una guida del marchio](#upload-a-brand) o [crea manualmente un marchio](#manually-add-brand) selezionando le linee guida e immettendo i dettagli del marchio. [Publish a brand](#publish-brand) in [!DNL Content] per renderlo disponibile per la futura generazione di contenuti.
 
 Nell&#39;area di navigazione a sinistra, fare clic su **[!DNL Brands]**. Nel pannello _[!DNL Brands]_, seleziona **Aggiungi marchio**.
 
 >[!TIP]
 >Ogni marchio opera in modo indipendente senza relazioni gerarchiche. Per creare marchi secondari con un marchio principale, includi le informazioni del marchio principale durante il processo di creazione.
 
-### Aggiungi marchio tramite caricamento
+### Carica un marchio
 
-Puoi caricare i documenti del tuo marchio per inserire i dati di un nuovo marchio in GenStudio for Performance Marketing.
+Puoi caricare i documenti del tuo marchio per inserire i dati di un nuovo marchio.
 
 Vedere [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
@@ -44,13 +44,13 @@ Vedere [[!DNL Brands]](/help/user-guide/guidelines/brands.md).
 
 1. Seleziona **[!UICONTROL Aggiungi marchio]**.
 
-Utilizzando la tecnologia di intelligenza artificiale generativa di Adobe, GenStudio for Performance Marketing estrae informazioni dai documenti caricati e inizia a creare il tuo marchio. Le informazioni sul brand, come la voce del brand, il canale e le linee guida per le immagini, vengono popolate man mano che GenStudio for Performance Marketing assembla le linee guida dai documenti del brand.
+Utilizzando la tecnologia di intelligenza artificiale generativa di Adobe, GenStudio for Performance Marketing estrae informazioni dai documenti caricati e inizia a creare il tuo marchio. Potrai visualizzare le informazioni sul brand, ad esempio la voce del brand, il canale e le linee guida per le immagini, man mano che ogni linea guida dei documenti del brand viene assemblata.
 
 Un pop-up ti ricorda di rivedere il contenuto estratto prima di [pubblicare il brand](#publish-brand).
 
 ### Aggiungi manualmente il brand
 
-Puoi aggiungere manualmente i dettagli del brand, invece di caricare i documenti del brand esistenti, per compilare un nuovo [brand](brands.md) in GenStudio for Performance Marketing.
+Puoi aggiungere manualmente i dettagli del brand, invece di caricare i documenti del brand esistenti, per popolare un nuovo [brand](brands.md).
 
 **Per aggiungere manualmente un marchio**:
 
@@ -97,23 +97,65 @@ Nella home di _[!DNL Brands]_, puoi fare clic per **aprire un marchio già creat
 
 ## Aggiungi [!DNL Products]
 
+Per aggiungere un prodotto, [carica una guida del prodotto](#upload-a-product) o [crea manualmente un prodotto](#manually-add-product) selezionando le linee guida e immettendo i dettagli del prodotto.
+
+Nell&#39;area di navigazione a sinistra, fare clic su **[!DNL Products]**. Nel pannello _[!DNL Products]_, seleziona **Aggiungi prodotto**.
+
 È possibile aggiungere [!DNL Products] in GenStudio for Performance Marketing per specificare singole aree di interesse per il prodotto durante la creazione di contenuti. <!-- Add Rename, display, reposition functionality -->
 
 Vedere [[!DNL Products]](products.md).
 
-**Per aggiungere un[!DNL Product]**:
+### Caricare un prodotto
 
-1. Fai clic su **[!UICONTROL Crea prodotto]**.
-1. Fai clic su **[!UICONTROL Senza titolo]** e immetti un nome per [!DNL Product].
-1. Fai clic su _Descrizione_ e immetti una descrizione di [!DNL Product].
+Puoi caricare i documenti dei prodotti per compilare i nuovi prodotti.
+
+Vedere [[!DNL Products]](/help/user-guide/guidelines/products.md).
+
+**Per caricare i documenti di prodotto**:
+
+1. Seleziona il pulsante **[!UICONTROL Aggiungi prodotto]** e scegli **Carica PDF**.
+1. Fai clic su **[!UICONTROL Continua]**.
+1. Nel popup _Aggiungi il prodotto_, allega o trascina il documento del prodotto.
+
+   È possibile allegare fino a cinque file PDF con un massimo di 500 MG combinati.
+
+1. Seleziona **[!UICONTROL Aggiungi prodotti]**.
+
+   Utilizzando la tecnologia di intelligenza artificiale generativa di Adobe, GenStudio for Performance Marketing estrae informazioni dai documenti caricati e inizia a creare i tuoi prodotti.
+
+   Viene visualizzata una finestra a comparsa che mostra l’avanzamento dell’estrazione del prodotto dai documenti.
+
+1. Nel popup _Generazione prodotti_, elimina i prodotti estratti che non desideri utilizzare o rinomina i prodotti come desiderato.
+1. Se manca un prodotto, fare clic su **[!UICONTROL Aggiungi nome]** e immettere il nome del prodotto mancante.
+1. Fai clic su **[!UICONTROL Conferma]**.
+
+   Una finestra a comparsa ti ricorda di verificare e rivedere i prodotti estratti.
+
+### Aggiungi manualmente il prodotto
+
+Puoi aggiungere manualmente i dettagli del prodotto, invece di caricare i documenti di prodotto esistenti, per compilare un nuovo [prodotto](products.md) in GenStudio for Performance Marketing.
+
+**Per aggiungere manualmente un prodotto**:
+
+1. Seleziona il pulsante **[!UICONTROL Aggiungi marchio]** e scegli **[!UICONTROL Aggiungi manualmente]**.
+1. Fai clic su **[!UICONTROL Continua]**.
+
+   Puoi compilare varie linee guida e immagini facoltative per creare il tuo prodotto.
+
+1. Fare clic su **[!UICONTROL Nuovo nome prodotto]** e immettere un nome per [!DNL Product].
+1. Fai clic su _Descrizione_ e immetti una descrizione di [!DNL product].
 1. Fai clic su _Proposta di valore_ e immetti i dettagli sul valore del prodotto.
-1. Fai clic su _Ulteriori dettagli_ e immetti i dettagli fondamentali per la generazione di contenuti personalizzati.
+Fai clic su _Preferenze di messaggistica_ e immetti i dettagli di messaggistica per [!DNL product].
 1. Per modificare la miniatura, posizionare il puntatore sulla miniatura immagine e dal menu Azioni miniatura selezionare **[!UICONTROL Modifica miniatura]**.
    1. Carica una nuova immagine o rimuovi l&#39;immagine caricata esistente nella scheda _Carica_.
    1. Scegliere un&#39;immagine dalla raccolta nella scheda _Raccolta_.
-1. Fare clic su **[!UICONTROL Usa immagine]**.
+   1. Fare clic su **[!UICONTROL Usa immagine]**.
+1. Per modificare l&#39;immagine di copertina, posizionare il puntatore del mouse sulla copertina e selezionare **[!UICONTROL Modifica copertina]** dal menu Azioni copertina.
+   1. Carica una nuova immagine o rimuovi l&#39;immagine caricata esistente nella scheda _Carica_.
+   1. Scegli un&#39;immagine dalla raccolta nella scheda _Galleria_ e fai clic su **[!UICONTROL Usa immagine]**.
+   1. Per riposizionare l&#39;immagine di copertina, fare clic su **[!UICONTROL Riposiziona]**, trascinare l&#39;immagine nella posizione desiderata e fare clic su **[!UICONTROL Salva]**.
 
-   Per visualizzare il [!DNL Products] creato, fare clic sulla freccia indietro accanto alla parte superiore della visualizzazione _Prodotto_ per tornare alla home di _[!DNL Products]_.
+   Per visualizzare il [!DNL products] creato, fare clic sulla freccia indietro accanto alla parte superiore della visualizzazione _Prodotto_ per tornare alla home di _[!DNL Products]_.
 
 ### Gestisci [!DNL Products]
 
@@ -121,30 +163,75 @@ Nella home di _[!DNL Products]_, puoi **aprire un[!DNL Product]**già creato per
 
 * Seleziona **[!UICONTROL Apri]** dal menu Azioni [!DNL Products] per rivedere e rivedere un prodotto esistente.
 * Selezionare **[!UICONTROL Elimina]** dal menu azioni [!DNL Products] per **Eliminare** un prodotto.
+* 
+   * Selezionare **[!UICONTROL Rinomina]** dal menu Azioni [!DNL Products] per **Rinomina** un prodotto.
 
 ## Aggiungi [!DNL Personas]
+
+Per aggiungere un utente tipo, [carica una guida utente](#upload-a-persona) o [crea manualmente un utente tipo](#manually-add-persona) selezionando le linee guida e immettendo i dettagli utente tipo.
+
+Nell&#39;area di navigazione a sinistra, fare clic su **[!DNL Personas]**. Nel pannello _[!DNL Personas]_, seleziona **Aggiungi utente tipo**.
 
 È possibile aggiungere [!DNL Persona] in GenStudio for Performance Marketing per indirizzare i contenuti creati al pubblico ideale.
 
 Vedere [[!DNL Personas]](personas.md).
 
-**Per aggiungere un[!DNL Persona]**:
+### Carica un utente tipo
 
-1. Fai clic su **[!UICONTROL Crea utente tipo]**.
-1. Fai clic su **[!UICONTROL Senza titolo]** e immetti un nome per [!DNL Persona].
+Puoi caricare i tuoi documenti personali per popolare i nuovi utenti tipo.
+
+Vedere [[!DNL Personas]](/help/user-guide/guidelines/personas.md).
+
+**Per caricare documenti personali**:
+
+1. Seleziona il pulsante **[!UICONTROL Aggiungi utente tipo]** e scegli **Carica PDF**.
+1. Fai clic su **[!UICONTROL Continua]**.
+1. Nella finestra a comparsa _Aggiungi utente tipo, allega o trascina il documento utente.
+
+   È possibile allegare fino a cinque file PDF con un massimo di 500 MG combinati.
+
+1. Seleziona **[!UICONTROL Aggiungi utenti tipo]**.
+
+   Utilizzando la tecnologia di intelligenza artificiale generativa di Adobe, GenStudio for Performance Marketing estrae informazioni dai documenti caricati e inizia a creare i tuoi utenti tipo.
+
+   Viene visualizzata una finestra a comparsa che mostra l’avanzamento dell’estrazione dell’utente dai documenti.
+
+1. Nel popup _Creazione di utenti tipo_ visualizzato, eliminare gli utenti tipo estratti che non si desidera utilizzare o rinominare gli utenti tipo come desiderato.
+1. Se manca un utente tipo, fare clic su **[!UICONTROL Aggiungi nome]** e immettere il nome dell&#39;utente tipo mancante.
+1. Fai clic su **[!UICONTROL Conferma]**.
+
+   Una volta completata l’estrazione, un pop-up ti ricorda di verificare e rivedere gli utenti tipo estratti.
+
+### Aggiungi manualmente persona
+
+Puoi aggiungere manualmente i dettagli dell&#39;utente tipo, invece di caricare documenti dell&#39;utente tipo esistenti, per compilare un nuovo [utente tipo](personas.md).
+
+**Per aggiungere manualmente un utente tipo**:
+
+1. Selezionare il pulsante **[!UICONTROL Aggiungi utente tipo]** e scegliere **[!UICONTROL Aggiungi manualmente]**.
+1. Fai clic su **[!UICONTROL Continua]**.
+
+   Puoi compilare varie linee guida e immagini facoltative per creare il tuo utente tipo.
+
+1. Aggiungi informazioni sul tuo marchio nella sezione _Descrizione_.
+1. Fai clic su **[!UICONTROL Nuovo nome utente tipo]** e immetti un nome per [!DNL Persona].
 1. Fai clic su _Descrizione_ e immetti una descrizione di [!DNL Persona].
 1. Fai clic su _Preferenze di messaggistica_ e immetti i dettagli di messaggistica per [!DNL Persona].
-1. Fai clic su _Ulteriori dettagli_ e immetti i dettagli fondamentali per la generazione di contenuti personalizzati.
-1. Per modificare la miniatura, passa il cursore sulla miniatura dell&#39;immagine e dal menu _Azioni miniatura_ seleziona **[!UICONTROL Modifica miniatura]**.
+1. Per modificare la miniatura, posizionare il puntatore sulla miniatura immagine e dal menu Azioni miniatura selezionare **[!UICONTROL Modifica miniatura]**.
    1. Carica una nuova immagine o rimuovi l&#39;immagine caricata esistente nella scheda _Carica_.
    1. Scegliere un&#39;immagine dalla raccolta nella scheda _Raccolta_.
-1. Fare clic su **[!UICONTROL Usa immagine]**.
+   1. Fare clic su **[!UICONTROL Usa immagine]**.
+1. Per modificare l&#39;immagine di copertina, posizionare il puntatore del mouse sulla copertina e selezionare **[!UICONTROL Modifica copertina]** dal menu Azioni copertina.
+   1. Carica una nuova immagine o rimuovi l&#39;immagine caricata esistente nella scheda _Carica_.
+   1. Scegli un&#39;immagine dalla raccolta nella scheda _Galleria_ e fai clic su **[!UICONTROL Usa immagine]**.
+   1. Per riposizionare l&#39;immagine di copertina, fare clic su **[!UICONTROL Riposiziona]**, trascinare l&#39;immagine nella posizione desiderata e fare clic su **[!UICONTROL Salva]**.
 
-Per visualizzare il [!DNL Personas] creato, fare clic sulla freccia indietro accanto alla parte superiore della visualizzazione _Persona_ per tornare alla home di _[!DNL Personas]_.
+   Per visualizzare il [!DNL Personas] creato, fare clic sulla freccia indietro accanto alla parte superiore della visualizzazione _Persona_ per tornare alla home di _[!DNL Personas]_.
 
 ### Gestisci [!DNL Personas]
 
-Nella home di _[!DNL Personas]_, puoi **aprire un[!DNL Persona]**già creato per modificarlo o rivederlo oppure **eliminare un utente tipo**dall&#39;elenco:
+Nella home di _[!DNL Personas]_, puoi **aprire un[!DNL Persona]**già creato per modificarlo o rivederlo, oppure **eliminare un utente tipo**dall&#39;elenco:
 
-* Seleziona **[!UICONTROL Apri]** dal menu azioni [!DNL Personas] per rivedere e rivedere un [!DNL Persona] esistente.
-* Selezionare **[!UICONTROL Elimina]** dal menu azioni [!DNL Personas] per eliminare un [!DNL Persona].
+* Seleziona **[!UICONTROL Apri]** dal menu azioni [!DNL Personas] per rivedere e rivedere un utente tipo esistente.
+* Selezionare **[!UICONTROL Elimina]** dal menu azioni [!DNL Personas] per **Eliminare** un utente tipo.
+* Selezionare **[!UICONTROL Rinomina]** dal menu Azioni [!DNL Personas] per **Rinomina** un utente tipo.
