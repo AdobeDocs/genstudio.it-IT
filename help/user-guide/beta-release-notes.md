@@ -2,9 +2,9 @@
 title: Note sulla versione di Adobe GenStudio for Performance Marketing Beta
 description: Scopri le funzioni e i miglioramenti più recenti di Adobe GenStudio for Performance Marketing.
 exl-id: 2ae60dcb-ac95-4ed4-bceb-84b396f7fa4e
-source-git-commit: ca83beb4d6f5bd0d79a2da69658b6e18c3252f2e
+source-git-commit: f56f3733ead0bfcb4f37e10b66577e1ef597b76d
 workflow-type: tm+mt
-source-wordcount: '582'
+source-wordcount: '575'
 ht-degree: 0%
 
 ---
@@ -30,8 +30,6 @@ I seguenti problemi noti sono pianificati per la risoluzione nella versione GA d
 * I modelli possono essere caricati ma non visualizzati. **Soluzione**: carica una risorsa con il campo **[!UICONTROL Campagne]** popolato. Quindi, carica di nuovo il modello. <!-- GS-4815 5650-->
 
 * Gli utenti non possono ritagliare manualmente i metadati dopo averli ridimensionati. <!-- GS-5871 -->
-
-* Gli utenti possono creare un nuovo [!DNL Campaign] da [!DNL Content] flussi di lavoro. <!-- GS-5650 -->
 
 * Gli utenti devono effettuare due volte l’accesso a un account di canale Meta ads quando hanno effettuato anche l’accesso a Facebook. Soluzione alternativa: esci da Facebook prima di accedere a un account di canale Meta ads. <!-- GS-3009 -->
 
@@ -68,7 +66,6 @@ I seguenti problemi noti sono pianificati per la risoluzione nella versione GA d
 * È stato corretto il rendering immagini di metadati generati da annunci dopo l’esportazione. <!-- GS-5749 -->
 
 * Il simbolo `%` viene ora visualizzato correttamente nelle impostazioni internazionali DEU, FRA ed ESP quando gli utenti ingrandiscono o riducono le varianti e-mail nell&#39;area di lavoro C[!DNL Create]. <!-- GS-5007 -->
-
 
 #### Localizzazione
 
