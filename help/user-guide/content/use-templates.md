@@ -1,18 +1,18 @@
 ---
 title: Utilizzare i modelli
-description: Scopri come utilizzare i modelli in modo efficace per semplificare il processo creativo, in Adobe GenStudio per gli esperti di marketing delle prestazioni.
+description: Scopri come utilizzare i modelli in modo efficace per semplificare il processo creativo in Adobe GenStudio for Performance Marketing.
 feature: Templates, Content
-source-git-commit: 192568a65bbd5c8c2e9cfc050462eb2c3465245d
+exl-id: 7705bb79-19ca-4c16-8f8b-95bf8687e96d
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '682'
 ht-degree: 1%
 
 ---
 
-
 # Utilizzare i modelli
 
-GenStudio for Performance Marketers consente ai creatori di contenuti di produrre rapidamente contenuti di marketing coerenti all&#39;interno del brand utilizzando _modelli_. Un modello riduce in modo significativo il tempo e l’impegno necessari per generare nuovi contenuti, fornendo un punto di partenza che include layout preconfigurati ed elementi di progettazione.
+GenStudio for Performance Marketing consente ai creatori di contenuti di produrre rapidamente contenuti di marketing coerenti nel brand utilizzando _modelli_. Un modello riduce in modo significativo il tempo e l’impegno necessari per generare nuovi contenuti, fornendo un punto di partenza che include layout preconfigurati ed elementi di progettazione.
 
 ## Elementi modello
 
@@ -71,17 +71,17 @@ Di seguito è riportato un elenco di elementi utilizzati nei modelli e alcuni de
 
 >[!TIP]
 >
->Vedere i [nomi di campo riconosciuti](customize-template.md#recognized-field-names) supportati da GenStudio for Performance Marketers per i modelli di ogni tipo di canale.
+>Visualizza i [nomi di campo riconosciuti](customize-template.md#recognized-field-names) supportati da GenStudio for Performance Marketing per i modelli di ogni tipo di canale.
 
 ## Configurare le linee guida per i canali
 
-È consigliabile configurare [linee guida per i canali](../guidelines/brands.md#channel-guidelines) per ogni marchio prima di utilizzare i modelli in GenStudio per gli esperti di marketing delle prestazioni. Le linee guida per il canale influenzano direttamente il tipo di contenuto generato quando si utilizza il modello. Ad esempio, puoi impostare i limiti dei caratteri per il corpo di un’e-mail.
+È consigliabile configurare [linee guida per i canali](../guidelines/brands.md#channel-guidelines) per ogni marchio prima di utilizzare i modelli in GenStudio for Performance Marketing. Le linee guida per il canale influenzano direttamente il tipo di contenuto generato quando si utilizza il modello. Ad esempio, puoi impostare i limiti dei caratteri per il corpo di un’e-mail.
 
 ![Specifiche del corpo](/help/assets/channel-email-body.png)
 
 ## Personalizza modello
 
-È possibile [personalizzare il modello](customize-template.md) per l&#39;utilizzo in GenStudio per gli addetti al marketing delle prestazioni inserendo segnaposto di contenuto, o campi, utilizzati dall&#39;IA generativa per inserire il contenuto. GenStudio for Performance Marketers riconosce alcuni campi, ad esempio il campo `body`, e aderisce alle linee guida per i canali configurate per il brand selezionato.
+[Personalizza il modello](customize-template.md) per l&#39;utilizzo in GenStudio for Performance Marketing inserendo segnaposto di contenuto o campi utilizzati dall&#39;IA generativa per inserire il contenuto. GenStudio for Performance Marketing riconosce alcuni campi, ad esempio il campo `body`, e rispetta le linee guida di canale configurate per il brand selezionato.
 
 >[!TIP]
 >
@@ -89,7 +89,7 @@ Di seguito è riportato un elenco di elementi utilizzati nei modelli e alcuni de
 
 ## Caricare un modello
 
-Utilizza [Personalizza modelli](customize-template.md) come guida per la preparazione di un modello per GenStudio per gli esperti di marketing delle prestazioni. Consulta le [linee guida per l&#39;accessibilità dei modelli](accessibility-for-templates.md) per informazioni su come fornire un&#39;esperienza migliore a tutti i tipi di pubblico.
+Utilizza [Personalizza modelli](customize-template.md) come guida per la preparazione di un modello per GenStudio for Performance Marketing. Consulta le [linee guida per l&#39;accessibilità dei modelli](accessibility-for-templates.md) per informazioni su come fornire un&#39;esperienza migliore a tutti i tipi di pubblico.
 
 **Per aggiungere un modello**:
 
@@ -122,7 +122,7 @@ Utilizza [Personalizza modelli](customize-template.md) come guida per la prepara
 
 ## Creare con un modello
 
-Trova e utilizza un modello esistente in GenStudio per gli addetti al marketing delle prestazioni per creare più esperienze.
+Trova e utilizza un modello esistente in GenStudio for Performance Marketing per creare più esperienze.
 
 **Per creare un&#39;esperienza con un modello**:
 

@@ -1,10 +1,10 @@
 ---
 title: Personalizzare un modello
-description: Scopri come personalizzare e ottimizzare il modello, ad Adobe GenStudio per gli esperti di marketing delle prestazioni.
+description: Scopri come personalizzare e ottimizzare il modello per Adobe GenStudio for Performance Marketing.
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 8ea0c17b60b18928540070448ad1ce0206208b00
+source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
@@ -13,15 +13,15 @@ ht-degree: 0%
 
 # Personalizzare un modello
 
-Adattare i modelli di HTML per Adobe GenStudio per gli esperti di marketing delle prestazioni utilizzando il linguaggio di modelli _Handlebars_. La sintassi [!DNL Handlebars] utilizza testo normale con doppie parentesi graffe come segnaposto di contenuto. Per informazioni su come preparare il modello, consulta [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) nella _Guida del linguaggio Handlebars_.
+Adattare i modelli HTML per Adobe GenStudio for Performance Marketing utilizzando il linguaggio di modelli _Handlebars_. La sintassi [!DNL Handlebars] utilizza testo normale con doppie parentesi graffe come segnaposto di contenuto. Per informazioni su come preparare il modello, consulta [`What is [!DNL Handlebars]?`](https://handlebarsjs.com/guide/#what-is-handlebars) nella _Guida del linguaggio Handlebars_.
 
-Nelle sezioni successive viene illustrato come aggiungere segnaposto di contenuto, nascondere elementi non necessari dall’anteprima e gestire i collegamenti al contenuto statico. Quando il modello è pronto, puoi [caricarlo in GenStudio per gli esperti di marketing delle prestazioni](use-templates.md#upload-a-template) e iniziare a generare e-mail personalizzate in base al modello personalizzato.
+Nelle sezioni successive viene illustrato come aggiungere segnaposto di contenuto, nascondere elementi non necessari dall’anteprima e gestire i collegamenti al contenuto statico. Quando il modello è pronto, puoi [caricarlo in GenStudio for Performance Marketing](use-templates.md#upload-a-template) e iniziare a generare e-mail personalizzate in base al modello personalizzato.
 
 ## Segnaposto di contenuto
 
-GenStudio for Performance Marketers riconosce alcuni [elementi](use-templates.md#template-elements) all&#39;interno di un modello, ma solo se li identifichi con un nome di campo riconosciuto.
+GenStudio for Performance Marketing riconosce alcuni [elementi](use-templates.md#template-elements) all&#39;interno di un modello, ma solo se li identifichi con un nome di campo riconosciuto.
 
-All&#39;interno dell&#39;intestazione o del corpo di un modello, è possibile utilizzare la sintassi [!DNL Handlebars] come segnaposto di contenuto in cui è necessario GenStudio for Performance Marketers per compilare il modello con il contenuto effettivo. GenStudio for Performance Marketers riconosce e interpreta i segnaposto di contenuto in base al [nome _campo_ riconosciuto](#recognized-field-names).
+All&#39;interno dell&#39;intestazione o del corpo di un modello, è possibile utilizzare la sintassi [!DNL Handlebars] come segnaposto di contenuto in cui è necessario che GenStudio for Performance Marketing compili il modello con il contenuto effettivo. GenStudio for Performance Marketing riconosce e interpreta i segnaposto di contenuto in base al [nome _campo_ riconosciuto](#recognized-field-names).
 
 Ad esempio, è possibile utilizzare `{{ headline }}` con la sintassi [!DNL Handlebars] per indicare dove deve essere posizionato il titolo dell&#39;e-mail:
 
@@ -31,7 +31,7 @@ Ad esempio, è possibile utilizzare `{{ headline }}` con la sintassi [!DNL Handl
 
 ### Nomi di campi riconosciuti
 
-Nella tabella seguente sono elencati i nomi dei campi riconosciuti da GenStudio per gli addetti al marketing delle prestazioni per la compilazione in modelli. Aggiungi questi nomi di campo utilizzando la sintassi [!DNL Handlebars] al modello in cui è necessario GenStudio per gli esperti di marketing delle prestazioni per generare il contenuto.
+Nella tabella seguente sono elencati i nomi dei campi riconosciuti da GenStudio for Performance Marketing per il popolamento in modelli. Aggiungere questi nomi di campo utilizzando la sintassi [!DNL Handlebars] al modello in cui è necessario GenStudio for Performance Marketing per generare il contenuto.
 
 | Campo | Ruolo | Modello canale |
 | -------------- | ---------------------- | ------------------------------ |
@@ -43,7 +43,7 @@ Nella tabella seguente sono elencati i nomi dei campi riconosciuti da GenStudio 
 | `image` | Immagine | invia e-mail a <br>Meta annuncio |
 | `brand_logo` | Logo del marchio selezionato<br>Per informazioni sull&#39;utilizzo consigliato, vedere [Nome campo logo marchio](#brand-logo-field-name). | e-mail<br>Meta annuncio |
 
-GenStudio for Performance Marketers compila automaticamente alcuni campi nei seguenti modelli:
+GenStudio for Performance Marketing compila automaticamente alcuni campi nei seguenti modelli:
 
 - **Il modello di posta elettronica** non richiede l&#39;identificazione del campo `subject`
 - Il modello **Meta Ads** non richiede l&#39;identificazione dei campi `headline`, `body` e `CTA`
@@ -56,11 +56,11 @@ GenStudio for Performance Marketers compila automaticamente alcuni campi nei seg
 >
 >Per gli annunci Instagram, il titolo generato non viene visualizzato nell’esperienza finale.
 
-È previsto un limite di 20 campi per il caricamento di un modello in GenStudio per gli addetti al marketing delle prestazioni. Poiché il campo `subject` viene generato automaticamente in un messaggio e-mail, viene conteggiato come un campo. Ciò significa che sono consentiti 19 campi in un modello e-mail.
+Il caricamento di un modello in GenStudio for Performance Marketing prevede un limite di 20 campi. Poiché il campo `subject` viene generato automaticamente in un messaggio e-mail, viene conteggiato come un campo. Ciò significa che sono consentiti 19 campi in un modello e-mail.
 
 >[!TIP]
 >
->Puoi verificare il tuo modello utilizzando l&#39;[anteprima modello](#template-preview) in GenStudio per gli esperti di marketing delle prestazioni.
+>Puoi verificare il tuo modello utilizzando [anteprima modello](#template-preview) in GenStudio for Performance Marketing.
 
 #### Nome campo logo marchio
 
@@ -94,7 +94,7 @@ Per creare una sezione modificabile, aggiungere parentesi doppie attorno al nome
 
 ### Sezioni o gruppi
 
-_Le sezioni_ informano GenStudio per gli addetti al marketing delle prestazioni che i campi in questa sezione richiedono un elevato grado di coerenza. Stabilire questa relazione aiuta l’intelligenza artificiale a generare contenuti che corrispondono agli elementi creativi della sezione.
+_Sezioni_ informano GenStudio for Performance Marketing che i campi in questa sezione richiedono un elevato grado di coerenza. Stabilire questa relazione aiuta l’intelligenza artificiale a generare contenuti che corrispondono agli elementi creativi della sezione.
 
 Utilizzare un prefisso scelto nel nome del campo per indicare che un campo fa parte di una sezione o di un gruppo. Ad esempio, potrebbe essere utile evidenziare il contenuto visualizzato in un&#39;area evidenziata:
 
@@ -112,11 +112,11 @@ Un modello può includere fino a tre sezioni:
 - `pod2_headline`
 - `pod2_body`
 
-GenStudio for Performance Marketers è consapevole del fatto che `pod1_headline` è più strettamente correlato a `pod1_body` che a `pod2_body`.
+GenStudio for Performance Marketing è consapevole che `pod1_headline` è più strettamente correlato a `pod1_body` che a `pod2_body`.
 
 ## Anteprima modello
 
-Quando [carichi un modello](use-templates.md#upload-a-template), GenStudio for Performance Marketers analizza il file HTML per individuare i campi riconosciuti. Utilizza l&#39;anteprima per rivedere i tuoi [elementi modello](use-templates.md#template-elements) e confermare di averli identificati correttamente con i [nomi di campo riconosciuti](#recognized-field-names).
+Quando [carichi un modello](use-templates.md#upload-a-template), GenStudio for Performance Marketing analizza il file HTML per individuare i campi riconosciuti. Utilizza l&#39;anteprima per rivedere i tuoi [elementi modello](use-templates.md#template-elements) e confermare di averli identificati correttamente con i [nomi di campo riconosciuti](#recognized-field-names).
 
 Esempio di anteprima per un modello e-mail:
 
@@ -134,7 +134,7 @@ Il valore `_genStudio.browser` viene impostato durante il rendering di un modell
 {{/if}}
 ```
 
-Un altro esempio può essere quello di impedire l’utilizzo dei codici di tracciamento durante l’anteprima di un modello in GenStudio per gli esperti di marketing delle prestazioni. L’esempio seguente mostra come aggiungere parametri di tracciamento ai collegamenti nel modello esportato, mantenendo allo stesso tempo puliti i collegamenti di anteprima:
+Un altro esempio può essere quello di impedire l’utilizzo dei codici di tracciamento durante l’anteprima di un modello in GenStudio for Performance Marketing. L’esempio seguente mostra come aggiungere parametri di tracciamento ai collegamenti nel modello esportato, mantenendo allo stesso tempo puliti i collegamenti di anteprima:
 
 ```handlebars
 <a class="button" {{#if _genStudio.browser }}
@@ -145,11 +145,11 @@ Un altro esempio può essere quello di impedire l’utilizzo dei codici di tracc
 
 ## Contenuto statico
 
-I modelli e-mail e metadati spesso si collegano a immagini e file CSS ospitati al di fuori di GenStudio per gli esperti di marketing delle prestazioni. Quando GenStudio for Performance Marketers genera le miniature per questi modelli o le esperienze da essi derivate, potrebbe ignorare queste risorse esterne se non dispongono delle intestazioni CORS (Cross-Origin Resource Sharing) corrette.
+I modelli e-mail e metadati spesso si collegano a immagini e file CSS ospitati al di fuori di GenStudio for Performance Marketing. Quando GenStudio for Performance Marketing genera le miniature per questi modelli o le esperienze da essi derivate, queste risorse esterne possono essere ignorate se non dispongono delle intestazioni CORS (Cross-Origin Resource Sharing) corrette.
 
 Per garantire che queste risorse siano disponibili durante il processo di generazione delle miniature, considera due opzioni:
 
-1. **Usa intestazioni CORS**: il server host deve inviare risposte con un&#39;intestazione `Access-Control-Allow-Origin` impostata sul valore `https://experience.adobe.com` per gli ambienti di produzione. Questo metodo consente a GenStudio per gli esperti di marketing delle prestazioni di accedere alle risorse e di includerle.
+1. **Usa intestazioni CORS**: il server host deve inviare risposte con un&#39;intestazione `Access-Control-Allow-Origin` impostata sul valore `https://experience.adobe.com` per gli ambienti di produzione. Questo metodo consente a GenStudio for Performance Marketing di accedere alle risorse e di includerle.
 
 1. **Usa URL dati**: incorpora le risorse esterne direttamente nel modello utilizzando URL dati. Questo metodo bypassa le restrizioni CORS e garantisce che le risorse siano disponibili durante la generazione delle miniature.
 
@@ -157,7 +157,7 @@ Per garantire che queste risorse siano disponibili durante il processo di genera
 
 +++Esempio: modello e-mail con una sezione
 
-Di seguito è riportato un esempio di base di un modello HTML per un messaggio e-mail che contiene una sezione. L’intestazione contiene CSS semplice e in linea per lo stile. Il corpo contiene un `pre-header`, `headline` e `image` [segnaposto](#content-placeholders) per l&#39;utilizzo da parte di GenStudio per gli esperti di marketing delle prestazioni per inserire contenuto durante il processo di generazione dell&#39;e-mail.
+Di seguito è riportato un esempio di base di un modello HTML per un messaggio e-mail che contiene una sezione. L’intestazione contiene CSS semplice e in linea per lo stile. Il corpo contiene `pre-header`, `headline` e `image` [segnaposto](#content-placeholders) per l&#39;inserimento di contenuto da parte di GenStudio for Performance Marketing durante il processo di generazione dell&#39;e-mail.
 
 ```handlebars {line-numbers="true" highlight="13"}
 <!DOCTYPE html>
