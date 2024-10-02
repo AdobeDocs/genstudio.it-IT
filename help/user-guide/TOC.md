@@ -4,9 +4,9 @@ breadcrumb-title: Guida utente
 user-guide-description: Esplora le funzionalità di Adobe GenStudio for Performance Marketing. Scopri come creare rapidamente risorse on-brand, generare varianti e ottimizzare le esperienze.
 feature-set: GenStudio
 feature: Generative AI
-source-git-commit: 428e88b5d5ac125f42d0a27367f456fcd2828df5
+source-git-commit: 967309ee0572365e9442c4e77816f9483e6522d3
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '137'
 ht-degree: 9%
 
 ---
@@ -40,7 +40,7 @@ ht-degree: 9%
    + [Contenuto approvato da Publish](approvals/publish-content.md)
 + Contenuto {#content}
    + [Panoramica del contenuto](content/overview.md)
-   + [Gestire le risorse](content/manage-assets.md)
+   + [Gestire risorse ed esperienze](content/manage-assets.md)
    + [Connettere un archivio AEM](content/connect-aem-repo.md)
    + [Dettagli risorsa](content/asset-details.md)
    + Modelli {#templates}
@@ -58,4 +58,5 @@ ht-degree: 9%
    + [Connetti account canale](insights/connect-channel.md)
    + [Canali](insights/channels.md)
    + [Esperienze](insights/experiences.md)
-   + [Colonne dati](insights/data-columns.md)
+   + [Risorse](insights/assets.md)
+   + [Attributi](insights/attributes.md)

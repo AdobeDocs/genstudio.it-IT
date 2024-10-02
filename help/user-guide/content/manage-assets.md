@@ -3,9 +3,9 @@ title: Gestire risorse ed esperienze
 description: Semplifica e migliora la gestione delle risorse approvate dal marchio da utilizzare e riutilizzare nel percorso di marketing digitale.
 feature: Content, Assets, Experiences
 exl-id: e2ce8797-6d3b-46d4-b12f-f5f80e26c669
-source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
+source-git-commit: af20efaa511ed403f5160956ff98b42beb64bb34
 workflow-type: tm+mt
-source-wordcount: '722'
+source-wordcount: '786'
 ht-degree: 0%
 
 ---
@@ -59,18 +59,22 @@ Per impostazione predefinita, quando si aggiungono risorse a [!DNL Content], que
    Vedi [Dettagli metadati](/help/user-guide/content/asset-details.md#system-metadata).
 
 1. Fai clic su **[!UICONTROL Aggiungi risorse]**.
+
 1. Al termine del caricamento della risorsa, fai clic su **Fine**.
+
 1. Per visualizzare le nuove risorse caricate, fai clic su **[!UICONTROL Aggiorna]** dalla notifica _Nuove risorse disponibili_ nella parte inferiore dell&#39;area di lavoro.
 
 <!-- 
 In the future, need guidance on template upload errors. For now, the UI just says error.
 -->
 
-### Cerca risorse
+### Cerca contenuto
 
-L&#39;interfaccia di ricerca [!DNL Content] è rapida e reattiva e fornisce un&#39;esperienza di ricerca proficua.
+Il filtro e l’interfaccia di ricerca sono rapidi e reattivi e forniscono un’esperienza di ricerca iniziale produttiva. Ogni visualizzazione [!DNL Content] fornisce opzioni filtro per limitare la ricerca della risorsa, dell&#39;esperienza o del modello ideale. Per risorse ed esperienze, puoi selezionare una campagna e linee guida specifiche, ad esempio contenuti creati per un prodotto specifico.
 
-Per limitare i risultati della ricerca, applica i filtri e utilizza i tag di metadati dei dettagli della risorsa. Ad esempio, potresti voler trovare una risorsa di un particolare tipo di file o oggetto per aiutarti a creare una nuova esperienza per la campagna.
+Sono presenti filtri basati su [parole chiave](asset-details.md#user-defined-metadata) e [attributi](/help/user-guide/insights/attributes.md) per limitare i risultati della ricerca. Ad esempio, potresti voler trovare una risorsa di un particolare tipo di file o oggetto per aiutarti a creare una nuova esperienza per la campagna.
+
+Durante la ricerca di _Esperienze_, puoi utilizzare il filtro **[!UICONTROL Creato da]** per limitare l&#39;elenco in modo da mostrare solo le esperienze create da te o da una persona specifica.
 
 **Per cercare contenuto da riutilizzare**:
 
