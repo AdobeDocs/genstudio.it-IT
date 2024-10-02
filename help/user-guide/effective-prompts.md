@@ -1,9 +1,9 @@
 ---
 title: Scrivi prompt effettivi
-description: Scopri come scrivere prompt efficaci per Adobi GenStudio per gli esperti di marketing delle prestazioni.
+description: Scopri come scrivere prompt efficaci per Adobe GenStudio for Performance Marketing.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 016cd2b5415651ed3cf157244f868315234330fa
+source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
 workflow-type: tm+mt
 source-wordcount: '758'
 ht-degree: 0%
@@ -12,11 +12,11 @@ ht-degree: 0%
 
 # Scrivi prompt effettivi
 
-La comunicazione con l’intelligenza artificiale generativa è essenziale per lavorare efficacemente in Adobe GenStudio per gli esperti di performance marketing.
+La comunicazione con l’intelligenza artificiale generativa è essenziale per lavorare in modo efficace in Adobe GenStudio for Performance Marketing.
 
-GenStudio for Performance Marketers fornisce un prompt di IA generativo ogni volta che è presente un’opportunità di modifica di una risorsa. I componenti di un prompt efficace devono includere un linguaggio descrittivo, esempi e informazioni non fornite dalle linee guida configurate.
+GenStudio for Performance Marketing fornisce un prompt di IA generativo ogni volta che è possibile modificare una risorsa. I componenti di un prompt efficace devono includere un linguaggio descrittivo, esempi e informazioni non fornite dalle linee guida configurate.
 
-Come best practice, fornisci a GenStudio for Performance Marketers le tue informazioni sul brand utilizzando [linee guida](/help/user-guide/guidelines/overview.md), quindi puoi sfruttare appieno l’intelligenza artificiale generativa per produrre esperienze di contenuti allineati al brand.
+Come best practice, fornisci a GenStudio for Performance Marketing le tue informazioni sul brand utilizzando [linee guida](/help/user-guide/guidelines/overview.md), quindi puoi sfruttare appieno l’intelligenza artificiale generativa per produrre esperienze di contenuti allineati al brand.
 
 ## Lingua descrittiva
 
@@ -39,21 +39,21 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 ## Criteri di richiesta
 
-In GenStudio per gli addetti al marketing delle prestazioni [[!DNL Create]](/help/user-guide/create/overview.md), è possibile utilizzare **[!UICONTROL Criteri prompt]** ([_Parametri_](/help/user-guide/create/overview.md#parameters) e un prompt) nell&#39;area dei prompt per aggiungere dettagli tramite la selezione per migliorare l&#39;interpretazione di IA.
+In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) è possibile utilizzare **[!UICONTROL Criteri prompt]** ([_Parametri_](/help/user-guide/create/overview.md#parameters) e un prompt) nell&#39;area dei prompt per aggiungere dettagli tramite la selezione per migliorare l&#39;interpretazione di IA.
 
 Per [e-mail](/help/tutorials/create-email-experience.md), i criteri di richiesta potrebbero includere l&#39;aggiunta di [linee guida](/help/user-guide/guidelines/overview.md) in _Parametri_, il caricamento di una risorsa da utilizzare nelle varianti di e-mail e un prompt descrittivo. Per un [Meta ad](/help/tutorials/create-meta-ad.md), i criteri di richiesta potrebbero includere una linea guida del brand in _Parametri_, la selezione o il caricamento di una risorsa esistente, impostazioni relative a immagini o risorse quali proporzioni e un prompt. La potenza effettiva inizia con [le linee guida per la configurazione](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
->Se le linee guida vengono aggiunte in _Parametri_ nell&#39;area dei prompt, non è necessario includervi un riferimento. GenStudio per gli esperti di marketing delle prestazioni sfrutta tali proprietà [!DNL Brands], [!DNL Products] e [!DNL Personas] nella generazione dei contenuti.
+>Se le linee guida vengono aggiunte in _Parametri_ nell&#39;area dei prompt, non è necessario includervi un riferimento. GenStudio for Performance Marketing sfrutta questi elementi [!DNL Brands], [!DNL Products] e [!DNL Personas] nella generazione dei contenuti.
 
 ### Linee guida
 
-Le linee guida di GenStudio for Performance Marketers aiutano l’intelligenza artificiale generativa a personalizzare la composizione delle risorse. Quando viene visualizzato un criterio di richiesta, è possibile scegliere [[!DNL Brand]](/help/user-guide/guidelines/brands.md), [[!DNL Persona]](/help/user-guide/guidelines/personas.md) e [[!DNL Product]](/help/user-guide/guidelines/products.md) dalle linee guida configurate.
+Le linee guida di GenStudio for Performance Marketing aiutano l’intelligenza artificiale generativa a personalizzare la composizione delle risorse. Quando viene visualizzato un criterio di richiesta, è possibile scegliere [[!DNL Brand]](/help/user-guide/guidelines/brands.md), [[!DNL Persona]](/help/user-guide/guidelines/personas.md) e [[!DNL Product]](/help/user-guide/guidelines/products.md) dalle linee guida configurate.
 
 >[!TIP]
 >
->Puoi controllare come e quando GenStudio for Performance Marketers utilizza le linee guida di [!DNL Brand]. Consulta [Linee guida](/help/user-guide/guidelines/overview.md) per scoprire come configurare e gestire le linee guida per il brand.
+>Puoi controllare come e quando GenStudio for Performance Marketing utilizza le linee guida di [!DNL Brand]. Consulta [Linee guida](/help/user-guide/guidelines/overview.md) per scoprire come configurare e gestire le linee guida per il brand.
 
 ### Richieste strutturate
 
@@ -95,7 +95,7 @@ Consulta [Preparare un modello di e-mail](/help/user-guide/content/email-templat
 
 ## Riprova
 
-La richiesta è un processo iterativo. Se i risultati non soddisfano le aspettative, rivedere la richiesta e apportare alcune modifiche o aggiungere ulteriori dettagli. In alternativa, puoi incollare le sezioni da una descrizione della campagna. Puoi anche richiedere che GenStudio for Performance Marketers eviti determinate parole, elementi o temi.
+La richiesta è un processo iterativo. Se i risultati non soddisfano le aspettative, rivedere la richiesta e apportare alcune modifiche o aggiungere ulteriori dettagli. In alternativa, puoi incollare le sezioni da una descrizione della campagna. Puoi anche richiedere che GenStudio for Performance Marketing eviti determinate parole, elementi o temi.
 
 ## Best practice
 
@@ -103,7 +103,7 @@ Alcune semplici best practice per creare prompt efficaci:
 
 - Sii specifico e fornisci dettagli su cosa fare e non fare.
 - Fornisci contesto utilizzando riferimenti esterni.
-- Utilizzo delle linee guida di GenStudio for Performance Marketers.
+- Utilizzare le linee guida di GenStudio for Performance Marketing.
 - Rivedi e adegua regolarmente le linee guida.
 - Iterare e perfezionare.
 - Imparare attraverso la sperimentazione.

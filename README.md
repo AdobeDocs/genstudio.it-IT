@@ -1,13 +1,13 @@
 ---
-source-git-commit: c9d09801f0bd3732611b01d4a98cc7ebf38884d7
+source-git-commit: 2bc505acc561e60ee2af928adf53c9193677c3f5
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 36%
 
 ---
-# Documentazione di GenStudio per gli esperti di marketing delle prestazioni
+# Documentazione di GenStudio for Performance Marketing
 
-Questo sito contiene la documentazione più recente del prodotto GenStudio per gli esperti di marketing delle prestazioni.
+Questo sito contiene la documentazione più recente del prodotto GenStudio for Performance Marketing.
 
 ## Codice di condotta open source di Adobe
 

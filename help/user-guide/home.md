@@ -1,24 +1,19 @@
 ---
 title: Guida utente di Adobe GenStudio
-description: Abilita gli addetti al marketing e i creativi con il servizio di pagamento gratuito GenStudio for Performance Marketers, l’applicazione IA-first di Adobe che fornisce accesso self-service ai contenuti del brand con guardrail aziendali e governance per esperienze dalle prestazioni elevate.
+description: Esplora le funzionalità di Adobe GenStudio for Performance Marketing. Scopri come creare rapidamente risorse on-brand, generare varianti e ottimizzare le esperienze.
 exl-id: beae7802-09e6-4ca3-9ffa-b8494aea5ae4
-source-git-commit: b538268ec0238fd38c12ae8f32c0df551890d878
+source-git-commit: 845cf9321c92598f42a92e89cb6331a8b122a894
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 1%
+source-wordcount: '206'
+ht-degree: 0%
 
 ---
 
-# Adobe GenStudio per la guida utente di Performance Marketing
+# Guida utente di Adobe GenStudio for Performance Marketing
 
-Adobe GenStudio for Performance Marketers è una piattaforma basata sull’intelligenza artificiale che ti consente di generare e gestire contenuti di marketing conformi agli standard del tuo marchio e conformi alle politiche aziendali.
+Adobe GenStudio for Performance Marketing è una piattaforma basata sull’intelligenza artificiale che ti consente di generare e gestire contenuti di marketing conformi agli standard del tuo marchio e conformi alle politiche aziendali.
 
-Sfruttando la tecnologia di intelligenza artificiale Adobe, GenStudio per gli esperti di marketing delle prestazioni offre una suite completa di strumenti che semplificano le complessità di creazione e gestione dei contenuti in modo che i creativi possano concentrarsi sull’innovazione.
-
-## Novità
-
-- [[!DNL Insights Channels]](insights/channels.md): nuova panoramica su coinvolgimento dei clienti, prestazioni, budget e spese per le campagne di marketing.
-- [[!DNL Insights Experiences]](insights/experiences.md): nuova panoramica sulle informazioni relative alle esperienze e alle prestazioni degli annunci.
+Sfruttando la tecnologia di intelligenza artificiale Adobe, GenStudio for Performance Marketing fornisce una suite completa di strumenti che semplificano le complessità della creazione e della gestione dei contenuti, consentendo ai creativi di concentrarsi sull’innovazione.
 
 ## Esplora le funzionalità
 
@@ -103,7 +98,7 @@ Sfruttando la tecnologia di intelligenza artificiale Adobe, GenStudio per gli es
       </a>
    </div>
    <p>
-      <em>Scopri come aggiungere linee guida - Marchi, prodotti e utenti tipo - a GenStudio per gli esperti di marketing delle prestazioni.</em>
+      <em>Scopri come aggiungere linee guida - Marchi, prodotti e utenti tipo - a GenStudio for Performance Marketing.</em>
    </p>
 </td>
 <td valign="top">

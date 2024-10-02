@@ -3,7 +3,7 @@ title: Panoramica dell’attivazione
 description: Scopri come attivare i contenuti con Adobe Experience Cloud e applicazioni di terze parti.
 feature: Assets, Approval, Experiences
 exl-id: 365fe253-d189-467e-a723-f54cd74ff60b
-source-git-commit: b1550c4b1f624287e432bf7b610f9d31892b13c0
+source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
 workflow-type: tm+mt
 source-wordcount: '220'
 ht-degree: 0%
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 _Activation_ consiste nel rendere disponibili le risorse e le esperienze generate da Adobe GenStudio for Performance Marketing per la distribuzione tramite i tuoi canali selezionati e i prodotti Adobe Experience Cloud. È possibile esportare facilmente i contenuti approvati da GenStudio for Performance Marketing nei formati ottimali per le applicazioni di terze parti incluse in [!DNL Products].
 
-La funzione di attivazione di GenStudio for Performance Marketers è integrata in modo nativo nei prodotti di distribuzione delle esperienze di Adobe: Journey Optimizer, Journey Optimizer B2B edition, Experience Manager, Marketo e Target.
+La funzione di attivazione di GenStudio for Performance Marketing è integrata in modo nativo nei prodotti Experience Delivery di Adobe: Journey Optimizer, Journey Optimizer B2B edition, Experience Manager, Marketo e Target.
 
 **Per attivare una risorsa approvata**:
 
