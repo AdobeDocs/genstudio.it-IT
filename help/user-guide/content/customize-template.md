@@ -4,7 +4,7 @@ description: Scopri come personalizzare e ottimizzare il modello per Adobe GenSt
 level: Intermediate
 feature: Templates, Content
 exl-id: 292c1689-1b12-405d-951e-14ee6aebc75a
-source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
+source-git-commit: 059b464cb2a7b57557407bbaee6162b770107222
 workflow-type: tm+mt
 source-wordcount: '1032'
 ht-degree: 0%
@@ -46,7 +46,7 @@ Nella tabella seguente sono elencati i nomi dei campi riconosciuti da GenStudio 
 GenStudio for Performance Marketing compila automaticamente alcuni campi nei seguenti modelli:
 
 - **Il modello di posta elettronica** non richiede l&#39;identificazione del campo `subject`
-- Il modello **Meta Ads** non richiede l&#39;identificazione dei campi `headline`, `body` e `CTA`
+- **Il modello di annunci multimediali** non richiede l&#39;identificazione dei campi `headline`, `body` e `CTA`
 
 <!--
 - **Display Ads template** does not require you to idenitify the `CTA` field
