@@ -2,9 +2,9 @@
 title: Gestisci varianti
 description: Personalizza e migliora le varianti e le risorse generate in base alle tue esigenze di marketing digitale.
 feature: Content, Assets, Experiences
-source-git-commit: e99fadb7c440adbfa52759d6b392e08d0ee6d155
+source-git-commit: 67a3fe86facf0fef12f1fd63d8cf79132b0f42b0
 workflow-type: tm+mt
-source-wordcount: '542'
+source-wordcount: '694'
 ht-degree: 0%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 # Gestisci varianti
 
-Adobe GenStudio di Performance Marketing [!DNL Create] consente di personalizzare e migliorare le varianti generate (e-mail, meta-annunci e altro) da utilizzare nelle iniziative di marketing digitale.
+Adobe GenStudio for Performance Marketing [!DNL Create] consente di personalizzare e migliorare le varianti generate, [e-mail](/help/user-guide/create/email-experiences.md), [Meta ads](/help/user-guide/create/meta-experiences.md) e altre, per l&#39;utilizzo in iniziative di marketing digitale.
 
 Quando [crei esperienze](/help/tutorials/tutorials.md), puoi modificare il contenuto e le risorse delle varianti generate singolarmente o in un batch. La possibilità di gestire le varianti a livello individuale di micro-livello consente di gestire in modo esplicito ogni elemento di contenuto generato.
 
@@ -53,20 +53,20 @@ For example, you can re-generate the headline section of one Meta ad variant to 
 1. If you want to regenerate results, click the regenerate icon adjacent to _Results_.
 1. From the _Results_ that appear, select the desired option and click **[!UICONTROL Replace]**.
 
-   The variant is updated with the revised text.
+   The variant is updated with the revised text. -->
 
-## Crop assets
+## Ritagliare le risorse
 
-You can manually crop and reposition image assets in individual generated variants.
+Puoi ritagliare e riposizionare manualmente le risorse immagine nelle singole varianti generate.
 
-**To crop and reposition images in variants**:
+**Per ritagliare e riposizionare le immagini nelle varianti**:
 
-1. After generating a set of variants, hover over an image within a variant.
-1. Click **[!UICONTROL Apply Crop]**.
-1. Zoom in and out and drag the image into the desired position.
-1. Click **[!UICONTROL Apply]**.
+1. Dopo aver generato un set di varianti, passa il cursore su un’immagine all’interno di una variante.
+1. Fai clic sull’icona di ritaglio visualizzata nell’angolo sinistro dell’immagine.
+1. Regola il riquadro di delimitazione dell’immagine e trascina l’immagine nella posizione desiderata.
+1. Fai clic su **[!UICONTROL Applica]** per applicare il ritaglio a una singola immagine oppure su **[!UICONTROL Applica a tutte le immagini]** per applicarlo a tutte le immagini nelle varianti.
 
-   The cropped image is automatically saved and visible for the variant. -->
+   L’immagine ritagliata viene salvata e visibile per le varianti.
 
 ## Modifica proporzioni
 
@@ -100,6 +100,12 @@ Le dimensioni e le proporzioni disponibili sono:
 [!DNL Create] crea una copia di ogni variante in base alle nuove proporzioni selezionate. Tutte le varianti, comprese quelle nelle proporzioni iniziali, sono presenti nell’area di lavoro.
 
 Ad esempio, se all&#39;inizio generi quattro varianti in una proporzione 1:1 e poi modifichi le proporzioni in 4:5, ora nell&#39;area di lavoro sono disponibili _otto_ varianti totali.
+
+## Anteprima per dispositivo
+
+Durante la revisione e la preparazione delle esperienze e-mail, puoi passare dalle anteprime per le viste desktop a quelle mobili per garantire la coerenza e l’impatto visivo delle varianti di bozza.
+
+**Per visualizzare in anteprima le varianti per desktop e dispositivi mobili**, attiva l&#39;opzione di anteprima del dispositivo, tra **desktop** e **mobile**, nella barra dei menu a destra (icone computer e telefono) per visualizzare in anteprima le varianti.
 
 ## Elimina variante
 

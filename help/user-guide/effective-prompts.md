@@ -3,7 +3,7 @@ title: Scrivi prompt effettivi
 description: Scopri come scrivere prompt efficaci per Adobe GenStudio for Performance Marketing.
 feature: Prompt, Generative AI, Brands Service, Personas Service, Products Service, Guidelines
 exl-id: 0cd4db4f-d031-4c1f-a4e7-adc220f947fc
-source-git-commit: 6a90b2b2615dbb0c2104195ff5ed2204cac72241
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
 source-wordcount: '758'
 ht-degree: 0%
@@ -41,7 +41,7 @@ Write an email to motivate infrequent users of Photoshop to follow an in-app tut
 
 In GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) è possibile utilizzare **[!UICONTROL Criteri prompt]** ([_Parametri_](/help/user-guide/create/overview.md#parameters) e un prompt) nell&#39;area dei prompt per aggiungere dettagli tramite la selezione per migliorare l&#39;interpretazione di IA.
 
-Per [e-mail](/help/tutorials/create-email-experience.md), i criteri di richiesta potrebbero includere l&#39;aggiunta di [linee guida](/help/user-guide/guidelines/overview.md) in _Parametri_, il caricamento di una risorsa da utilizzare nelle varianti di e-mail e un prompt descrittivo. Per un [Meta ad](/help/tutorials/create-meta-ad.md), i criteri di richiesta potrebbero includere una linea guida del brand in _Parametri_, la selezione o il caricamento di una risorsa esistente, impostazioni relative a immagini o risorse quali proporzioni e un prompt. La potenza effettiva inizia con [le linee guida per la configurazione](/help/user-guide/guidelines/add-guidelines.md).
+Per [e-mail](/help/user-guide/create/email-experiences.md), i criteri di richiesta potrebbero includere l&#39;aggiunta di [linee guida](/help/user-guide/guidelines/overview.md) in _Parametri_, il caricamento di una risorsa da utilizzare nelle varianti di e-mail e un prompt descrittivo. Per un [Meta ad](/help/tutorials/create-meta-ad.md), i criteri di richiesta potrebbero includere una linea guida del brand in _Parametri_, la selezione o il caricamento di una risorsa esistente, impostazioni relative a immagini o risorse quali proporzioni e un prompt. La potenza effettiva inizia con [le linee guida per la configurazione](/help/user-guide/guidelines/add-guidelines.md).
 
 >[!NOTE]
 >
@@ -57,7 +57,7 @@ Le linee guida di GenStudio for Performance Marketing aiutano l’intelligenza a
 
 ### Richieste strutturate
 
-Per le e-mail con più sezioni, puoi strutturare i prompt per fornire istruzioni specifiche per ogni sezione in modo da generare contenuti diversi per ogni sezione di un’e-mail. I prompt strutturati devono fare riferimento direttamente a [nomi di sezione nel modello e-mail](/help/user-guide/content/email-template.md#multi-section-emails), in modo che il contenuto generato possa essere inserito nei segnaposto di contenuto corrispondenti.
+Per le e-mail con più sezioni, puoi strutturare i prompt in modo da fornire istruzioni specifiche per ogni sezione in modo da generare contenuti diversi per ogni sezione di un [messaggio e-mail](/help/user-guide/create/email-experiences.md). I prompt strutturati devono fare riferimento direttamente a [nomi di sezione nel modello e-mail](/help/user-guide/content/email-template.md#multi-section-emails), in modo che il contenuto generato possa essere inserito nei segnaposto di contenuto corrispondenti.
 
 Ad esempio, puoi dare istruzione a GenStudio for Performance Marketing di generare contenuti che promuovano un nuovo prodotto nella prima sezione di un’e-mail e generare contenuti che descrivano in dettaglio i vantaggi economici del prodotto nella seconda sezione e-mail.
 

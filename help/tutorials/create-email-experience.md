@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
-source-wordcount: '854'
+source-wordcount: '885'
 ht-degree: 0%
 
 ---
 
 # Creare un’esperienza e-mail
 
-Questo tutorial illustra come generare esperienze e-mail con marchio utilizzando GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (icona del pennello nell&#39;area di navigazione a sinistra).
+Questo tutorial illustra come generare [esperienze e-mail](/help/user-guide/create/email-experiences.md) con marchio utilizzando GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (icona del pennello nell&#39;area di navigazione a sinistra).
 
 Per creare un&#39;esperienza e-mail efficace, ti consigliamo di [aggiungere linee guida a GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md) e di approfondire le [nozioni di base sulla creazione di un prompt](/help/user-guide/effective-prompts.md) prima di iniziare.
 
@@ -44,8 +44,11 @@ L&#39;aggiunta di [linee guida](/help/user-guide/guidelines/overview.md) e risor
    Se da questi menu non sono disponibili marchi, utenti tipo o prodotti, [aggiungi linee guida al tuo GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Fai clic su **[!UICONTROL Seleziona contenuto]** per aggiungere contenuto da utilizzare nell&#39;esperienza *e* per influenzare la generazione del contenuto.
-   * Fai clic su **[!UICONTROL Seleziona dal contenuto]** per selezionare le risorse (immagini) già pubblicate in [!DNL Content]. Utilizza i filtri per restringere ulteriormente i risultati della ricerca.
-   * Fai clic su **[!UICONTROL Carica]** per sfogliare i file e scegliere le risorse da utilizzare. Oltre a sfogliare il dispositivo, è anche possibile importare da Microsoft OneDrive o Dropbox.
+   * Per selezionare le risorse (immagini) dall&#39;archivio [!DNL Content], fare clic su **[!UICONTROL Seleziona dal contenuto]**. Filtra e seleziona una o più immagini.
+
+     Per utilizzare le risorse da un repository [!DNL AEM Assets Content Hub] connesso, scegliere un repository dal menu a discesa _Posizione_. Filtra e seleziona una o più immagini.
+
+   * Per caricare una o più nuove risorse, fai clic su **[!UICONTROL Carica]**, sfoglia i file e scegli le risorse da utilizzare. Oltre a sfogliare il dispositivo, è possibile importare da Microsoft OneDrive o Dropbox. Fai clic su per selezionare le immagini desiderate.
    * Trascina le risorse nella sezione _Contenuto_.
 1. Fai clic su **[!UICONTROL Usa]**.
 
@@ -68,6 +71,8 @@ Per ulteriori informazioni sulla scrittura dei prompt, vedere [Scrivi prompt eff
 
 Per impostazione predefinita, quattro varianti (tutte alimentate dal prompt, dalle linee guida e dal contenuto aggiunto) vengono generate e visualizzate nell’area di lavoro.
 
+Il contenuto generato viene caricato progressivamente, man mano che vengono generate, le esperienze e-mail vengono visualizzate nell’area di lavoro. Consulta [Esperienze e-mail](/help/user-guide/create/meta-experiences.md#progressive-loading) per scoprire come vengono caricate le modifiche nell&#39;area di lavoro.
+
 ## Rivedere le e-mail generate
 
 Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblicazione a [!DNL Content], è possibile modificare le sezioni e-mail o eliminare una variante dal set di e-mail generate.
@@ -81,9 +86,7 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
 
 ## Anteprima per dispositivo
 
-Durante la revisione e la preparazione delle esperienze e-mail, puoi passare dalle anteprime per le viste desktop a quelle mobili per garantire la coerenza e l’impatto visivo delle varianti di bozza.
-
-**Per visualizzare in anteprima le varianti per desktop e dispositivi mobili**, attiva l&#39;opzione di anteprima del dispositivo, tra **desktop** e **mobile**, nella barra dei menu a destra (icone computer e telefono) per visualizzare in anteprima le varianti.
+Durante la revisione e la preparazione delle esperienze e-mail, puoi [passare da un&#39;anteprima all&#39;altra per le visualizzazioni desktop e mobile](/help/user-guide/create/manage-variants.md#preview-for-device) per garantire la coerenza e l&#39;impatto visivo delle varianti di bozza.
 
 ## Verificare l’allineamento del brand
 

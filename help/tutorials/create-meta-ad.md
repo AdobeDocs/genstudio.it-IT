@@ -7,16 +7,16 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
+source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
 workflow-type: tm+mt
-source-wordcount: '952'
+source-wordcount: '1048'
 ht-degree: 0%
 
 ---
 
 # Creare un’esperienza di annuncio multimediale
 
-Questo tutorial illustra come generare esperienze di annunci multimediali con il marchio utilizzando GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (icona del pennello nell&#39;area di navigazione a sinistra).
+Questo tutorial illustra come generare [esperienze di annunci multimediali](/help/user-guide/create/meta-experiences.md) con il marchio utilizzando GenStudio for Performance Marketing [[!DNL Create]](/help/user-guide/create/overview.md) (icona del pennello nell&#39;area di navigazione a sinistra).
 
 Prima di iniziare a generare un&#39;esperienza di annuncio multimediale, è importante [incorporare le linee guida](/help/user-guide/guidelines/add-guidelines.md) in GenStudio for Performance Marketing e acquisire familiarità con le nozioni di base sulla [creazione di un prompt](/help/user-guide/effective-prompts.md).
 
@@ -44,8 +44,11 @@ L&#39;aggiunta di [linee guida](/help/user-guide/guidelines/overview.md) e risor
    Se da questi menu non sono disponibili marchi, utenti tipo o prodotti, [aggiungi linee guida al tuo GenStudio for Performance Marketing](/help/user-guide/guidelines/add-guidelines.md).
 
 1. Fai clic su **[!UICONTROL Seleziona contenuto]** per aggiungere contenuto da utilizzare nell&#39;esperienza *e* per influenzare la generazione del contenuto.
-   * Fai clic su **[!UICONTROL Seleziona dal contenuto]** per selezionare le risorse (immagini) già pubblicate in [!DNL Content]. Utilizza i filtri per restringere ulteriormente i risultati della ricerca.
-   * Fai clic su **[!UICONTROL Carica]** per sfogliare i file e scegliere le risorse da utilizzare. Oltre a sfogliare il dispositivo, è anche possibile importare da Microsoft OneDrive o Dropbox.
+   * Per selezionare le risorse (immagini) già pubblicate in [!DNL Content], fare clic su **[!UICONTROL Seleziona dal contenuto]** e fare clic per selezionare le immagini desiderate. Utilizza i filtri per restringere ulteriormente i risultati della ricerca.
+
+     Se desideri utilizzare le risorse già presenti in un archivio Content Hub AEM connesso, seleziona la posizione applicabile dal menu a discesa _Posizione_ e fai clic per selezionare le immagini desiderate.
+
+   * Fai clic su **[!UICONTROL Carica]** per sfogliare i file e scegliere le risorse da utilizzare. Oltre a sfogliare il dispositivo, è anche possibile importare da Microsoft OneDrive o Dropbox. Fai clic su per selezionare le immagini desiderate.
    * Trascina le risorse nella sezione _Contenuto_.
 1. Fai clic su **[!UICONTROL Usa]**.
 
@@ -63,6 +66,8 @@ Per ulteriori informazioni sulla scrittura dei prompt, vedere [Scrivi prompt eff
 1. Fai clic su **[!UICONTROL Genera]**.
 
 Per impostazione predefinita, quattro varianti (tutte alimentate dal prompt, dalle linee guida e dal contenuto aggiunto) vengono generate e visualizzate nell’area di lavoro.
+
+I contenuti generati vengono caricati progressivamente; man mano che vengono generate, le esperienze Meta vengono visualizzate nell’area di lavoro. Consulta [Meta esperienze](/help/user-guide/create/meta-experiences.md#progressive-loading) per scoprire come queste modifiche vengono caricate nell&#39;area di lavoro.
 
 ## Scegli il canale dei metadati
 
@@ -82,8 +87,8 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
 * **Per [modificare manualmente un Meta Ad](/help/user-guide/create/manage-variants.md#manually-edit-text)**, fai doppio clic in una delle sezioni dell&#39;annuncio (ad esempio l&#39;oggetto, l&#39;intestazione o il corpo del testo) e modificale in base alle esigenze.
 * **Per modificare o selezionare l&#39;invito all&#39;azione**, fare clic sul pulsante di invito all&#39;azione e selezionare una delle opzioni di testo disponibili per il pulsante. In _[!UICONTROL Collegamento]_, immettere un URL per il testo dell&#39;invito all&#39;azione.
 * **Per [modificare le dimensioni e le proporzioni dell&#39;annuncio](/help/user-guide/create/manage-variants.md#change-aspect-ratio)**, fare clic sul pulsante _[!UICONTROL Ridimensiona]_ (casella con l&#39;icona di un pulsante sul lato sinistro dell&#39;area di lavoro) e selezionare nuove dimensioni e proporzioni da applicare a tutte le varianti. Le varianti vengono duplicate e ridimensionate.
-<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**.
-* **To [crop or reposition images](/help/user-guide/create/manage-variants.md#crop-assets)**, hover over an image, click **[!UICONTROL Apply Crop]**, and adjust the image size and placement. -->
+<!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
+* **Per [ritagliare o riposizionare le immagini](/help/user-guide/create/manage-variants.md#crop-assets)**, posizionare il puntatore del mouse su un&#39;immagine, fare clic sull&#39;icona di ritaglio visualizzata e modificare le dimensioni e il posizionamento dell&#39;immagine.
 * **Per [eliminare un Meta Ad](/help/user-guide/create/manage-variants.md#delete-variant)**, fai clic sul titolo dell&#39;annuncio (ad esempio, &quot;Meta 4&quot;) e fai clic su **[!UICONTROL Elimina variante]**.
 
 ## Verificare l’allineamento del brand
