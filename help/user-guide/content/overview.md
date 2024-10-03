@@ -3,9 +3,9 @@ title: Panoramica di Adobe GenStudio for Performance Marketing [!DNL Content]
 description: Scopri come trovare, modificare, riutilizzare e condividere le risorse approvate dal brand in un portale intuitivo.
 feature: Attributes, Content, Templates
 exl-id: e44e9c2d-33ee-4621-93a2-27f49478a8c9
-source-git-commit: 54fd20fec553b545b2f5d64cdf9327098b16580f
+source-git-commit: 378e2b2d1b7242e8193b5e376c1e328272b11fa5
 workflow-type: tm+mt
-source-wordcount: '300'
+source-wordcount: '309'
 ht-degree: 1%
 
 ---
@@ -55,6 +55,16 @@ In GenStudio for Performance Marketing [!DNL Content] è disponibile una posizio
       <p>
          <a href="../content/use-templates.md#upload-a-template">
          <strong>Carica modello</strong>
+         </a>
+      </p>
+   </td>
+   <td align="center" valign="top" width="100">
+      <a href="../content/asset-details.md#edit-in-express">
+         <img alt="Modifica in Adobe Express" src="../../assets/icons/icon-editExpress.png">
+      </a>
+      <p>
+         <a href="../content/asset-details.md#edit-in-express">
+         <strong>Modifica risorse in Adobe Express</strong>
          </a>
       </p>
    </td>
