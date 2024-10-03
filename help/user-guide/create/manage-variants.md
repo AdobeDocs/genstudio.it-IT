@@ -2,9 +2,9 @@
 title: Gestisci varianti
 description: Personalizza e migliora le varianti e le risorse generate in base alle tue esigenze di marketing digitale.
 feature: Content, Assets, Experiences
-source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
+source-git-commit: c1cc90b4c80b6b754b34ac609e8e94b799386fad
 workflow-type: tm+mt
-source-wordcount: '880'
+source-wordcount: '995'
 ht-degree: 0%
 
 ---
@@ -97,9 +97,28 @@ Le dimensioni e le proporzioni disponibili sono:
 
 1. Fare clic su **[!UICONTROL Duplica e ridimensiona]**.
 
-[!DNL Create] crea una copia di ogni variante in base alle nuove proporzioni selezionate. Tutte le varianti, comprese quelle nelle proporzioni iniziali, sono presenti nell’area di lavoro.
+   [!DNL Create] crea una copia di ogni variante in base alle nuove proporzioni selezionate. Tutte le varianti, comprese quelle nelle proporzioni iniziali, sono presenti nell’area di lavoro.
 
-Ad esempio, se all&#39;inizio generi quattro varianti in una proporzione 1:1 e poi modifichi le proporzioni in 4:5, ora nell&#39;area di lavoro sono disponibili _otto_ varianti totali.
+   Ad esempio, se all&#39;inizio generi quattro varianti in una proporzione 1:1 e poi modifichi le proporzioni in 4:5, ora nell&#39;area di lavoro sono disponibili _otto_ varianti totali.
+
+## Scambia immagine
+
+Puoi aggiungere o scambiare immagini nelle varianti generate direttamente dall’area di lavoro.
+
+**Per aggiungere o scambiare immagini in una variante**:
+
+1. Dopo aver generato un set di varianti, fai clic su una risorsa di immagine.
+
+   Se nella variante non è attualmente presente una risorsa immagine, fai clic sull’area della risorsa immagine.
+
+1. Per selezionare una risorsa immagine già pubblicata in [!DNL Content]:
+   1. Fai clic su **[!UICONTROL Seleziona dal contenuto]**. Utilizza i filtri per restringere ulteriormente i risultati della ricerca.
+   1. Fai clic su **[!UICONTROL Usa]**
+1. Per caricare una risorsa immagine:
+   1. Fai clic su **[!UICONTROL Carica nuova immagine]** per sfogliare i file e scegliere le risorse da utilizzare. Oltre a sfogliare il dispositivo, è possibile importare da Microsoft OneDrive o Dropbox.
+   1. Fare clic su **[!UICONTROL Aggiungi Assets]**.
+
+   Le immagini vengono aggiunte o scambiate nella variante applicabile.
 
 ## Anteprima per dispositivo
 
@@ -119,7 +138,7 @@ Elimina varianti inutili in modo che l’area di lavoro mostri solo le varianti 
 
    La variante viene evidenziata e viene visualizzato un menu di scelta rapida.
 
-1. Seleziona **[!UICONTROL Elimina]** dalle opzioni di menu disponibili.
+1. Seleziona **[!UICONTROL Elimina]** dalle opzioni disponibili.
 
    La variante viene eliminata.
 
