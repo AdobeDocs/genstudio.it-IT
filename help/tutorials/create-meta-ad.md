@@ -7,7 +7,7 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c0fd13e26f44c44c4d63bf285c421ef3dd5da975
+source-git-commit: 06c8884a8e1ac4d02b73931fdc4be3625565c70a
 workflow-type: tm+mt
 source-wordcount: '952'
 ht-degree: 0%
@@ -88,7 +88,7 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
 
 ## Verificare l’allineamento del brand
 
-Per ottimizzare gli annunci generati e garantire una rigorosa aderenza all&#39;identità del brand, sfrutta la potenza del [_controllo delle linee guida per il brand_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check), che fornisce un riepilogo dell&#39;allineamento del brand per una variante, e del [_pannello di convalida del brand_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel), che mostra dettagli completi sulla convalida del brand e illustra le aree di miglioramento.
+Per ottimizzare gli annunci generati e garantire una rigorosa aderenza all&#39;identità del brand, sfrutta la potenza del [_controllo delle linee guida per il brand_](/help/user-guide/guidelines/brand-validation.md#brand-guidelines-check), che fornisce un riepilogo dell&#39;allineamento del brand per una variante, e del pannello [_Convalida del brand_](/help/user-guide/guidelines/brand-validation.md#brand-validation-panel), che mostra dettagli completi sulla convalida del brand e illustra le aree di miglioramento.
 
 **Per verificare l&#39;allineamento del brand**:
 
