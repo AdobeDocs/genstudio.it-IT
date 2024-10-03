@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 42111bbf-70cd-4fd2-a7a9-15abe072d720
-source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '1048'
+source-wordcount: '1074'
 ht-degree: 0%
 
 ---
@@ -90,6 +90,10 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
 * **Per [ritagliare o riposizionare le immagini](/help/user-guide/create/manage-variants.md#crop-assets)**, posizionare il puntatore del mouse su un&#39;immagine, fare clic sull&#39;icona di ritaglio visualizzata e modificare le dimensioni e il posizionamento dell&#39;immagine.
 * **Per [eliminare un Meta Ad](/help/user-guide/create/manage-variants.md#delete-variant)**, fai clic sul titolo dell&#39;annuncio (ad esempio, &quot;Meta 4&quot;) e fai clic su **[!UICONTROL Elimina variante]**.
+
+## Invia feedback generazione
+
+Per [inviare un feedback](/help/user-guide/create/manage-variants.md#generation-feedback) sulla qualità dell&#39;output di generazione, fare clic sull&#39;icona delle opzioni (tre punti) e selezionare **[!UICONTROL Output valido]** o **[!UICONTROL Output insufficiente]**.
 
 ## Verificare l’allineamento del brand
 

@@ -7,9 +7,9 @@ level: Beginner
 type: Tutorial
 recommendations: noDisplay
 exl-id: 34446202-da98-45ff-869a-b43496a477f8
-source-git-commit: c16d9f611348d0eaf3a1d4af4948196d3a06b0a1
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '908'
 ht-degree: 0%
 
 ---
@@ -80,9 +80,13 @@ Prima di selezionare gli elementi da inviare per l&#39;approvazione o la pubblic
 **Per rivedere le varianti generate**:
 
 * **Per [modificare il nome della bozza e-mail](/help/user-guide/create/manage-variants.md#change-draft-name)**, fai clic sul titolo _Bozza senza titolo_ nella parte superiore dell&#39;area di lavoro e immetti un nuovo titolo.
-* **Per [modificare manualmente un&#39;e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)**, fare doppio clic in uno dei campi di testo modificabili (ad esempio l&#39;oggetto, l&#39;intestazione o il corpo del testo) e modificarlo in base alle esigenze.
+* **Per [modificare manualmente un&#39;e-mail](/help/user-guide/create/manage-variants.md#manually-edit-text)**, fare doppio clic in uno dei campi di testo modificabili (ad esempio l&#39;oggetto, l&#39;intestazione o la copia del corpo) e modificarlo in base alle esigenze
 <!-- * **To [regenerate a section of a variant](/help/user-guide/create/manage-variants.md#re-generate-sections)**, click an editable text field and use the _[!UICONTROL Suggested edits]_ options or enter a new prompt and click **[!UICONTROL Generate]**. -->
-* **Per [eliminare un&#39;e-mail](/help/user-guide/create/manage-variants.md#delete-variant)**, fare clic per selezionare il titolo dell&#39;e-mail (ad esempio, &quot;E-mail 1/4&quot;) e fare clic su **[!UICONTROL Elimina variante]**.
+* **Per [eliminare un&#39;e-mail](/help/user-guide/create/manage-variants.md#delete-variant)**, fai clic sull&#39;icona delle opzioni (tre punti) per una variante e fai clic su **[!UICONTROL Elimina]**.
+
+## Invia feedback generazione
+
+Per [inviare un feedback](/help/user-guide/create/manage-variants.md#generation-feedback) sulla qualità dell&#39;output di generazione, fare clic sull&#39;icona delle opzioni (tre punti) e selezionare **[!UICONTROL Output valido]** o **[!UICONTROL Output insufficiente]**.
 
 ## Anteprima per dispositivo
 

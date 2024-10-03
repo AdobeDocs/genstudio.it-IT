@@ -2,9 +2,9 @@
 title: Gestisci varianti
 description: Personalizza e migliora le varianti e le risorse generate in base alle tue esigenze di marketing digitale.
 feature: Content, Assets, Experiences
-source-git-commit: 67a3fe86facf0fef12f1fd63d8cf79132b0f42b0
+source-git-commit: 8ca3cf0706e5b4646b3c95bbfd4bf6f9dd3c9f6b
 workflow-type: tm+mt
-source-wordcount: '694'
+source-wordcount: '880'
 ht-degree: 0%
 
 ---
@@ -115,7 +115,7 @@ Elimina varianti inutili in modo che l’area di lavoro mostri solo le varianti 
 
 **Per eliminare una variante generata**:
 
-1. Dopo aver generato un set di varianti, fai clic sul nome sopra una variante.
+1. Dopo aver generato un set di varianti, fai clic sull’icona delle opzioni (tre punti) sopra una variante.
 
    La variante viene evidenziata e viene visualizzato un menu di scelta rapida.
 
@@ -128,3 +128,27 @@ Elimina varianti inutili in modo che l’area di lavoro mostri solo le varianti 
 Utilizza il _[!UICONTROL controllo delle linee guida per i marchi]_ e il _[!UICONTROL pannello di convalida dei marchi]_ per mantenere la coerenza dell&#39;identità del marchio e l&#39;allineamento delle varianti.
 
 Consulta [Convalida marchio](/help/user-guide/guidelines/brand-validation.md#improve-brand-alignment).
+
+## Feedback sulla generazione
+
+Per migliorare il processo di generazione dei contenuti, è possibile inviare feedback sulla qualità delle risorse allineate al brand generate. Indicare se i risultati sono di alta o bassa qualità aiuta a migliorare la qualità complessiva dei contenuti e la sicurezza degli utenti di GenStudio for Performance Marketing.
+
+Il feedback sulla generazione è applicabile a una singola variante, non per il set di varianti raccolto.
+
+**Per inviare il feedback di generazione**:
+
+1. Dopo aver generato un set di varianti, fai clic sull’icona delle opzioni (tre punti) sopra una variante.
+
+   La variante viene evidenziata e viene visualizzato un menu di scelta rapida.
+
+1. Seleziona **[!UICONTROL Output valido]** o **[!UICONTROL Output insufficiente]**.
+
+   Appare un pop-up di feedback per raccogliere ulteriori informazioni. Il contenuto generato e le informazioni sulla richiesta sono inclusi nel feedback.
+
+1. Aggiungi le seguenti informazioni nel pop-up di feedback:
+   1. Seleziona l&#39;opzione _[!UICONTROL Includi anche il contenuto di riferimento e i dati dei livelli]_ per includere tali informazioni di riferimento aggiuntive nel feedback raccolto.
+   1. Da _[!UICONTROL Cosa ha funzionato bene?]_ o _[!UICONTROL Si è verificato un errore?]_, selezionare le opzioni che descrivono gli elementi che rendono la generazione di contenuti di qualità elevata o scarsa.
+   1. Aggiungi altre informazioni utili o correlate nel campo _[!UICONTROL Note]_.
+1. Fai clic su **[!UICONTROL Invia]**.
+
+   Viene visualizzato un banner per confermare il feedback inviato.
