@@ -17,4 +17,4 @@ ht-degree: 12%
 + [Tutorials GenStudio for Performance Marketing](tutorials.md)
 + [Creare un’esperienza e-mail](create-email-experience.md)
 + [Creare un’esperienza di annuncio multimediale](create-meta-ad.md)
-+ [Guida utente di GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html)
++ [Guida utente di GenStudio for Performance Marketing](https://experienceleague.adobe.com/docs/genstudio/user-guide/home.html?lang=it)
