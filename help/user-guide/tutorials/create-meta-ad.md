@@ -26,7 +26,7 @@ Per iniziare a generare una nuova esperienza di annuncio multimediale, utilizza 
 
 **Per scegliere un Meta Ad Template**:
 
-1. In _[!DNL Create]_, fai clic su **[!UICONTROL Annunci metadati]**in_&quot;Cosa vuoi creare oggi?&quot;_sezione.
+1. In _[!DNL Create]_, fai clic su **[!UICONTROL Annunci metadati]**&#x200B;in_&quot;Cosa vuoi creare oggi?&quot;_sezione.
 1. Utilizza l&#39;opzione di ricerca, adiacente a _Filtro_, per trovare un modello di Meta Ad specifico.
 1. Fare clic per selezionare un modello e fare clic su **[!UICONTROL Usa]**.
 

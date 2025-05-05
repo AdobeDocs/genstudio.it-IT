@@ -26,7 +26,7 @@ Per creare una nuova esperienza e-mail, utilizza un modello disponibile per forn
 
 **Per scegliere un modello di posta elettronica**:
 
-1. In _[!DNL Create]_, fare clic su **[!UICONTROL E-mail]**in_&quot;Cosa si desidera creare oggi?&quot;_sezione.
+1. In _[!DNL Create]_, fare clic su **[!UICONTROL E-mail]**&#x200B;in_&quot;Cosa si desidera creare oggi?&quot;_sezione.
 1. Utilizza l&#39;opzione di ricerca, accanto a _Filtro_, per trovare un modello e-mail specifico.
 1. Fai clic su per selezionare un modello di e-mail e fai clic su **[!UICONTROL Usa]**.
 

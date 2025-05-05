@@ -85,11 +85,11 @@ Prima di pubblicare il tuo marchio, fai clic sulle sezioni _Linee guida per la v
 
 Quando il brand viene pubblicato, viene visualizzato un banner che conferma che il brand è pronto all&#39;uso: &quot;*Brand pubblicato e disponibile all&#39;uso*&quot;.
 
-Il marchio pubblicato è ora disponibile per l&#39;utilizzo in _[!DNL Create]_o_[!DNL Content]_.
+Il marchio pubblicato è ora disponibile per l&#39;utilizzo in _[!DNL Create]_&#x200B;o_[!DNL Content]_.
 
 ### Gestisci [!DNL Brands]
 
-Nella home di _[!DNL Brands]_, puoi fare clic per **aprire un marchio già creato**per modificarlo o rivederlo, oppure **rinominarlo**o **eliminare un marchio**dall&#39;elenco dal menu azioni [!DNL Brands]:
+Nella home di _[!DNL Brands]_, puoi fare clic per **aprire un marchio già creato**&#x200B;per modificarlo o rivederlo, oppure **rinominarlo**&#x200B;o **eliminare un marchio**&#x200B;dall&#39;elenco dal menu azioni [!DNL Brands]:
 
 * Fai clic su una tessera del brand per aprire un brand.
 * Selezionare **[!UICONTROL Rinomina]** dal menu azioni [!DNL Brands] per rinominare un utente tipo esistente.
@@ -159,11 +159,11 @@ Fai clic su _Preferenze di messaggistica_ e immetti i dettagli di messaggistica 
 
 ### Gestisci [!DNL Products]
 
-Nella home di _[!DNL Products]_, puoi **aprire un[!DNL Product]**già creato per modificarlo o rivederlo, oppure **eliminare un prodotto**dall&#39;elenco:
+Nella home di _[!DNL Products]_, puoi **aprire un[!DNL Product]**&#x200B;già creato per modificarlo o rivederlo, oppure **eliminare un prodotto**&#x200B;dall&#39;elenco:
 
 * Seleziona **[!UICONTROL Apri]** dal menu Azioni [!DNL Products] per rivedere e rivedere un prodotto esistente.
 * Selezionare **[!UICONTROL Elimina]** dal menu azioni [!DNL Products] per **Eliminare** un prodotto.
-* 
+* &#x200B;
    * Selezionare **[!UICONTROL Rinomina]** dal menu Azioni [!DNL Products] per **Rinomina** un prodotto.
 
 ## Aggiungi [!DNL Personas]
@@ -230,7 +230,7 @@ Puoi aggiungere manualmente i dettagli dell&#39;utente tipo, invece di caricare 
 
 ### Gestisci [!DNL Personas]
 
-Nella home di _[!DNL Personas]_, puoi **aprire un[!DNL Persona]**già creato per modificarlo o rivederlo, oppure **eliminare un utente tipo**dall&#39;elenco:
+Nella home di _[!DNL Personas]_, puoi **aprire un[!DNL Persona]**&#x200B;già creato per modificarlo o rivederlo, oppure **eliminare un utente tipo**&#x200B;dall&#39;elenco:
 
 * Seleziona **[!UICONTROL Apri]** dal menu azioni [!DNL Personas] per rivedere e rivedere un utente tipo esistente.
 * Selezionare **[!UICONTROL Elimina]** dal menu azioni [!DNL Personas] per **Eliminare** un utente tipo.
